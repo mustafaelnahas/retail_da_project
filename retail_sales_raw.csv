@@ -1,0 +1,1516 @@
+Transaction_ID,Order_Date,Branch,Category,Product,Quantity,Unit_Price_EGP,Discount_Rate,Sales_EGP,Cost_EGP,Profit_EGP,Payment_Method,Customer_Type
+TXN-20001,2026-07-15,Main Branch,Drinkware,Travel Mug,3,198.0,0.2,475.2,409.86,65.34,Instapay,Walk-in
+TXN-20002,2026-03-18,Main Branch,Kitchen Storage,Storage Jar,2,76.5,0.15,130.05,111.68,18.37,Cash,Walk-in
+TXN-20003,2026-08-22,Main Branch,Cleaning Tools,Microfiber Cloths,2,68.25,0.2,109.2,102.38,6.82,Cash,Walk-in
+TXN-20004,2026-08-05,Main Branch,Cookware,Cooking Pot,2,585.0,0.2,936.0,842.4,93.6,Mobile Wallet,Online Order
+TXN-20005,2026-08-05,University Branch,Kitchen Storage,Lunch Box,1,132.0,0.0,132.0,99.0,33.0,Cash,Returning
+TXN-20006,2026-08-14,Market Branch,Cookware,Frying Pan,1,380.0,0.15,323.0,258.4,64.6,Cash,Walk-in
+TXN-20007,2026-03-26,Market Branch,Cookware,Nonstick Tray,1,189.0,0.0,189.0,143.64,45.36,Mobile Wallet,Online Order
+TXN-20008,2026-04-08,University Branch,Cleaning Tools,Microfiber Cloths,2,65.0,,104.0,97.5,6.5,Cash,Walk-in
+TXN-20009,2026-09-01,Main Branch,Cleaning Tools,Microfiber Cloths,1,65.0,0.0,65.0,48.75,16.25,,Walk-in
+TXN-20010,2026-03-22,University Branch,Kitchen Storage,Spice Rack,2,242.0,0.15,411.4,338.8,72.6,Cash,Online Order
+TXN-20011,2026-08-13,Main Branch,Kitchen Storage,Storage Jar,2,85.0,0.0,170.0,124.1,45.9,Cash,Walk-in
+TXN-20012,2026-01-23,Main Branch,Cleaning Tools,Dish Brush,4,49.5,0.1,178.2,154.44,23.76,Cash,Online Order
+TXN-20013,2026-02-24,University Branch,Kitchen Storage,Lunch Box,5,120.0,0.05,570.0,450.0,120.0,Mobile Wallet,Returning
+TXN-20014,2026-02-27,Market Branch,Drinkware,Water Bottle,1,85.5,0.05,81.22,63.27,17.95,Cash,Returning
+TXN-20015,2026-04-29,University Branch,Drinkware,Glass Set,1,0.0,0.2,184.8,180.18,4.62,Card,Walk-in
+TXN-20016,2026-09-16,University Branch,Kitchen Storage,Spice Rack,1,242.0,0.15,205.7,169.4,36.3,Cash,Returning
+TXN-20017,2026-02-01,Market Branch,Cleaning Tools,Spray Bottle,1,35.0,0.0,35.0,25.2,9.8,Card,Walk-in
+TXN-20018,2026-03-15,Market Branch,Cleaning Tools,Dish Brush,5,40.5,0.2,162.0,157.95,4.05,Cash,Online Order
+TXN-20019,2026-02-16,Main Branch,Kitchen Storage,Lunch Box,4,120.0,0.15,408.0,360.0,48.0,Cash,Online Order
+TXN-20020,2026-06-14,University Branch,Kitchen Storage,Lunch Box,2,120.0,0.15,204.0,180.0,24.0,Instapay,Walk-in
+TXN-20021,2026-08-16,Market Branch,Kitchen Storage,Spice Rack,2,231.0,0.15,392.7,323.4,69.3,Cash,Returning
+TXN-20022,2026-04-10,Main Branch,Cookware,Nonstick Tray,4,180.0,0.0,720.0,547.2,172.8,Card,Walk-in
+TXN-20023,2026-01-27,University Branch,Cleaning Tools,Mop Set,1,286.0,0.0,286.0,200.2,85.8,Cash,Business Customer
+TXN-20024,2026-06-14,University Branch,Cookware,Frying Pan,4,399.0,0.2,1276.8,1085.28,191.52,Cash,
+TXN-20025,2026-06-06,Main Branch,Drinkware,Glass Set,2,231.0,0.1,415.8,360.36,55.44,Instapay,Walk-in
+TXN-20026,2026-09-06,Main Branch,Drinkware,Water Bottle,1,99.75,0.0,99.75,73.81,25.94,Mobile Wallet,Online Order
+TXN-20027,2026-04-07,Main Branch,Cookware,Nonstick Tray,1,180.0,0.1,162.0,136.8,25.2,Cash,Walk-in
+TXN-20028,2026-05-19,University Branch,Kitchen Storage,Spice Rack,3,231.0,0.15,589.05,485.1,103.95,Mobile Wallet,Online Order
+TXN-20029,2026-04-07,University Branch,Cookware,Cooking Pot,4,585.0,0.2,1872.0,1684.8,187.2,Card,Walk-in
+TXN-20030,2026-03-25,Main Branch,Drinkware,Glass Set,1,189.0,0.0,189.0,147.42,41.58,Mobile Wallet,Walk-in
+TXN-20031,2026-06-24,University Branch,Cookware,Kitchen Knife Set,1,304.5,0.05,289.27,197.93,91.34,Instapay,Returning
+TXN-20032,2026-05-28,Market Branch,Drinkware,Travel Mug,1,180.0,0.0,180.0,124.2,55.8,Mobile Wallet,Business Customer
+TXN-20033,2026-05-04,Main Branch,Cleaning Tools,Dish Brush,2,40.5,0.1,72.9,63.18,9.72,Cash,Walk-in
+TXN-20034,2026-05-05,University Branch,Kitchen Storage,Lunch Box,5,120.0,0.0,600.0,450.0,150.0,Cash,Business Customer
+TXN-20035,2026-04-10,University Branch,Cleaning Tools,Spray Bottle,4,36.75,0.0,147.0,105.84,41.16,Card,Walk-in
+TXN-20036,2026-06-13,University Branch,Cleaning Tools,Spray Bottle,3,38.5,0.1,103.95,83.16,20.79,Cash,Walk-in
+TXN-20037,2026-05-07,Main Branch,Cookware,Kitchen Knife Set,1,261.0,0.05,247.95,169.65,78.3,Cash,Online Order
+TXN-20038,2026-09-02,Main Branch,Kitchen Storage,Spice Rack,2,242.0,0.0,484.0,338.8,145.2,Card,Walk-in
+TXN-20039,2026-04-08,University Branch,Cleaning Tools,Spray Bottle,3,35.0,0.2,84.0,75.6,8.4,Cash,Business Customer
+TXN-20040,2026-06-17,University Branch,Cookware,Kitchen Knife Set,1,261.0,0.0,261.0,169.65,91.35,Cash,Online Order
+TXN-20041,2026-01-28,Main Branch,Cleaning Tools,Mop Set,3,260.0,0.0,780.0,546.0,234.0,Cash,Returning
+TXN-20042,2026-06-21,Main Branch,Cookware,Nonstick Tray,2,198.0,0.0,396.0,300.96,95.04,Card,Walk-in
+TXN-20043,2026-03-03,University Branch,Kitchen Storage,Storage Jar,5,89.25,0.05,423.94,325.75,98.19,Card,Returning
+TXN-20044,2026-09-24,Market Branch,Drinkware,Glass Set,2,210.0,0.2,336.0,327.6,8.4,Card,Business Customer
+TXN-20045,2026-01-13,University Branch,Kitchen Storage,Spice Rack,2,220.0,0.1,396.0,308.0,88.0,Instapay,Online Order
+TXN-20046,2026-07-08,Main Branch,Cookware,Cooking Pot,1,650.0,0.05,617.5,468.0,149.5,Mobile Wallet,Walk-in
+TXN-20047,2026-09-08,University Branch,Kitchen Storage,Storage Jar,4,89.25,0.0,357.0,260.6,96.4,Cash,Returning
+TXN-20048,2026-07-10,University Branch,Cookware,Kitchen Knife Set,1,261.0,0.0,261.0,169.65,91.35,Card,Walk-in
+TXN-20049,2026-02-18,University Branch,Cleaning Tools,Mop Set,1,260.0,0.0,260.0,182.0,78.0,Cash,Online Order
+TXN-20050,2026-09-20,Market Branch,Cleaning Tools,Dish Brush,5,45.0,0.0,225.0,175.5,49.5,Cash,Online Order
+TXN-20051,2026-07-23,University Branch,Cleaning Tools,Microfiber Cloths,1,68.25,0.0,68.25,51.19,17.06,Instapay,Online Order
+TXN-20052,2026-08-01,Market Branch,Cookware,Cooking Pot,1,650.0,0.2,520.0,468.0,52.0,Cash,Walk-in
+TXN-20053,2026-04-20,Main Branch,Drinkware,Thermal Flask,1,320.0,0.0,320.0,214.4,105.6,Card,Returning
+TXN-20054,2026-07-28,University Branch,Cookware,Frying Pan,1,418.0,0.15,355.3,284.24,71.06,Card,Online Order
+TXN-20055,2026-08-24,University Branch,Cookware,Kitchen Knife Set,1,261.0,0.0,261.0,169.65,91.35,Mobile Wallet,Walk-in
+TXN-20056,2026-09-13,University Branch,Cookware,Nonstick Tray,1,189.0,0.0,189.0,143.64,45.36,Card,Online Order
+TXN-20057,2026-03-22,Main Branch,Kitchen Storage,Lunch Box,4,126.0,0.2,403.2,378.0,25.2,Mobile Wallet,Walk-in
+TXN-20058,2026-01-18,University Branch,Kitchen Storage,Lunch Box,5,108.0,0.0,540.0,405.0,135.0,Cash,Walk-in
+TXN-20059,2026-02-27,Main Branch,Kitchen Storage,Spice Rack,4,231.0,0.1,831.6,646.8,184.8,Card,Online Order
+TXN-20060,2026-02-12,University Branch,Kitchen Storage,Food Container Set,4,140.0,0.05,532.0,425.6,106.4,Cash,Returning
+TXN-20061,2026-06-20,Main Branch,Kitchen Storage,Spice Rack,4,198.0,0.05,752.4,554.4,198.0,Cash,Online Order
+TXN-20062,2026-05-11,University Branch,Cookware,Cooking Pot,1,650.0,0.05,617.5,468.0,149.5,Cash,Returning
+TXN-20063,2026-04-23,Main Branch,Cookware,Cooking Pot,3,650.0,0.1,1755.0,1404.0,351.0,Cash,Online Order
+TXN-20064,2026-02-23,Main Branch,Cleaning Tools,Dish Brush,1,49.5,0.0,49.5,38.61,10.89,Instapay,Online Order
+TXN-20065,2026-04-13,University Branch,Drinkware,Travel Mug,2,162.0,0.0,324.0,223.56,100.44,Cash,Online Order
+TXN-20066,2026-05-20,University Branch,Cookware,Nonstick Tray,2,162.0,0.0,324.0,246.24,77.76,Card,Business Customer
+TXN-20067,2026-07-17,University Branch,Cleaning Tools,Mop Set,3,260.0,0.15,663.0,546.0,117.0,Cash,Walk-in
+TXN-20068,2026-03-03,Market Branch,Cookware,Cooking Pot,5,650.0,0.0,3250.0,2340.0,910.0,Mobile Wallet,Returning
+TXN-20069,2026-08-30,Market Branch,Kitchen Storage,Spice Rack,1,220.0,0.0,220.0,154.0,66.0,Cash,Online Order
+TXN-20070,2026-06-12,Main Branch,Kitchen Storage,Lunch Box,1,120.0,0.1,108.0,90.0,18.0,Cash,Returning
+TXN-20071,2026-08-14,University Branch,Cookware,Nonstick Tray,4,198.0,0.1,712.8,601.92,110.88,Cash,Online Order
+TXN-20072,2026-03-24,Market Branch,Drinkware,Water Bottle,1,99.75,0.0,99.75,73.81,25.94,Cash,Walk-in
+TXN-20073,2026-02-07,Market Branch,Cleaning Tools,Dish Brush,2,45.0,0.2,72.0,70.2,1.8,Instapay,Walk-in
+TXN-20074,2026-06-24,Market Branch,Cleaning Tools,Mop Set,1,260.0,0.2,208.0,182.0,26.0,Cash,Walk-in
+TXN-20075,2026-06-26,Main Branch,Cleaning Tools,Mop Set,2,260.0,0.0,520.0,364.0,156.0,Mobile Wallet,Walk-in
+TXN-20076,2026-06-28,Market Branch,Cleaning Tools,Dish Brush,1,45.0,0.0,45.0,35.1,9.9,Card,Returning
+TXN-20077,2026-05-01,Market Branch,Kitchen Storage,Lunch Box,4,120.0,0.05,456.0,360.0,96.0,Card,Business Customer
+TXN-20078,2026-02-13,Main Branch,Cookware,Kitchen Knife Set,5,290.0,0.2,1160.0,942.5,217.5,Cash,Online Order
+TXN-20079,2026-03-31,Market Branch,Cookware,Nonstick Tray,1,189.0,0.0,189.0,143.64,45.36,Card,Walk-in
+TXN-20080,2026-03-23,University Branch,Kitchen Storage,Food Container Set,2,140.0,0.15,238.0,212.8,25.2,Cash,Online Order
+TXN-20081,2026-01-20,Market Branch,Cookware,Frying Pan,2,380.0,0.2,608.0,516.8,91.2,Mobile Wallet,Online Order
+TXN-20082,2026-06-25,Market Branch,Cookware,Cooking Pot,2,650.0,0.0,1300.0,936.0,364.0,Cash,Returning
+TXN-20083,2026-03-17,Market Branch,Kitchen Storage,Storage Jar,5,85.0,0.1,382.5,310.25,72.25,Cash,Walk-in
+TXN-20084,2026-02-26,Market Branch,Cleaning Tools,Dish Brush,3,40.5,0.0,121.5,94.77,26.73,Cash,Business Customer
+TXN-20085,2026-07-17,Market Branch,Cookware,Kitchen Knife Set,3,290.0,0.15,739.5,565.5,174.0,Card,Walk-in
+TXN-20086,2026-01-11,University Branch,Kitchen Storage,Spice Rack,1,242.0,0.05,229.9,169.4,60.5,Cash,Returning
+TXN-20087,2026-06-04,Main Branch,Kitchen Storage,Lunch Box,1,126.0,0.05,119.7,94.5,25.2,Cash,Walk-in
+TXN-20088,2026-08-20,Main Branch,Drinkware,Travel Mug,2,180.0,0.1,324.0,248.4,75.6,Card,
+TXN-20089,2026-01-03,Main Branch,Cookware,Frying Pan,2,399.0,0.15,678.3,542.64,135.66,Cash,Walk-in
+TXN-20090,2026-03-06,University Branch,Kitchen Storage,Spice Rack,1,231.0,0.2,184.8,161.7,23.1,Mobile Wallet,Walk-in
+TXN-20091,2026-07-31,Main Branch,Drinkware,Glass Set,2,220.5,0.0,441.0,343.98,97.02,Card,Returning
+TXN-20092,2026-03-09,Main Branch,Cookware,Kitchen Knife Set,1,261.0,0.15,221.85,169.65,52.2,Cash,Walk-in
+TXN-20093,2026-07-31,Market Branch,Cleaning Tools,Mop Set,3,286.0,0.0,858.0,600.6,257.4,Cash,Online Order
+TXN-20094,2026-03-23,Main Branch,Drinkware,Thermal Flask,4,320.0,0.1,1152.0,857.6,294.4,Card,Returning
+TXN-20095,2026-04-29,University Branch,Cookware,Frying Pan,5,342.0,0.05,1624.5,1162.8,461.7,,Online Order
+TXN-20096,2026-06-15,University Branch,Kitchen Storage,Storage Jar,5,85.0,0.0,425.0,310.25,114.75,Mobile Wallet,Online Order
+TXN-20097,2026-05-13,Market Branch,Cleaning Tools,Mop Set,1,234.0,0.1,210.6,163.8,46.8,Card,Returning
+TXN-20098,2026-03-29,University Branch,Drinkware,Travel Mug,5,162.0,0.0,810.0,558.9,251.1,Mobile Wallet,Walk-in
+TXN-20099,2026-04-05,Main Branch,Cookware,Frying Pan,1,418.0,0.0,418.0,284.24,133.76,Cash,Walk-in
+TXN-20100,2026-09-11,Main Branch,Cleaning Tools,Dish Brush,4,47.25,0.2,151.2,147.44,3.76,Cash,Walk-in
+TXN-20101,2026-05-15,University Branch,Drinkware,Glass Set,2,189.0,0.05,359.1,294.84,64.26,Cash,Business Customer
+TXN-20102,2026-07-04,University Branch,Kitchen Storage,Lunch Box,1,126.0,0.0,126.0,94.5,31.5,Instapay,Online Order
+TXN-20103,2026-04-07,University Branch,Drinkware,Thermal Flask,2,320.0,0.15,544.0,428.8,115.2,Mobile Wallet,Walk-in
+TXN-20104,2026-03-27,Main Branch,Cookware,Nonstick Tray,3,162.0,0.0,486.0,369.36,116.64,Cash,Online Order
+TXN-20105,2026-03-16,Main Branch,Cleaning Tools,Microfiber Cloths,5,58.5,0.0,292.5,219.4,73.1,Cash,Returning
+TXN-20106,2026-07-31,University Branch,Drinkware,Glass Set,3,210.0,0.0,630.0,491.4,138.6,Mobile Wallet,Walk-in
+TXN-20107,2026-06-13,University Branch,Drinkware,Travel Mug,2,198.0,0.2,316.8,273.24,43.56,Cash,Online Order
+TXN-20108,2026-06-02,University Branch,Kitchen Storage,Lunch Box,5,120.0,0.0,600.0,450.0,150.0,Instapay,Online Order
+TXN-20109,2026-05-22,Main Branch,Cookware,Nonstick Tray,4,198.0,0.0,792.0,601.92,190.08,Cash,Walk-in
+TXN-20110,2026-08-09,Main Branch,Cleaning Tools,Spray Bottle,4,35.0,0.0,140.0,100.8,39.2,Cash,Online Order
+TXN-20111,2026-06-29,University Branch,Drinkware,Thermal Flask,4,288.0,0.0,1152.0,771.84,380.16,Mobile Wallet,Business Customer
+TXN-20112,2026-04-04,University Branch,Kitchen Storage,Food Container Set,3,147.0,0.2,352.8,335.16,17.64,Cash,Returning
+TXN-20113,2026-08-06,University Branch,Cleaning Tools,Microfiber Cloths,5,71.5,0.2,286.0,268.1,17.9,Cash,Returning
+TXN-20114,2026-03-01,Market Branch,Cookware,Cooking Pot,3,715.0,0.0,2145.0,1544.4,600.6,Mobile Wallet,Returning
+TXN-20115,2026-04-01,Main Branch,Kitchen Storage,Food Container Set,1,140.0,0.2,112.0,106.4,5.6,Card,Walk-in
+TXN-20116,2026-02-26,University Branch,Cookware,Cooking Pot,1,650.0,0.05,617.5,468.0,149.5,Cash,Walk-in
+TXN-20117,2026-08-14,University Branch,Cookware,Frying Pan,3,380.0,0.0,1140.0,775.2,364.8,Card,Walk-in
+TXN-20118,2026-05-15,University Branch,Cookware,Kitchen Knife Set,1,261.0,0.15,221.85,169.65,52.2,Mobile Wallet,Walk-in
+TXN-20119,2026-06-20,Market Branch,Kitchen Storage,Storage Jar,3,76.5,0.0,229.5,167.52,61.98,Instapay,Walk-in
+TXN-20120,2026-07-15,Market Branch,Cookware,Kitchen Knife Set,2,290.0,0.2,464.0,377.0,87.0,Mobile Wallet,Returning
+TXN-20121,2026-08-18,Main Branch,Cleaning Tools,Dish Brush,4,45.0,0.0,180.0,140.4,39.6,Cash,Walk-in
+TXN-20122,2026-05-05,Market Branch,Cookware,Frying Pan,1,399.0,0.0,399.0,271.32,127.68,Cash,Online Order
+TXN-20123,2026-03-20,University Branch,Drinkware,Thermal Flask,2,352.0,0.1,633.6,471.68,161.92,Cash,Online Order
+TXN-20124,2026-08-29,Main Branch,Cleaning Tools,Spray Bottle,1,38.5,0.15,32.72,27.72,5.0,Instapay,Business Customer
+TXN-20125,2026-07-14,University Branch,Cleaning Tools,Microfiber Cloths,2,68.25,0.1,122.85,102.38,20.47,Instapay,Online Order
+TXN-20126,2026-09-18,University Branch,Cookware,Cooking Pot,2,650.0,0.0,1300.0,936.0,364.0,Mobile Wallet,Online Order
+TXN-20127,2026-05-25,Main Branch,Kitchen Storage,Storage Jar,3,85.0,0.05,242.25,186.15,56.1,Card,Walk-in
+TXN-20128,2026-01-11,Market Branch,Kitchen Storage,Food Container Set,3,154.0,0.1,415.8,351.12,64.68,Cash,Returning
+TXN-20129,2026-04-24,Main Branch,Cookware,Kitchen Knife Set,3,304.5,0.0,913.5,593.79,319.71,Mobile Wallet,Walk-in
+TXN-20130,2026-09-05,Main Branch,Cookware,Kitchen Knife Set,1,319.0,0.0,319.0,207.35,111.65,Card,
+TXN-20131,2026-07-20,Main Branch,Cookware,Kitchen Knife Set,1,304.5,0.0,304.5,197.93,106.57,Cash,Walk-in
+TXN-20132,2026-05-13,University Branch,Kitchen Storage,Spice Rack,1,242.0,0.15,205.7,169.4,36.3,Mobile Wallet,Returning
+TXN-20133,2026-06-29,Main Branch,Kitchen Storage,Spice Rack,2,198.0,0.05,376.2,277.2,99.0,Card,Returning
+TXN-20134,2026-04-28,Main Branch,Drinkware,Travel Mug,2,162.0,0.05,307.8,223.56,84.24,Cash,Online Order
+TXN-20135,2026-08-25,Main Branch,Cookware,Frying Pan,2,342.0,0.2,547.2,465.12,82.08,Cash,Walk-in
+TXN-20136,2026-07-14,Main Branch,Drinkware,Travel Mug,2,180.0,,360.0,248.4,111.6,Card,Walk-in
+TXN-20137,2026-05-04,Main Branch,Drinkware,Thermal Flask,4,320.0,0.05,1216.0,857.6,358.4,Card,Walk-in
+TXN-20138,2026-03-24,University Branch,Cleaning Tools,Dish Brush,1,49.5,-0.25,49.5,38.61,10.89,Cash,Business Customer
+TXN-20139,2026-04-19,University Branch,Drinkware,Glass Set,5,210.0,0.2,840.0,819.0,21.0,Cash,Online Order
+TXN-20140,2026-08-27,Main Branch,Drinkware,Travel Mug,1,180.0,0.1,162.0,124.2,37.8,Mobile Wallet,
+TXN-20141,2026-08-19,University Branch,Cleaning Tools,Microfiber Cloths,1,58.5,0.05,55.58,43.88,11.7,Cash,Online Order
+TXN-20142,2026-01-18,Market Branch,Kitchen Storage,Lunch Box,1,132.0,0.0,132.0,99.0,33.0,Mobile Wallet,Online Order
+TXN-20143,2026-07-13,Main Branch,Cleaning Tools,Microfiber Cloths,5,58.5,0.0,292.5,219.4,73.1,Cash,Returning
+TXN-20144,2026-02-15,Market Branch,Cookware,Frying Pan,1,399.0,0.05,379.05,271.32,107.73,Card,Business Customer
+TXN-20145,2026-08-05,Main Branch,Drinkware,Thermal Flask,1,320.0,0.1,288.0,214.4,73.6,Cash,Walk-in
+TXN-20146,2026-06-16,Main Branch,Cookware,Frying Pan,4,380.0,0.0,1520.0,1033.6,486.4,Cash,Returning
+TXN-20147,2026-05-02,Main Branch,Cleaning Tools,Spray Bottle,5,35.0,0.05,166.25,126.0,40.25,Cash,Returning
+TXN-20148,2026-09-10,University Branch,Cookware,Nonstick Tray,2,189.0,0.0,378.0,287.28,90.72,Cash,Returning
+TXN-20149,2026-06-18,University Branch,Cleaning Tools,Dish Brush,3,45.0,0.1,121.5,105.3,16.2,Card,Online Order
+TXN-20150,2026-08-02,Main Branch,Cookware,Kitchen Knife Set,3,261.0,0.0,783.0,508.95,274.05,Cash,Walk-in
+TXN-20151,2026-01-26,University Branch,Kitchen Storage,Lunch Box,1,120.0,0.0,120.0,90.0,30.0,Mobile Wallet,Walk-in
+TXN-20152,2026-08-17,Main Branch,Cookware,Frying Pan,1,380.0,0.1,342.0,258.4,83.6,Card,Walk-in
+TXN-20153,2026-06-10,Market Branch,Kitchen Storage,Spice Rack,1,220.0,0.0,220.0,154.0,66.0,Cash,Walk-in
+TXN-20154,2026-04-18,Main Branch,Cleaning Tools,Dish Brush,2,45.0,0.2,72.0,70.2,1.8,Cash,Online Order
+TXN-20155,2026-02-10,Main Branch,Drinkware,Travel Mug,1,180.0,0.15,153.0,124.2,28.8,Cash,Online Order
+TXN-20156,2026-08-25,Main Branch,Cleaning Tools,Spray Bottle,5,38.5,0.1,173.25,138.6,34.65,Cash,Walk-in
+TXN-20157,2026-06-18,Main Branch,Kitchen Storage,Food Container Set,5,140.0,0.2,560.0,532.0,28.0,,Returning
+TXN-20158,2026-03-05,Main Branch,Cookware,Kitchen Knife Set,4,290.0,0.15,986.0,754.0,232.0,Instapay,Business Customer
+TXN-20159,2026-04-20,Main Branch,Kitchen Storage,Lunch Box,1,108.0,0.05,102.6,81.0,21.6,Instapay,Returning
+TXN-20160,2026-06-27,Market Branch,Cookware,Nonstick Tray,3,162.0,0.0,486.0,369.36,116.64,Cash,Business Customer
+TXN-20161,2026-04-03,Main Branch,Kitchen Storage,Lunch Box,2,126.0,0.0,252.0,189.0,63.0,Cash,Online Order
+TXN-20162,2026-06-28,Main Branch,Drinkware,Thermal Flask,2,336.0,0.05,638.4,450.24,188.16,Cash,Online Order
+TXN-20163,2026-09-04,Main Branch,Cookware,Frying Pan,1,380.0,0.0,380.0,258.4,121.6,Card,Business Customer
+TXN-20164,2026-02-11,Market Branch,Cleaning Tools,Microfiber Cloths,2,71.5,0.0,143.0,107.24,35.76,Card,Returning
+TXN-20165,2026-06-22,Market Branch,Kitchen Storage,Spice Rack,2,231.0,0.0,462.0,323.4,138.6,Mobile Wallet,Returning
+TXN-20166,2026-04-28,Main Branch,Kitchen Storage,Food Container Set,2,154.0,0.0,308.0,234.08,73.92,Instapay,Returning
+TXN-20167,2026-04-13,University Branch,Drinkware,Water Bottle,4,104.5,0.1,376.2,309.32,66.88,Card,Business Customer
+TXN-20168,2026-01-20,University Branch,Drinkware,Water Bottle,3,85.5,0.15,218.02,189.81,28.21,Cash,Returning
+TXN-20169,2026-08-19,Market Branch,Cleaning Tools,Mop Set,1,260.0,0.05,247.0,182.0,65.0,Cash,Walk-in
+TXN-20170,2026-02-11,Market Branch,Cleaning Tools,Dish Brush,2,40.5,0.2,64.8,63.18,1.62,Cash,Returning
+TXN-20171,2026-01-24,University Branch,Drinkware,Travel Mug,4,198.0,0.0,792.0,546.48,245.52,Card,Walk-in
+TXN-20172,2026-02-20,University Branch,Cleaning Tools,Dish Brush,1,47.25,0.1,42.52,36.86,5.66,Cash,Business Customer
+TXN-20173,2026-04-10,Market Branch,Cleaning Tools,Spray Bottle,2,36.75,0.0,73.5,52.92,20.58,Instapay,Online Order
+TXN-20174,2026-06-26,University Branch,Kitchen Storage,Storage Jar,3,85.0,0.15,216.75,186.15,30.6,Cash,Walk-in
+TXN-20175,2026-08-26,Main Branch,Kitchen Storage,Storage Jar,1,93.5,0.0,93.5,68.26,25.24,Cash,Online Order
+TXN-20176,2026-09-06,Main Branch,Kitchen Storage,Food Container Set,1,140.0,0.0,140.0,106.4,33.6,Cash,Online Order
+TXN-20177,2026-08-23,University Branch,Kitchen Storage,Lunch Box,4,120.0,0.0,480.0,360.0,120.0,Cash,Returning
+TXN-20178,2026-07-16,University Branch,Cookware,Kitchen Knife Set,3,290.0,0.0,870.0,565.5,304.5,Cash,Walk-in
+TXN-20179,2026-01-27,University Branch,Kitchen Storage,Spice Rack,3,198.0,0.2,475.2,415.8,59.4,Instapay,Walk-in
+TXN-20180,2026-03-15,University Branch,Drinkware,Thermal Flask,1,320.0,0.2,256.0,214.4,41.6,Card,Walk-in
+TXN-20181,2026-08-24,University Branch,Cleaning Tools,Mop Set,1,260.0,0.15,221.0,182.0,39.0,Cash,Returning
+TXN-20182,2026-05-10,Main Branch,Cookware,Cooking Pot,4,650.0,0.0,2600.0,1872.0,728.0,Cash,Walk-in
+TXN-20183,2026-03-11,University Branch,Kitchen Storage,Food Container Set,3,147.0,0.05,418.95,335.16,83.79,Cash,Returning
+TXN-20184,2026-05-23,Market Branch,Cleaning Tools,Dish Brush,2,40.5,0.1,72.9,63.18,9.72,Cash,Walk-in
+TXN-20185,2026-01-08,University Branch,Drinkware,Travel Mug,4,162.0,0.0,648.0,447.12,200.88,Instapay,Walk-in
+TXN-20186,2026-05-26,Main Branch,Drinkware,Glass Set,1,210.0,0.0,210.0,163.8,46.2,Cash,Online Order
+TXN-20187,2026-04-25,Market Branch,Kitchen Storage,Storage Jar,1,89.25,0.05,84.79,65.15,19.64,Cash,Walk-in
+TXN-20188,2026-07-09,Main Branch,Cookware,Frying Pan,1,380.0,0.1,342.0,258.4,83.6,Cash,Returning
+TXN-20189,2026-04-30,Main Branch,Drinkware,Travel Mug,5,189.0,0.0,945.0,652.05,292.95,Cash,Online Order
+TXN-20190,2026-07-17,Market Branch,Cleaning Tools,Microfiber Cloths,4,65.0,0.05,247.0,195.0,52.0,Cash,Returning
+TXN-20191,2026-03-20,Market Branch,Drinkware,Water Bottle,3,85.5,0.0,256.5,189.81,66.69,Mobile Wallet,Walk-in
+TXN-20192,2026-08-20,Main Branch,Cookware,Kitchen Knife Set,2,290.0,0.0,580.0,377.0,203.0,Cash,Walk-in
+TXN-20193,2026-03-22,Main Branch,Drinkware,Glass Set,2,231.0,0.1,415.8,360.36,55.44,Cash,
+TXN-20194,2026-05-19,Main Branch,Drinkware,Glass Set,3,210.0,0.0,630.0,491.4,138.6,Cash,Walk-in
+TXN-20195,2026-03-29,Main Branch,Kitchen Storage,Spice Rack,1,242.0,0.1,217.8,169.4,48.4,Mobile Wallet,Walk-in
+TXN-20196,2026-05-06,University Branch,Cookware,Cooking Pot,3,715.0,0.0,2145.0,1544.4,600.6,Cash,Walk-in
+TXN-20197,2026-03-06,University Branch,Cookware,Kitchen Knife Set,3,304.5,0.05,867.82,593.79,274.03,Cash,Walk-in
+TXN-20198,2026-03-15,Market Branch,Drinkware,Glass Set,1,231.0,0.15,196.35,180.18,16.17,Cash,Walk-in
+TXN-20199,2026-01-10,University Branch,Kitchen Storage,Storage Jar,3,85.0,0.15,216.75,186.15,30.6,Cash,Walk-in
+TXN-20200,2026-08-26,University Branch,Cleaning Tools,Spray Bottle,3,31.5,0.0,94.5,68.04,26.46,Card,Walk-in
+TXN-20201,2026-05-17,University Branch,Cleaning Tools,Microfiber Cloths,1,68.25,0.2,54.6,51.19,3.41,Cash,Walk-in
+TXN-20202,2026-07-27,Market Branch,Cleaning Tools,Dish Brush,2,40.5,0.15,68.85,63.18,5.67,Instapay,Walk-in
+TXN-20203,2026-08-10,University Branch,Kitchen Storage,Spice Rack,2,231.0,0.15,392.7,323.4,69.3,Cash,Business Customer
+TXN-20204,2026-05-12,Main Branch,Kitchen Storage,Spice Rack,4,198.0,0.15,673.2,554.4,118.8,Cash,Walk-in
+TXN-20205,2026-06-22,University Branch,Drinkware,Thermal Flask,1,288.0,0.0,288.0,192.96,95.04,Cash,Walk-in
+TXN-20206,2026-08-25,University Branch,Drinkware,Thermal Flask,2,336.0,0.0,672.0,450.24,221.76,,Returning
+TXN-20207,2026-07-15,Market Branch,Cookware,Nonstick Tray,3,162.0,0.15,413.1,369.36,43.74,Mobile Wallet,Returning
+TXN-20208,2026-06-03,Market Branch,Cookware,Cooking Pot,4,682.5,0.0,2730.0,1965.6,764.4,Cash,Returning
+TXN-20209,2026-06-29,University Branch,Cleaning Tools,Microfiber Cloths,2,65.0,0.1,117.0,97.5,19.5,Card,Walk-in
+TXN-20210,2026-02-20,Market Branch,Kitchen Storage,Lunch Box,2,132.0,0.2,211.2,198.0,13.2,Mobile Wallet,Online Order
+TXN-20211,2026-04-14,Main Branch,Drinkware,Glass Set,1,231.0,0.0,231.0,180.18,50.82,Cash,Online Order
+TXN-20212,2026-05-30,University Branch,Kitchen Storage,Storage Jar,1,85.0,0.0,85.0,62.05,22.95,Cash,Walk-in
+TXN-20213,2026-06-06,University Branch,Cleaning Tools,Dish Brush,5,45.0,0.1,202.5,175.5,27.0,Cash,Walk-in
+TXN-20214,2026-08-22,University Branch,Drinkware,Water Bottle,1,,0.0,99.75,73.81,25.94,Cash,Walk-in
+TXN-20215,2026-01-04,Market Branch,Kitchen Storage,Storage Jar,2,76.5,0.2,122.4,111.68,10.72,Cash,Walk-in
+TXN-20216,2026-01-10,Market Branch,Cookware,Kitchen Knife Set,1,304.5,0.1,274.05,197.93,76.12,Instapay,Walk-in
+TXN-20217,2026-01-15,Main Branch,Kitchen Storage,Lunch Box,2,108.0,0.0,216.0,162.0,54.0,Cash,Returning
+TXN-20218,2026-02-21,University Branch,Cleaning Tools,Dish Brush,1,49.5,0.0,49.5,38.61,10.89,Card,Returning
+TXN-20219,2026-01-21,Market Branch,Kitchen Storage,Spice Rack,1,220.0,0.0,220.0,154.0,66.0,Card,Returning
+TXN-20220,2026-07-22,University Branch,Cookware,Cooking Pot,2,682.5,0.0,1365.0,982.8,382.2,Card,Walk-in
+TXN-20221,2026-02-15,University Branch,Cleaning Tools,Microfiber Cloths,2,65.0,0.1,117.0,97.5,19.5,Cash,Returning
+TXN-20222,2026-05-18,Market Branch,Kitchen Storage,Spice Rack,3,231.0,0.2,554.4,485.1,69.3,Cash,Online Order
+TXN-20223,2026-02-05,Market Branch,Cookware,Nonstick Tray,1,162.0,0.0,162.0,123.12,38.88,Card,Walk-in
+TXN-20224,2026-02-17,University Branch,Kitchen Storage,Food Container Set,1,140.0,0.0,140.0,106.4,33.6,Cash,Business Customer
+TXN-20225,2026-02-06,Main Branch,Kitchen Storage,Lunch Box,2,120.0,0.05,228.0,180.0,48.0,Cash,Online Order
+TXN-20226,2026-08-29,Market Branch,Kitchen Storage,Food Container Set,2,140.0,0.0,280.0,212.8,67.2,Cash,Walk-in
+TXN-20227,2026-05-14,Main Branch,Cookware,Cooking Pot,1,650.0,0.05,617.5,468.0,149.5,Card,Walk-in
+TXN-20228,2026-03-20,University Branch,Kitchen Storage,Food Container Set,2,126.0,0.0,252.0,191.52,60.48,Instapay,Walk-in
+TXN-20229,2026-06-03,University Branch,Kitchen Storage,Food Container Set,1,147.0,0.2,117.6,111.72,5.88,Cash,Online Order
+TXN-20230,2026-04-23,Market Branch,Kitchen Storage,Food Container Set,1,154.0,0.05,146.3,117.04,29.26,,Returning
+TXN-20231,2026-03-14,Main Branch,Cleaning Tools,Dish Brush,1,40.5,0.0,40.5,31.59,8.91,Cash,Online Order
+TXN-20232,2026-03-07,Main Branch,Cleaning Tools,Mop Set,1,260.0,0.0,260.0,182.0,78.0,Cash,Walk-in
+TXN-20233,2026-03-01,University Branch,Cookware,Kitchen Knife Set,1,319.0,0.0,319.0,207.35,111.65,Cash,Walk-in
+TXN-20234,2026-07-02,University Branch,Kitchen Storage,Food Container Set,1,126.0,0.0,126.0,95.76,30.24,Cash,Walk-in
+TXN-20235,2026-07-16,Main Branch,Cookware,Kitchen Knife Set,4,304.5,0.0,1218.0,791.72,426.28,Mobile Wallet,Business Customer
+TXN-20236,2026-05-23,Main Branch,Cookware,Nonstick Tray,4,198.0,0.0,792.0,601.92,190.08,Card,Walk-in
+TXN-20237,2026-06-19,Main Branch,Cookware,Nonstick Tray,1,180.0,0.0,180.0,136.8,43.2,Cash,Online Order
+TXN-20238,2026-05-21,Main Branch,Cookware,Cooking Pot,1,585.0,0.2,468.0,421.2,46.8,Card,Walk-in
+TXN-20239,2026-03-04,Market Branch,Kitchen Storage,Lunch Box,1,132.0,0.0,132.0,99.0,33.0,Mobile Wallet,Walk-in
+TXN-20240,2026-04-07,University Branch,Kitchen Storage,Storage Jar,1,89.25,0.05,84.79,65.15,19.64,Cash,Walk-in
+TXN-20241,2026-08-17,University Branch,Kitchen Storage,Food Container Set,5,126.0,0.0,630.0,478.8,151.2,Mobile Wallet,Online Order
+TXN-20242,2026-09-01,University Branch,Kitchen Storage,Food Container Set,5,126.0,0.0,630.0,478.8,151.2,Cash,Walk-in
+TXN-20243,2026-09-05,Market Branch,Cookware,Frying Pan,4,380.0,0.15,1292.0,1033.6,258.4,Cash,Walk-in
+TXN-20244,2026-06-03,Main Branch,Kitchen Storage,Lunch Box,1,120.0,0.05,114.0,90.0,24.0,Instapay,Walk-in
+TXN-20245,2026-09-20,Main Branch,Cookware,Nonstick Tray,1,180.0,0.05,171.0,136.8,34.2,Cash,Online Order
+TXN-20246,2026-09-20,Main Branch,Drinkware,Water Bottle,2,104.5,0.0,209.0,154.66,54.34,Cash,Online Order
+TXN-20247,2026-04-28,University Branch,Drinkware,Thermal Flask,1,320.0,0.0,320.0,214.4,105.6,Mobile Wallet,Walk-in
+TXN-20248,2026-03-24,Main Branch,Cookware,Cooking Pot,5,650.0,0.1,2925.0,2340.0,585.0,Cash,Walk-in
+TXN-20249,2026-04-02,University Branch,Cleaning Tools,Dish Brush,1,49.5,0.0,49.5,38.61,10.89,Mobile Wallet,Business Customer
+TXN-20250,2026-04-22,Main Branch,Drinkware,Thermal Flask,1,320.0,0.2,256.0,214.4,41.6,Card,Walk-in
+TXN-20251,2026-02-15,University Branch,Cleaning Tools,Dish Brush,1,49.5,0.0,49.5,38.61,10.89,Cash,Walk-in
+TXN-20252,2026-09-11,University Branch,Kitchen Storage,Food Container Set,4,126.0,0.0,504.0,383.04,120.96,Cash,Business Customer
+TXN-20253,2026-09-02,Main Branch,Cookware,Kitchen Knife Set,2,290.0,,580.0,377.0,203.0,Instapay,Returning
+TXN-20254,2026-01-14,Main Branch,Cleaning Tools,Microfiber Cloths,1,65.0,0.0,65.0,48.75,16.25,Cash,Walk-in
+TXN-20255,2026-08-07,Main Branch,Cookware,Kitchen Knife Set,1,290.0,0.0,290.0,188.5,101.5,Cash,Returning
+TXN-20256,2026-07-10,Market Branch,Drinkware,Thermal Flask,2,320.0,0.0,640.0,428.8,211.2,Mobile Wallet,Online Order
+TXN-20257,2026-07-22,Market Branch,Kitchen Storage,Food Container Set,2,154.0,0.15,261.8,234.08,27.72,Mobile Wallet,Returning
+TXN-20258,2026-06-29,University Branch,Cleaning Tools,Microfiber Cloths,2,65.0,0.0,130.0,97.5,32.5,Instapay,Returning
+TXN-20259,2026-05-24,Market Branch,Cleaning Tools,Dish Brush,3,45.0,0.0,135.0,105.3,29.7,Cash,Returning
+TXN-20260,2026-05-04,Main Branch,Cleaning Tools,Mop Set,2,260.0,0.2,416.0,364.0,52.0,Card,Online Order
+TXN-20261,2026-01-18,Market Branch,Cookware,Nonstick Tray,1,189.0,0.1,170.1,143.64,26.46,Cash,Online Order
+TXN-20262,2026-08-14,University Branch,Cookware,Frying Pan,1,380.0,0.15,323.0,258.4,64.6,Cash,Online Order
+TXN-20263,2026-07-26,Market Branch,Cookware,Cooking Pot,2,585.0,0.0,1170.0,842.4,327.6,Card,Walk-in
+TXN-20264,2026-06-13,Market Branch,Cleaning Tools,Mop Set,1,286.0,0.15,243.1,200.2,42.9,Mobile Wallet,Returning
+TXN-20265,2026-06-15,University Branch,Cookware,Cooking Pot,1,650.0,0.1,585.0,468.0,117.0,Cash,Walk-in
+TXN-20266,2026-09-24,Main Branch,Drinkware,Travel Mug,2,189.0,0.1,340.2,260.82,79.38,Cash,Online Order
+TXN-20267,2026-04-20,Main Branch,Cleaning Tools,Mop Set,1,234.0,0.1,210.6,163.8,46.8,Card,Online Order
+TXN-20268,2026-04-26,University Branch,Cookware,Frying Pan,1,418.0,0.0,418.0,284.24,133.76,Instapay,Walk-in
+TXN-20269,2026-03-13,University Branch,Cleaning Tools,Dish Brush,1,47.25,0.05,44.89,36.86,8.03,Cash,Returning
+TXN-20270,2026-09-04,Main Branch,Kitchen Storage,Food Container Set,2,140.0,0.0,280.0,212.8,67.2,Cash,Walk-in
+TXN-20271,2026-08-16,Market Branch,Cleaning Tools,Dish Brush,1,49.5,0.0,49.5,38.61,10.89,Mobile Wallet,Walk-in
+TXN-20272,2026-04-05,University Branch,Kitchen Storage,Lunch Box,4,120.0,0.2,384.0,360.0,24.0,Cash,Returning
+TXN-20273,2026-06-08,University Branch,Drinkware,Travel Mug,1,180.0,0.0,180.0,124.2,55.8,Mobile Wallet,Returning
+TXN-20274,2026-07-16,Main Branch,Kitchen Storage,Spice Rack,2,242.0,0.0,484.0,338.8,145.2,Cash,Walk-in
+TXN-20275,2026-01-10,Main Branch,Cleaning Tools,Dish Brush,1,40.5,0.0,40.5,31.59,8.91,Cash,Walk-in
+TXN-20276,2026-08-18,University Branch,Cleaning Tools,Spray Bottle,2,35.0,0.0,25000.0,50.4,19.6,Cash,Walk-in
+TXN-20277,2026-09-19,Main Branch,Kitchen Storage,Storage Jar,4,76.5,0.05,290.7,223.36,67.34,Cash,Returning
+TXN-20278,2026-06-06,Market Branch,Kitchen Storage,Lunch Box,2,120.0,0.0,240.0,180.0,60.0,Instapay,Walk-in
+TXN-20279,2026-09-14,Market Branch,Cleaning Tools,Dish Brush,1,45.0,0.0,45.0,35.1,9.9,Cash,Online Order
+TXN-20280,2026-08-06,Main Branch,Cookware,Kitchen Knife Set,1,290.0,0.1,261.0,188.5,72.5,Cash,Walk-in
+TXN-20281,2026-03-05,University Branch,Cookware,Nonstick Tray,2,189.0,0.0,378.0,287.28,90.72,Cash,Returning
+TXN-20282,2026-04-15,Main Branch,Cookware,Frying Pan,2,342.0,0.1,615.6,465.12,150.48,Mobile Wallet,Returning
+TXN-20283,2026-06-09,University Branch,Kitchen Storage,Storage Jar,3,85.0,0.15,216.75,186.15,30.6,Cash,Walk-in
+TXN-20284,2026-02-27,Main Branch,Drinkware,Glass Set,1,210.0,0.15,178.5,163.8,14.7,Cash,Returning
+TXN-20285,2026-04-16,University Branch,Cookware,Frying Pan,1,380.0,0.0,380.0,258.4,121.6,Cash,Walk-in
+TXN-20286,2026-06-28,Market Branch,Cookware,Frying Pan,5,342.0,0.0,1710.0,1162.8,547.2,Mobile Wallet,Walk-in
+TXN-20287,2026-07-25,Main Branch,Cookware,Nonstick Tray,1,162.0,0.0,162.0,123.12,38.88,Card,Walk-in
+TXN-20288,2026-03-01,Market Branch,Drinkware,Thermal Flask,3,288.0,0.05,820.8,578.88,241.92,Cash,Walk-in
+TXN-20289,2026-07-16,Main Branch,Drinkware,Travel Mug,2,198.0,0.0,396.0,273.24,122.76,Instapay,Returning
+TXN-20290,2026-08-24,Market Branch,Drinkware,Glass Set,1,220.5,0.1,198.45,171.99,26.46,Cash,Business Customer
+TXN-20291,2026-01-07,University Branch,Cookware,Nonstick Tray,1,162.0,0.05,153.9,123.12,30.78,Cash,Online Order
+TXN-20292,2026-09-16,Market Branch,Cleaning Tools,Microfiber Cloths,1,68.25,0.2,54.6,51.19,3.41,Cash,Online Order
+TXN-20293,2026-09-01,University Branch,Kitchen Storage,Lunch Box,2,120.0,0.0,240.0,180.0,60.0,Cash,Online Order
+TXN-20294,2026-01-15,Market Branch,Kitchen Storage,Storage Jar,5,85.0,0.0,425.0,310.25,114.75,Cash,Returning
+TXN-20295,2026-03-27,Market Branch,Cookware,Nonstick Tray,2,198.0,0.0,396.0,300.96,95.04,Cash,Online Order
+TXN-20296,2026-07-12,Market Branch,Cookware,Nonstick Tray,2,180.0,0.15,306.0,273.6,32.4,Cash,Walk-in
+TXN-20297,2026-09-12,Main Branch,Drinkware,Glass Set,5,189.0,0.0,945.0,737.1,207.9,Instapay,Returning
+TXN-20298,2026-09-15,Main Branch,Cleaning Tools,Microfiber Cloths,1,71.5,0.2,57.2,53.62,3.58,Cash,Walk-in
+TXN-20299,2026-08-05,Main Branch,Drinkware,Thermal Flask,5,352.0,0.0,1760.0,1179.2,580.8,Mobile Wallet,Business Customer
+TXN-20300,2026-06-20,University Branch,Kitchen Storage,Spice Rack,3,231.0,0.0,693.0,485.1,207.9,Instapay,Walk-in
+TXN-20301,2026-06-28,Main Branch,Cleaning Tools,Microfiber Cloths,3,65.0,0.05,185.25,146.25,39.0,Cash,Returning
+TXN-20302,2026-01-22,Main Branch,Cookware,Kitchen Knife Set,1,290.0,0.15,246.5,188.5,58.0,Card,Returning
+TXN-20303,2026-02-22,Main Branch,Cleaning Tools,Microfiber Cloths,3,68.25,,194.51,153.57,40.94,Instapay,Walk-in
+TXN-20304,2026-01-24,Market Branch,Cleaning Tools,Spray Bottle,5,38.5,0.15,163.62,138.6,25.02,Instapay,Online Order
+TXN-20305,2026-05-10,Main Branch,Cleaning Tools,Spray Bottle,2,38.5,0.0,77.0,55.44,21.56,Cash,Online Order
+TXN-20306,2026-01-14,Market Branch,Kitchen Storage,Food Container Set,1,147.0,0.0,147.0,111.72,35.28,Cash,Walk-in
+TXN-20307,2026-02-24,Main Branch,Drinkware,Thermal Flask,2,352.0,-0.25,704.0,471.68,232.32,Mobile Wallet,Walk-in
+TXN-20308,2026-07-20,University Branch,Cookware,Frying Pan,1,342.0,0.0,342.0,232.56,109.44,Mobile Wallet,Returning
+TXN-20309,2026-01-23,Main Branch,Cleaning Tools,Spray Bottle,4,36.75,0.05,139.65,105.84,33.81,Cash,Walk-in
+TXN-20310,2026-06-15,University Branch,Drinkware,Travel Mug,2,162.0,0.0,324.0,223.56,100.44,Cash,Walk-in
+TXN-20311,2026-04-25,Main Branch,Drinkware,Travel Mug,1,180.0,0.1,162.0,124.2,37.8,Cash,Online Order
+TXN-20312,2026-02-06,Market Branch,Kitchen Storage,Lunch Box,2,120.0,0.0,240.0,180.0,60.0,Mobile Wallet,Returning
+TXN-20313,2026-04-06,Market Branch,Drinkware,Travel Mug,2,162.0,,324.0,223.56,100.44,Card,Returning
+TXN-20314,2026-09-19,University Branch,Cookware,Frying Pan,1,418.0,0.0,418.0,284.24,133.76,Cash,Returning
+TXN-20315,2026-09-09,University Branch,Cookware,Nonstick Tray,3,180.0,0.1,486.0,410.4,75.6,Instapay,Online Order
+TXN-20316,2026-08-28,Main Branch,Cookware,Kitchen Knife Set,4,319.0,0.2,1020.8,829.4,191.4,Mobile Wallet,Returning
+TXN-20317,2026-02-02,Main Branch,Cookware,Cooking Pot,4,715.0,0.15,2431.0,2059.2,371.8,Cash,Walk-in
+TXN-20318,2026-03-25,Main Branch,Drinkware,Water Bottle,1,85.5,0.1,76.95,63.27,13.68,Mobile Wallet,Walk-in
+TXN-20319,2026-02-27,Market Branch,Cleaning Tools,Spray Bottle,1,38.5,0.1,34.65,27.72,6.93,Cash,Returning
+TXN-20320,2026-04-30,Main Branch,Cookware,Cooking Pot,4,650.0,0.05,2470.0,1872.0,598.0,Cash,Walk-in
+TXN-20321,2026-08-30,University Branch,Kitchen Storage,Spice Rack,4,220.0,0.2,704.0,616.0,88.0,Card,Online Order
+TXN-20322,2026-05-19,University Branch,Drinkware,Travel Mug,5,162.0,0.0,810.0,558.9,251.1,Mobile Wallet,Online Order
+TXN-20323,2026-01-29,Main Branch,Kitchen Storage,Lunch Box,2,108.0,0.1,194.4,162.0,32.4,Cash,Returning
+TXN-20324,2026-03-28,Market Branch,Kitchen Storage,Lunch Box,1,126.0,0.0,126.0,94.5,31.5,Card,Walk-in
+TXN-20325,2026-05-04,Main Branch,Drinkware,Thermal Flask,1,336.0,0.05,319.2,225.12,94.08,Mobile Wallet,Returning
+TXN-20326,2026-05-05,Main Branch,Cleaning Tools,Mop Set,1,286.0,0.05,271.7,200.2,71.5,Cash,Returning
+TXN-20327,2026-09-12,University Branch,Cleaning Tools,Microfiber Cloths,5,68.25,0.0,341.25,255.95,85.3,Cash,Walk-in
+TXN-20328,2026-08-16,Main Branch,Cleaning Tools,Spray Bottle,5,35.0,0.1,157.5,126.0,31.5,Cash,Walk-in
+TXN-20329,2026-06-15,Main Branch,Kitchen Storage,Spice Rack,3,231.0,0.0,693.0,485.1,207.9,Cash,Returning
+TXN-20330,2026-07-30,Market Branch,Cookware,Nonstick Tray,2,162.0,0.0,324.0,246.24,77.76,Cash,Online Order
+TXN-20331,2026-07-28,Market Branch,Cookware,Frying Pan,2,418.0,0.0,836.0,568.48,267.52,Card,Walk-in
+TXN-20332,2026-03-07,Market Branch,Cookware,Frying Pan,1,342.0,0.0,342.0,232.56,109.44,Cash,Walk-in
+TXN-20333,2026-02-05,Main Branch,Cookware,Kitchen Knife Set,1,290.0,0.0,290.0,188.5,101.5,Card,Walk-in
+TXN-20334,2026-02-28,Main Branch,Cleaning Tools,Dish Brush,4,40.5,0.05,153.9,126.36,27.54,Mobile Wallet,Walk-in
+TXN-20335,2026-05-20,Market Branch,Kitchen Storage,Storage Jar,4,85.0,0.0,340.0,248.2,91.8,Cash,Walk-in
+TXN-20336,2026-07-13,Main Branch,Cleaning Tools,Mop Set,1,234.0,0.15,198.9,163.8,35.1,Cash,Walk-in
+TXN-20337,2026-05-07,Market Branch,Cleaning Tools,Microfiber Cloths,2,65.0,0.2,104.0,97.5,6.5,Instapay,Walk-in
+TXN-20338,2026-05-14,University Branch,Cleaning Tools,Mop Set,2,234.0,0.2,374.4,327.6,46.8,Card,Walk-in
+TXN-20339,2026-03-19,Market Branch,Kitchen Storage,Lunch Box,3,120.0,0.0,360.0,270.0,90.0,Cash,Walk-in
+TXN-20340,2026-04-10,University Branch,Kitchen Storage,Lunch Box,5,132.0,0.2,528.0,495.0,33.0,Mobile Wallet,Online Order
+TXN-20341,2026-06-29,Main Branch,Kitchen Storage,Spice Rack,1,220.0,0.0,220.0,154.0,66.0,Cash,Online Order
+TXN-20342,2026-03-20,Main Branch,Cookware,Frying Pan,1,380.0,0.0,380.0,258.4,121.6,Mobile Wallet,Business Customer
+TXN-20343,2026-04-15,University Branch,Cookware,Kitchen Knife Set,1,304.5,0.1,274.05,197.93,76.12,Card,Walk-in
+TXN-20344,2026-01-18,Main Branch,Cookware,Nonstick Tray,1,180.0,0.1,162.0,136.8,25.2,Instapay,Returning
+TXN-20345,2026-09-16,Market Branch,Kitchen Storage,Food Container Set,4,140.0,0.0,560.0,425.6,134.4,Card,Returning
+TXN-20346,2026-09-24,University Branch,Kitchen Storage,Spice Rack,2,220.0,0.2,352.0,308.0,44.0,Mobile Wallet,Walk-in
+TXN-20347,2026-03-11,University Branch,Cleaning Tools,Spray Bottle,1,35.0,0.0,35.0,25.2,9.8,Cash,Returning
+TXN-20348,2026-04-02,University Branch,Cookware,Kitchen Knife Set,5,261.0,0.1,1174.5,848.25,326.25,Card,Business Customer
+TXN-20349,2026-01-02,Main Branch,Cookware,Kitchen Knife Set,2,304.5,0.0,609.0,395.86,213.14,Cash,Returning
+TXN-20350,2026-06-05,University Branch,Cookware,Kitchen Knife Set,1,319.0,0.0,319.0,207.35,111.65,Cash,Online Order
+TXN-20351,2026-05-31,Main Branch,Cleaning Tools,Dish Brush,2,45.0,0.15,76.5,70.2,6.3,Card,Returning
+TXN-20352,2026-05-12,University Branch,Cleaning Tools,Microfiber Cloths,1,65.0,0.0,65.0,48.75,16.25,Card,Online Order
+TXN-20353,2026-07-28,University Branch,Cleaning Tools,Mop Set,2,286.0,0.0,572.0,400.4,171.6,Cash,Walk-in
+TXN-20354,2026-02-10,University Branch,Cleaning Tools,Mop Set,3,234.0,0.2,561.6,491.4,70.2,Cash,Online Order
+TXN-20355,2026-09-27,Market Branch,Kitchen Storage,Lunch Box,1,120.0,0.0,120.0,90.0,30.0,Card,Online Order
+TXN-20356,2026-02-03,University Branch,Cleaning Tools,Microfiber Cloths,4,68.25,0.1,245.7,204.76,40.94,Cash,Walk-in
+TXN-20357,2026-05-07,Market Branch,Drinkware,Glass Set,1,231.0,0.0,231.0,180.18,50.82,Cash,Walk-in
+TXN-20358,2026-01-01,Main Branch,Cookware,Frying Pan,4,380.0,0.0,1520.0,1033.6,486.4,Mobile Wallet,Returning
+TXN-20359,2026-03-18,Market Branch,Cookware,Cooking Pot,2,650.0,0.15,1105.0,936.0,169.0,Cash,Online Order
+TXN-20360,2026-08-29,University Branch,Cookware,Nonstick Tray,2,180.0,0.15,306.0,273.6,32.4,Instapay,Returning
+TXN-20361,2026-07-23,Main Branch,Kitchen Storage,Food Container Set,3,147.0,0.05,418.95,335.16,83.79,Cash,Walk-in
+TXN-20362,2026-03-13,University Branch,Cleaning Tools,Dish Brush,3,45.0,0.05,128.25,105.3,22.95,Cash,Walk-in
+TXN-20363,2026-01-06,Main Branch,Cleaning Tools,Mop Set,3,273.0,0.0,819.0,573.3,245.7,Card,Walk-in
+TXN-20364,2026-06-22,Main Branch,Drinkware,Thermal Flask,2,336.0,0.2,537.6,450.24,87.36,Mobile Wallet,Walk-in
+TXN-20365,2026-06-02,University Branch,Cookware,Frying Pan,4,380.0,0.1,1368.0,1033.6,334.4,Cash,Returning
+TXN-20366,2026-08-23,Main Branch,Cleaning Tools,Mop Set,4,260.0,0.2,832.0,728.0,104.0,Cash,Walk-in
+TXN-20367,2026-09-03,University Branch,Cleaning Tools,Mop Set,1,260.0,0.05,247.0,182.0,65.0,Card,Walk-in
+TXN-20368,2026-06-25,University Branch,Kitchen Storage,Spice Rack,2,220.0,0.05,418.0,308.0,110.0,Cash,Walk-in
+TXN-20369,2026-07-22,University Branch,Kitchen Storage,Lunch Box,4,132.0,0.05,501.6,396.0,105.6,Cash,Business Customer
+TXN-20370,2026-05-07,Main Branch,Cleaning Tools,Microfiber Cloths,1,71.5,0.1,64.35,53.62,10.73,Card,
+TXN-20371,2026-03-07,University Branch,Kitchen Storage,Lunch Box,2,132.0,0.2,211.2,198.0,13.2,Cash,Walk-in
+TXN-20372,2026-07-13,University Branch,Cleaning Tools,Dish Brush,2,47.25,0.05,89.78,73.72,16.06,Card,Online Order
+TXN-20373,2026-09-11,Main Branch,Cookware,Kitchen Knife Set,1,319.0,0.2,255.2,207.35,47.85,Cash,Online Order
+TXN-20374,2026-09-05,University Branch,Cleaning Tools,Spray Bottle,1,36.75,0.1,33.08,26.46,6.62,Cash,Walk-in
+TXN-20375,2026-06-29,University Branch,Kitchen Storage,Food Container Set,4,140.0,0.05,532.0,425.6,106.4,Instapay,Returning
+TXN-20376,2026-09-06,Main Branch,Cleaning Tools,Dish Brush,2,45.0,0.1,81.0,70.2,10.8,Cash,Walk-in
+TXN-20377,2026-06-05,Main Branch,Cleaning Tools,Dish Brush,3,47.25,0.1,127.58,110.58,17.0,Card,Walk-in
+TXN-20378,2026-08-30,Market Branch,Kitchen Storage,Spice Rack,4,242.0,0.2,774.4,677.6,96.8,Cash,Returning
+TXN-20379,2026-03-28,Main Branch,Drinkware,Thermal Flask,2,320.0,0.2,512.0,428.8,83.2,Card,Returning
+TXN-20380,2026-04-19,University Branch,Kitchen Storage,Food Container Set,1,140.0,0.0,140.0,106.4,33.6,Cash,Walk-in
+TXN-20381,2026-07-23,Market Branch,Drinkware,Glass Set,3,210.0,0.0,630.0,491.4,138.6,Cash,Walk-in
+TXN-20382,2026-05-06,University Branch,Kitchen Storage,Food Container Set,4,140.0,0.0,560.0,425.6,134.4,Cash,Walk-in
+TXN-20383,2026-07-09,University Branch,Kitchen Storage,Spice Rack,5,220.0,0.2,880.0,770.0,110.0,Instapay,Online Order
+TXN-20384,2026-02-24,Market Branch,Cleaning Tools,Mop Set,4,286.0,,1029.6,800.8,228.8,Instapay,Online Order
+TXN-20385,2026-07-10,Market Branch,Drinkware,Thermal Flask,1,288.0,0.0,288.0,192.96,95.04,Cash,Online Order
+TXN-20386,2026-03-25,Main Branch,Drinkware,Thermal Flask,4,320.0,0.2,1024.0,857.6,166.4,Cash,Online Order
+TXN-20387,2026-02-22,University Branch,Cookware,Nonstick Tray,1,189.0,0.05,179.55,143.64,35.91,Mobile Wallet,Returning
+TXN-20388,2026-06-05,Main Branch,Kitchen Storage,Food Container Set,2,147.0,0.0,294.0,223.44,70.56,Cash,Walk-in
+TXN-20389,2026-05-09,Market Branch,Cleaning Tools,Dish Brush,3,45.0,0.0,135.0,105.3,29.7,Card,Online Order
+TXN-20390,2026-01-15,Main Branch,Drinkware,Water Bottle,5,95.0,0.05,451.25,351.5,99.75,Mobile Wallet,Returning
+TXN-20391,2026-09-24,University Branch,Drinkware,Thermal Flask,3,0.0,0.2,768.0,643.2,124.8,Mobile Wallet,Business Customer
+TXN-20392,2026-05-07,Main Branch,Kitchen Storage,Lunch Box,1,108.0,0.0,108.0,81.0,27.0,Cash,Walk-in
+TXN-20393,2026-06-19,Market Branch,Kitchen Storage,Storage Jar,2,85.0,0.0,170.0,124.1,45.9,Cash,Returning
+TXN-20394,2026-01-01,Market Branch,Cookware,Frying Pan,4,380.0,0.05,1444.0,1033.6,410.4,Mobile Wallet,Online Order
+TXN-20395,2026-05-29,Main Branch,Drinkware,Travel Mug,1,180.0,0.2,144.0,124.2,19.8,Card,Online Order
+TXN-20396,2026-08-31,University Branch,Cleaning Tools,Spray Bottle,2,31.5,0.2,50.4,45.36,5.04,Cash,Walk-in
+TXN-20397,2026-06-02,University Branch,Cookware,Nonstick Tray,1,198.0,0.0,198.0,150.48,47.52,Card,Online Order
+TXN-20398,2026-02-26,Main Branch,Drinkware,Glass Set,3,231.0,0.05,658.35,540.54,117.81,Card,Business Customer
+TXN-20399,2026-03-19,Main Branch,Kitchen Storage,Food Container Set,2,154.0,0.0,308.0,234.08,73.92,Instapay,Online Order
+TXN-20400,2026-07-20,Market Branch,Kitchen Storage,Food Container Set,2,140.0,0.1,252.0,212.8,39.2,Cash,Walk-in
+TXN-20401,2026-04-15,Main Branch,Cookware,Nonstick Tray,1,180.0,0.0,180.0,136.8,43.2,Mobile Wallet,Returning
+TXN-20402,2026-09-11,University Branch,Drinkware,Thermal Flask,5,288.0,0.0,1440.0,964.8,475.2,Cash,Walk-in
+TXN-20403,2026-02-24,Main Branch,Kitchen Storage,Food Container Set,1,147.0,0.05,139.65,111.72,27.93,Card,Walk-in
+TXN-20404,2026-08-18,University Branch,Cleaning Tools,Spray Bottle,2,31.5,0.1,56.7,45.36,11.34,Card,Online Order
+TXN-20405,2026-03-04,University Branch,Drinkware,Thermal Flask,4,336.0,0.0,1344.0,900.48,443.52,Mobile Wallet,Walk-in
+TXN-20406,2026-02-21,Main Branch,Kitchen Storage,Storage Jar,3,85.0,0.1,229.5,186.15,43.35,Cash,Online Order
+TXN-20407,2026-02-12,Main Branch,Drinkware,Glass Set,4,210.0,0.05,798.0,655.2,142.8,Instapay,Walk-in
+TXN-20408,2026-08-22,Market Branch,Kitchen Storage,Lunch Box,1,132.0,0.0,132.0,99.0,33.0,Cash,Walk-in
+TXN-20409,2026-01-15,Main Branch,Kitchen Storage,Spice Rack,1,220.0,0.2,176.0,154.0,22.0,Cash,Walk-in
+TXN-20410,2026-06-22,Market Branch,Cookware,Nonstick Tray,1,180.0,0.05,171.0,136.8,34.2,Cash,Returning
+TXN-20411,2026-05-14,University Branch,Drinkware,Glass Set,4,210.0,0.15,714.0,655.2,58.8,Card,Walk-in
+TXN-20412,2026-05-15,University Branch,Cleaning Tools,Mop Set,5,234.0,0.2,936.0,819.0,117.0,Mobile Wallet,Returning
+TXN-20413,2026-08-10,University Branch,Kitchen Storage,Spice Rack,2,220.0,0.0,440.0,308.0,132.0,Instapay,Walk-in
+TXN-20414,2026-03-05,University Branch,Cleaning Tools,Mop Set,1,260.0,0.0,260.0,182.0,78.0,Cash,Walk-in
+TXN-20415,2026-06-21,Main Branch,Kitchen Storage,Lunch Box,2,132.0,0.2,25000.0,198.0,13.2,Cash,Walk-in
+TXN-20416,2026-04-29,Main Branch,Kitchen Storage,Lunch Box,1,132.0,0.05,125.4,99.0,26.4,Card,Walk-in
+TXN-20417,2026-07-17,University Branch,Drinkware,Thermal Flask,1,336.0,0.15,285.6,225.12,60.48,Instapay,Walk-in
+TXN-20418,2026-02-08,University Branch,Cleaning Tools,Dish Brush,1,40.5,0.2,32.4,31.59,0.81,Cash,Walk-in
+TXN-20419,2026-06-29,Main Branch,Cleaning Tools,Dish Brush,5,47.25,0.0,236.25,184.3,51.95,Card,Returning
+TXN-20420,2026-08-07,Main Branch,Kitchen Storage,Food Container Set,4,154.0,0.0,616.0,468.16,147.84,Mobile Wallet,Returning
+TXN-20421,2026-04-05,University Branch,Kitchen Storage,Storage Jar,1,93.5,0.05,88.82,68.26,20.56,Mobile Wallet,Returning
+TXN-20422,2026-03-11,Main Branch,Drinkware,Travel Mug,3,162.0,0.0,486.0,335.34,150.66,Mobile Wallet,Walk-in
+TXN-20423,2026-03-04,Main Branch,Drinkware,Water Bottle,4,99.75,0.15,339.15,295.24,43.91,Cash,Returning
+TXN-20424,2026-05-28,Main Branch,Cookware,Kitchen Knife Set,2,261.0,0.05,495.9,339.3,156.6,Mobile Wallet,
+TXN-20425,2026-07-30,University Branch,Drinkware,Travel Mug,1,180.0,0.15,153.0,124.2,28.8,Cash,Walk-in
+TXN-20426,2026-01-21,University Branch,Cleaning Tools,Mop Set,1,286.0,0.0,286.0,200.2,85.8,Instapay,Walk-in
+TXN-20427,2026-01-16,Main Branch,Drinkware,Travel Mug,2,180.0,0.1,324.0,248.4,75.6,Mobile Wallet,Walk-in
+TXN-20428,2026-04-04,University Branch,Cookware,Frying Pan,4,380.0,0.1,1368.0,1033.6,334.4,Cash,Returning
+TXN-20429,2026-05-23,Market Branch,Cleaning Tools,Spray Bottle,3,35.0,0.05,99.75,75.6,24.15,Mobile Wallet,Walk-in
+TXN-20430,2026-08-06,Market Branch,Cookware,Kitchen Knife Set,4,319.0,0.15,1084.6,829.4,255.2,Mobile Wallet,Walk-in
+TXN-20431,2026-01-06,Main Branch,Kitchen Storage,Spice Rack,1,220.0,0.0,220.0,154.0,66.0,Card,Online Order
+TXN-20432,2026-03-30,Main Branch,Cleaning Tools,Spray Bottle,1,35.0,0.15,29.75,25.2,4.55,Cash,Walk-in
+TXN-20433,2026-02-05,Market Branch,Cookware,Kitchen Knife Set,1,290.0,0.15,246.5,188.5,58.0,Cash,Walk-in
+TXN-20434,2026-02-07,University Branch,Cookware,Cooking Pot,1,715.0,0.05,679.25,514.8,164.45,Card,Walk-in
+TXN-20435,2026-08-31,University Branch,Kitchen Storage,Storage Jar,4,89.25,0.1,321.3,260.6,60.7,Mobile Wallet,Walk-in
+TXN-20436,2026-02-11,Market Branch,Cookware,Cooking Pot,4,682.5,0.0,2730.0,1965.6,764.4,Cash,Online Order
+TXN-20437,2026-09-02,University Branch,Drinkware,Thermal Flask,1,320.0,0.2,256.0,214.4,41.6,Card,Returning
+TXN-20438,2026-03-27,University Branch,Cookware,Kitchen Knife Set,1,304.5,0.15,258.82,197.93,60.89,Card,Walk-in
+TXN-20439,2026-03-24,University Branch,Kitchen Storage,Storage Jar,1,93.5,0.15,79.47,68.26,11.21,Mobile Wallet,Online Order
+TXN-20440,2026-01-31,University Branch,Cleaning Tools,Mop Set,5,273.0,0.2,1092.0,955.5,136.5,Card,Walk-in
+TXN-20441,2026-08-26,Main Branch,Drinkware,Travel Mug,3,198.0,0.05,564.3,409.86,154.44,Mobile Wallet,Online Order
+TXN-20442,2026-04-25,Main Branch,Cookware,Nonstick Tray,5,,0.0,990.0,752.4,237.6,Instapay,Online Order
+TXN-20443,2026-07-26,University Branch,Cookware,Nonstick Tray,1,198.0,0.0,198.0,150.48,47.52,Cash,Business Customer
+TXN-20444,2026-01-08,Main Branch,Cookware,Kitchen Knife Set,2,290.0,0.2,464.0,377.0,87.0,Card,Business Customer
+TXN-20445,2026-03-07,University Branch,Kitchen Storage,Food Container Set,1,140.0,0.0,140.0,106.4,33.6,Instapay,Walk-in
+TXN-20446,2026-04-10,University Branch,Drinkware,Travel Mug,2,162.0,0.2,259.2,223.56,35.64,Instapay,Returning
+TXN-20447,2026-04-01,University Branch,Cookware,Cooking Pot,1,682.5,0.1,614.25,491.4,122.85,Cash,Walk-in
+TXN-20448,2026-06-15,Main Branch,Cleaning Tools,Microfiber Cloths,5,65.0,0.15,276.25,243.75,32.5,Mobile Wallet,Online Order
+TXN-20449,2026-01-10,Market Branch,Cookware,Frying Pan,2,380.0,0.0,760.0,516.8,243.2,Cash,Walk-in
+TXN-20450,2026-01-14,Market Branch,Drinkware,Water Bottle,5,99.75,0.1,448.88,369.05,79.83,Cash,Business Customer
+TXN-20451,2026-03-23,Market Branch,Drinkware,Travel Mug,4,180.0,0.0,720.0,496.8,223.2,Card,Returning
+TXN-20452,2026-05-06,Main Branch,Cleaning Tools,Mop Set,2,260.0,0.0,520.0,364.0,156.0,Cash,Walk-in
+TXN-20453,2026-09-24,Main Branch,Kitchen Storage,Storage Jar,1,93.5,0.05,88.82,68.26,20.56,Card,Online Order
+TXN-20454,2026-03-31,Main Branch,Cookware,Cooking Pot,5,650.0,0.05,3087.5,2340.0,747.5,Cash,Business Customer
+TXN-20455,2026-03-17,Main Branch,Kitchen Storage,Spice Rack,2,220.0,0.2,352.0,308.0,44.0,Cash,Returning
+TXN-20456,2026-09-11,Market Branch,Cookware,Kitchen Knife Set,1,290.0,0.15,246.5,188.5,58.0,Mobile Wallet,Business Customer
+TXN-20457,2026-05-03,Main Branch,Kitchen Storage,Lunch Box,1,120.0,0.0,120.0,90.0,30.0,Cash,Walk-in
+TXN-20458,2026-07-16,Main Branch,Kitchen Storage,Lunch Box,3,120.0,0.0,360.0,270.0,90.0,Cash,Walk-in
+TXN-20459,2026-07-28,University Branch,Cleaning Tools,Mop Set,1,286.0,0.0,286.0,200.2,85.8,Cash,Walk-in
+TXN-20460,2026-04-25,Market Branch,Cookware,Nonstick Tray,2,180.0,0.05,342.0,273.6,68.4,Cash,Online Order
+TXN-20461,2026-01-22,University Branch,Cleaning Tools,Microfiber Cloths,1,65.0,0.0,65.0,48.75,16.25,Cash,Walk-in
+TXN-20462,2026-08-11,Main Branch,Kitchen Storage,Food Container Set,2,140.0,0.2,224.0,212.8,11.2,Card,Walk-in
+TXN-20463,2026-04-22,Main Branch,Drinkware,Water Bottle,2,95.0,0.1,171.0,140.6,30.4,Cash,Walk-in
+TXN-20464,2026-05-30,University Branch,Drinkware,Thermal Flask,5,352.0,0.15,1496.0,1179.2,316.8,,Online Order
+TXN-20465,2026-03-11,Main Branch,Kitchen Storage,Food Container Set,1,147.0,0.0,147.0,111.72,35.28,Cash,Business Customer
+TXN-20466,2026-09-26,Main Branch,Cleaning Tools,Mop Set,2,286.0,0.0,572.0,400.4,171.6,Cash,Online Order
+TXN-20467,2026-07-11,Market Branch,Drinkware,Water Bottle,3,95.0,0.0,285.0,210.9,74.1,Cash,Walk-in
+TXN-20468,2026-01-14,Market Branch,Kitchen Storage,Spice Rack,2,198.0,0.1,356.4,277.2,79.2,Cash,Returning
+TXN-20469,2026-04-26,Main Branch,Kitchen Storage,Storage Jar,1,93.5,0.15,79.47,68.26,11.21,Card,Online Order
+TXN-20470,2026-05-21,University Branch,Kitchen Storage,Lunch Box,1,108.0,0.05,102.6,81.0,21.6,Card,Walk-in
+TXN-20471,2026-07-20,Main Branch,Cookware,Frying Pan,5,380.0,0.0,1900.0,1292.0,608.0,Instapay,Walk-in
+TXN-20472,2026-08-21,University Branch,Cookware,Cooking Pot,1,650.0,0.0,650.0,468.0,182.0,Cash,Walk-in
+TXN-20473,2026-07-10,University Branch,Kitchen Storage,Spice Rack,4,220.0,0.0,880.0,616.0,264.0,Card,Returning
+TXN-20474,2026-09-25,Main Branch,Drinkware,Travel Mug,1,198.0,0.0,198.0,136.62,61.38,Instapay,Walk-in
+TXN-20475,2026-03-27,Main Branch,Cleaning Tools,Spray Bottle,4,36.75,0.2,117.6,105.84,11.76,Instapay,Online Order
+TXN-20476,2026-05-20,University Branch,Drinkware,Thermal Flask,2,352.0,0.05,668.8,471.68,197.12,Mobile Wallet,Walk-in
+TXN-20477,2026-04-04,Main Branch,Cookware,Frying Pan,2,380.0,0.0,760.0,516.8,243.2,Cash,Online Order
+TXN-20478,2026-07-30,Main Branch,Cleaning Tools,Mop Set,3,286.0,0.2,686.4,600.6,85.8,Cash,Walk-in
+TXN-20479,2026-07-21,Main Branch,Cookware,Cooking Pot,2,650.0,0.1,1170.0,936.0,234.0,Card,Walk-in
+TXN-20480,2026-02-25,Market Branch,Kitchen Storage,Lunch Box,1,120.0,0.0,120.0,90.0,30.0,Cash,Returning
+TXN-20481,2026-01-12,Market Branch,Drinkware,Thermal Flask,2,320.0,0.0,640.0,428.8,211.2,Instapay,Walk-in
+TXN-20482,2026-01-30,University Branch,Drinkware,Glass Set,4,189.0,0.15,642.6,589.68,52.92,Cash,Returning
+TXN-20483,2026-08-02,University Branch,Kitchen Storage,Lunch Box,4,120.0,0.1,432.0,360.0,72.0,Mobile Wallet,Walk-in
+TXN-20484,2026-03-21,University Branch,Drinkware,Thermal Flask,2,320.0,0.0,640.0,428.8,211.2,Cash,Online Order
+TXN-20485,2026-07-01,Main Branch,Cookware,Nonstick Tray,5,198.0,0.05,940.5,752.4,188.1,Card,Walk-in
+TXN-20486,2026-03-21,Main Branch,Kitchen Storage,Food Container Set,1,154.0,0.0,154.0,117.04,36.96,Cash,Walk-in
+TXN-20487,2026-08-18,Market Branch,Drinkware,Glass Set,2,189.0,0.05,359.1,294.84,64.26,Cash,Returning
+TXN-20488,2026-07-26,Main Branch,Cookware,Kitchen Knife Set,3,304.5,,822.15,593.79,228.36,Cash,Walk-in
+TXN-20489,2026-07-26,Main Branch,Cookware,Frying Pan,2,342.0,0.05,649.8,465.12,184.68,Cash,Online Order
+TXN-20490,2026-08-15,Market Branch,Drinkware,Travel Mug,1,198.0,,198.0,136.62,61.38,Cash,Walk-in
+TXN-20491,2026-06-11,Market Branch,Cookware,Kitchen Knife Set,1,290.0,0.2,232.0,188.5,43.5,Cash,Online Order
+TXN-20492,2026-08-01,Main Branch,Drinkware,Travel Mug,1,189.0,0.05,179.55,130.41,49.14,Cash,Business Customer
+TXN-20493,2026-03-30,University Branch,Kitchen Storage,Spice Rack,2,231.0,0.1,415.8,323.4,92.4,Mobile Wallet,Returning
+TXN-20494,2026-08-12,Market Branch,Kitchen Storage,Lunch Box,2,132.0,0.0,264.0,198.0,66.0,Cash,Online Order
+TXN-20495,2026-07-24,Main Branch,Cleaning Tools,Dish Brush,3,49.5,0.05,141.07,115.83,25.24,Card,Walk-in
+TXN-20496,2026-02-07,Market Branch,Cleaning Tools,Spray Bottle,1,31.5,0.2,25.2,22.68,2.52,Cash,Walk-in
+TXN-20497,2026-09-05,Main Branch,Cookware,Kitchen Knife Set,2,261.0,0.0,522.0,339.3,182.7,Instapay,Walk-in
+TXN-20498,2026-03-19,Main Branch,Cleaning Tools,Dish Brush,1,45.0,0.1,40.5,35.1,5.4,Mobile Wallet,Online Order
+TXN-20499,2026-02-09,University Branch,Cleaning Tools,Dish Brush,1,45.0,0.0,45.0,35.1,9.9,Cash,Online Order
+TXN-20500,2026-08-05,Main Branch,Cookware,Kitchen Knife Set,2,261.0,0.0,522.0,339.3,182.7,Mobile Wallet,Walk-in
+TXN-20501,2026-07-31,Main Branch,Kitchen Storage,Lunch Box,3,126.0,0.0,378.0,283.5,94.5,Card,Returning
+TXN-20502,2026-02-17,Market Branch,Kitchen Storage,Storage Jar,3,89.25,0.0,267.75,195.45,72.3,Mobile Wallet,Returning
+TXN-20503,2026-07-14,Main Branch,Cookware,Cooking Pot,2,650.0,0.1,1170.0,936.0,234.0,Cash,Walk-in
+TXN-20504,2026-04-09,Market Branch,Kitchen Storage,Spice Rack,1,231.0,0.0,231.0,161.7,69.3,Card,Returning
+TXN-20505,2026-09-10,University Branch,Cleaning Tools,Spray Bottle,1,31.5,0.2,25.2,22.68,2.52,Mobile Wallet,Returning
+TXN-20506,2026-01-16,University Branch,Drinkware,Water Bottle,1,85.5,0.05,81.22,63.27,17.95,Cash,Returning
+TXN-20507,2026-02-28,Market Branch,Drinkware,Water Bottle,1,104.5,0.15,88.82,77.33,11.49,Mobile Wallet,Business Customer
+TXN-20508,2026-07-10,University Branch,Drinkware,Thermal Flask,3,288.0,0.2,691.2,578.88,112.32,Card,Returning
+TXN-20509,2026-01-24,University Branch,Cookware,Nonstick Tray,4,180.0,0.0,720.0,547.2,172.8,Card,Returning
+TXN-20510,2026-07-13,University Branch,Drinkware,Water Bottle,1,85.5,0.2,68.4,63.27,5.13,Card,Walk-in
+TXN-20511,2026-01-20,Main Branch,Cleaning Tools,Microfiber Cloths,1,58.5,0.1,52.65,43.88,8.77,Card,Walk-in
+TXN-20512,2026-04-12,Market Branch,Drinkware,Water Bottle,3,95.0,0.1,256.5,210.9,45.6,Cash,Walk-in
+TXN-20513,2026-09-14,Market Branch,Drinkware,Travel Mug,2,162.0,0.0,324.0,223.56,100.44,Instapay,Walk-in
+TXN-20514,2026-08-31,University Branch,Cleaning Tools,Mop Set,5,273.0,0.0,1365.0,955.5,409.5,Instapay,Returning
+TXN-20515,2026-04-07,University Branch,Cleaning Tools,Microfiber Cloths,4,68.25,0.1,245.7,204.76,40.94,Cash,Online Order
+TXN-20516,2026-06-04,University Branch,Drinkware,Glass Set,4,220.5,0.0,882.0,687.96,194.04,Cash,Walk-in
+TXN-20517,2026-03-23,University Branch,Cleaning Tools,Mop Set,1,260.0,0.0,260.0,182.0,78.0,Instapay,Walk-in
+TXN-20518,2026-08-22,University Branch,Drinkware,Thermal Flask,3,352.0,0.0,1056.0,707.52,348.48,Mobile Wallet,Online Order
+TXN-20519,2026-08-24,Main Branch,Cookware,Frying Pan,4,418.0,0.2,1337.6,1136.96,200.64,,Walk-in
+TXN-20520,2026-07-01,Market Branch,Cleaning Tools,Dish Brush,1,45.0,0.0,45.0,35.1,9.9,Mobile Wallet,Online Order
+TXN-20521,2026-04-13,University Branch,Cookware,Kitchen Knife Set,4,304.5,0.05,1157.1,791.72,365.38,Cash,Walk-in
+TXN-20522,2026-09-07,Main Branch,Cleaning Tools,Spray Bottle,3,31.5,0.05,89.78,68.04,21.74,Mobile Wallet,Returning
+TXN-20523,2026-06-29,Market Branch,Kitchen Storage,Spice Rack,1,231.0,0.15,196.35,161.7,34.65,Card,Walk-in
+TXN-20524,2026-02-21,Main Branch,Drinkware,Travel Mug,2,180.0,0.0,360.0,248.4,111.6,Instapay,Walk-in
+TXN-20525,2026-08-03,Market Branch,Cookware,Kitchen Knife Set,2,290.0,0.1,522.0,377.0,145.0,Card,Walk-in
+TXN-20526,2026-03-17,Main Branch,Drinkware,Glass Set,4,210.0,0.1,756.0,655.2,100.8,Card,Walk-in
+TXN-20527,2026-01-13,Main Branch,Cookware,Nonstick Tray,1,162.0,0.0,162.0,123.12,38.88,Mobile Wallet,Returning
+TXN-20528,2026-02-09,University Branch,Cleaning Tools,Microfiber Cloths,2,58.5,0.0,117.0,87.76,29.24,Cash,Walk-in
+TXN-20529,2026-02-09,Main Branch,Cookware,Cooking Pot,2,715.0,0.0,1430.0,1029.6,400.4,Cash,Walk-in
+TXN-20530,2026-02-06,Main Branch,Cleaning Tools,Spray Bottle,1,35.0,0.1,31.5,25.2,6.3,Cash,Walk-in
+TXN-20531,2026-08-30,University Branch,Cookware,Cooking Pot,5,650.0,0.0,3250.0,2340.0,910.0,Card,Online Order
+TXN-20532,2026-09-20,University Branch,Kitchen Storage,Lunch Box,2,126.0,0.05,239.4,189.0,50.4,Cash,Online Order
+TXN-20533,2026-03-05,Market Branch,Cleaning Tools,Dish Brush,1,40.5,0.0,40.5,31.59,8.91,Cash,Walk-in
+TXN-20534,2026-08-24,Main Branch,Drinkware,Thermal Flask,1,320.0,0.1,288.0,214.4,73.6,Instapay,Returning
+TXN-20535,2026-08-06,University Branch,Kitchen Storage,Lunch Box,2,120.0,0.1,216.0,180.0,36.0,Cash,Walk-in
+TXN-20536,2026-09-14,Market Branch,Kitchen Storage,Food Container Set,1,126.0,0.05,119.7,95.76,23.94,Instapay,Walk-in
+TXN-20537,2026-03-17,Market Branch,Kitchen Storage,Storage Jar,4,76.5,0.15,260.1,223.36,36.74,Mobile Wallet,Returning
+TXN-20538,2026-02-05,University Branch,Cleaning Tools,Spray Bottle,2,38.5,0.0,77.0,55.44,21.56,Instapay,Walk-in
+TXN-20539,2026-07-07,Main Branch,Drinkware,Glass Set,2,231.0,0.05,438.9,360.36,78.54,Card,Walk-in
+TXN-20540,2026-04-22,University Branch,Kitchen Storage,Storage Jar,2,93.5,0.05,177.65,136.52,41.13,Instapay,Online Order
+TXN-20541,2026-05-17,Main Branch,Kitchen Storage,Food Container Set,2,126.0,0.15,214.2,191.52,22.68,Cash,Business Customer
+TXN-20542,2026-03-12,Main Branch,Drinkware,Glass Set,4,231.0,0.0,924.0,720.72,203.28,Instapay,Returning
+TXN-20543,2026-05-13,Main Branch,Cookware,Frying Pan,5,342.0,0.15,1453.5,1162.8,290.7,Cash,Online Order
+TXN-20544,2026-05-05,University Branch,Drinkware,Thermal Flask,4,288.0,0.0,1152.0,771.84,380.16,Card,Returning
+TXN-20545,2026-07-03,Main Branch,Cleaning Tools,Microfiber Cloths,5,65.0,0.0,325.0,243.75,81.25,Card,Online Order
+TXN-20546,2026-04-08,Market Branch,Cleaning Tools,Spray Bottle,4,38.5,0.1,138.6,110.88,27.72,Cash,Online Order
+TXN-20547,2026-09-22,University Branch,Drinkware,Thermal Flask,4,352.0,0.0,1408.0,943.36,464.64,Mobile Wallet,Walk-in
+TXN-20548,2026-03-24,University Branch,Cookware,Nonstick Tray,2,162.0,0.0,-180.0,246.24,77.76,Cash,Walk-in
+TXN-20549,2026-05-15,University Branch,Kitchen Storage,Storage Jar,5,93.5,0.0,467.5,341.3,126.2,Card,Online Order
+TXN-20550,2026-03-25,Market Branch,Kitchen Storage,Storage Jar,1,85.0,0.1,76.5,62.05,14.45,Cash,Walk-in
+TXN-20551,2026-03-17,Main Branch,Drinkware,Thermal Flask,4,320.0,0.0,1280.0,857.6,422.4,Cash,Online Order
+TXN-20552,2026-03-16,Main Branch,Cookware,Cooking Pot,4,715.0,0.0,2860.0,2059.2,800.8,Instapay,Returning
+TXN-20553,2026-02-14,University Branch,Kitchen Storage,Lunch Box,2,126.0,0.0,252.0,189.0,63.0,Instapay,Walk-in
+TXN-20554,2026-03-13,Main Branch,Drinkware,Water Bottle,3,85.5,0.05,243.68,189.81,53.87,Cash,Online Order
+TXN-20555,2026-01-06,University Branch,Kitchen Storage,Lunch Box,5,132.0,0.0,660.0,495.0,165.0,Card,Walk-in
+TXN-20556,2026-01-25,Market Branch,Kitchen Storage,Spice Rack,1,242.0,0.15,205.7,169.4,36.3,Cash,Business Customer
+TXN-20557,2026-03-26,Main Branch,Kitchen Storage,Spice Rack,3,242.0,0.0,726.0,508.2,217.8,Cash,Online Order
+TXN-20558,2026-07-13,Main Branch,Kitchen Storage,Storage Jar,1,76.5,0.05,72.68,55.84,16.84,Card,Business Customer
+TXN-20559,2026-09-24,Main Branch,Cookware,Frying Pan,3,380.0,0.15,969.0,775.2,193.8,Mobile Wallet,Walk-in
+TXN-20560,2026-04-14,University Branch,Cookware,Nonstick Tray,2,180.0,0.2,288.0,273.6,14.4,Cash,Walk-in
+TXN-20561,2026-01-16,University Branch,Drinkware,Thermal Flask,1,288.0,0.2,230.4,192.96,37.44,Card,Online Order
+TXN-20562,2026-06-18,Main Branch,Kitchen Storage,Storage Jar,3,89.25,0.15,227.59,195.45,32.14,Cash,Business Customer
+TXN-20563,2026-03-30,University Branch,Kitchen Storage,Storage Jar,1,85.0,0.15,72.25,62.05,10.2,Cash,Walk-in
+TXN-20564,2026-02-09,University Branch,Cleaning Tools,Mop Set,1,260.0,0.15,221.0,182.0,39.0,Cash,Walk-in
+TXN-20565,2026-09-10,University Branch,Cookware,Cooking Pot,5,715.0,0.05,3396.25,2574.0,822.25,Card,Walk-in
+TXN-20566,2026-02-04,University Branch,Drinkware,Thermal Flask,1,288.0,0.2,230.4,192.96,37.44,Instapay,Walk-in
+TXN-20567,2026-02-10,Main Branch,Kitchen Storage,Storage Jar,3,76.5,0.2,183.6,167.52,16.08,Mobile Wallet,Walk-in
+TXN-20568,2026-06-27,Market Branch,Kitchen Storage,Food Container Set,1,126.0,0.15,107.1,95.76,11.34,Cash,Returning
+TXN-20569,2026-08-24,Main Branch,Cookware,Cooking Pot,4,650.0,0.1,2340.0,1872.0,468.0,Cash,Returning
+TXN-20570,2026-02-17,Main Branch,Cookware,Cooking Pot,4,715.0,0.0,2860.0,2059.2,800.8,Cash,Walk-in
+TXN-20571,2026-01-10,Main Branch,Cookware,Frying Pan,2,342.0,0.2,547.2,465.12,82.08,Mobile Wallet,Walk-in
+TXN-20572,2026-03-31,Main Branch,Cookware,Cooking Pot,2,650.0,0.15,1105.0,936.0,169.0,Mobile Wallet,Walk-in
+TXN-20573,2026-02-11,Main Branch,Drinkware,Thermal Flask,2,336.0,0.0,672.0,450.24,221.76,Card,Walk-in
+TXN-20574,2026-06-25,Market Branch,Cookware,Frying Pan,3,399.0,0.2,957.6,813.96,143.64,Cash,Walk-in
+TXN-20575,2026-07-01,Main Branch,Drinkware,Thermal Flask,2,320.0,0.0,640.0,428.8,211.2,Card,Business Customer
+TXN-20576,2026-03-12,Main Branch,Kitchen Storage,Storage Jar,2,85.0,0.0,170.0,124.1,45.9,Cash,Walk-in
+TXN-20577,2026-06-08,Market Branch,Kitchen Storage,Storage Jar,4,85.0,0.15,289.0,248.2,40.8,Card,Returning
+TXN-20578,2026-08-30,Market Branch,Cookware,Nonstick Tray,1,189.0,0.0,189.0,143.64,45.36,Cash,Online Order
+TXN-20579,2026-05-25,Main Branch,Kitchen Storage,Lunch Box,5,120.0,0.2,480.0,450.0,30.0,Cash,Walk-in
+TXN-20580,2026-02-13,Market Branch,Kitchen Storage,Storage Jar,5,89.25,0.0,446.25,325.75,120.5,Instapay,Returning
+TXN-20581,2026-03-09,Main Branch,Cleaning Tools,Dish Brush,2,40.5,0.05,76.95,63.18,13.77,Card,Business Customer
+TXN-20582,2026-05-11,Market Branch,Drinkware,Glass Set,2,210.0,0.15,357.0,327.6,29.4,,Walk-in
+TXN-20583,2026-05-22,Main Branch,Kitchen Storage,Spice Rack,5,220.0,0.0,1100.0,770.0,330.0,Cash,Walk-in
+TXN-20584,2026-03-15,Main Branch,Kitchen Storage,Food Container Set,1,140.0,0.0,140.0,106.4,33.6,Instapay,Returning
+TXN-20585,2026-06-20,University Branch,Cleaning Tools,Microfiber Cloths,1,71.5,0.0,71.5,53.62,17.88,Cash,Returning
+TXN-20586,2026-09-09,Market Branch,Cookware,Kitchen Knife Set,1,304.5,0.0,304.5,197.93,106.57,Mobile Wallet,Online Order
+TXN-20587,2026-09-07,Main Branch,Kitchen Storage,Lunch Box,5,126.0,0.1,567.0,472.5,94.5,Cash,Online Order
+TXN-20588,2026-06-05,Market Branch,Cleaning Tools,Dish Brush,2,47.25,0.0,94.5,73.72,20.78,Card,Walk-in
+TXN-20589,2026-01-22,Market Branch,Drinkware,Glass Set,2,210.0,0.15,357.0,327.6,29.4,Card,Walk-in
+TXN-20590,2026-06-22,Main Branch,Kitchen Storage,Storage Jar,1,76.5,0.0,76.5,55.84,20.66,Card,Walk-in
+TXN-20591,2026-09-19,University Branch,Cleaning Tools,Mop Set,4,234.0,0.0,936.0,655.2,280.8,Mobile Wallet,Walk-in
+TXN-20592,2026-01-09,Market Branch,Cleaning Tools,Mop Set,2,273.0,0.1,491.4,382.2,109.2,Card,Walk-in
+TXN-20593,2026-01-23,Market Branch,Drinkware,Glass Set,1,231.0,0.0,231.0,180.18,50.82,Cash,Walk-in
+TXN-20594,2026-02-20,Main Branch,Kitchen Storage,Food Container Set,1,140.0,0.0,140.0,106.4,33.6,Cash,Walk-in
+TXN-20595,2026-07-04,Main Branch,Cleaning Tools,Spray Bottle,2,38.5,0.0,77.0,55.44,21.56,Instapay,Returning
+TXN-20596,2026-06-27,University Branch,Kitchen Storage,Storage Jar,4,89.25,0.1,321.3,260.6,60.7,Instapay,Business Customer
+TXN-20597,2026-01-08,University Branch,Cleaning Tools,Mop Set,4,260.0,0.15,884.0,728.0,156.0,Card,Walk-in
+TXN-20598,2026-05-07,University Branch,Kitchen Storage,Spice Rack,1,220.0,0.1,198.0,154.0,44.0,Card,Walk-in
+TXN-20599,2026-04-25,Main Branch,Kitchen Storage,Storage Jar,1,85.0,0.0,85.0,62.05,22.95,Cash,Walk-in
+TXN-20600,2026-02-20,Main Branch,Drinkware,Water Bottle,3,85.5,0.0,256.5,189.81,66.69,Card,Walk-in
+TXN-20601,2026-01-02,Market Branch,Drinkware,Travel Mug,5,198.0,0.15,841.5,683.1,158.4,Mobile Wallet,Online Order
+TXN-20602,2026-02-04,Market Branch,Kitchen Storage,Storage Jar,1,76.5,0.1,68.85,55.84,13.01,Cash,Returning
+TXN-20603,2026-03-24,Main Branch,Cleaning Tools,Microfiber Cloths,2,58.5,0.0,117.0,87.76,29.24,Cash,Walk-in
+TXN-20604,2026-06-13,University Branch,Cleaning Tools,Dish Brush,1,45.0,0.15,38.25,35.1,3.15,Cash,Online Order
+TXN-20605,2026-05-22,Main Branch,Cookware,Kitchen Knife Set,4,319.0,0.0,1276.0,829.4,446.6,Cash,Walk-in
+TXN-20606,2026-01-08,University Branch,Cleaning Tools,Spray Bottle,2,38.5,0.15,65.45,55.44,10.01,Cash,Online Order
+TXN-20607,2026-09-17,University Branch,Drinkware,Glass Set,3,189.0,-0.25,453.6,442.26,11.34,Mobile Wallet,Returning
+TXN-20608,2026-04-21,University Branch,Drinkware,Glass Set,2,231.0,0.15,392.7,360.36,32.34,Card,Returning
+TXN-20609,2026-08-18,Main Branch,Cookware,Frying Pan,1,380.0,0.05,361.0,258.4,102.6,Cash,Walk-in
+TXN-20610,2026-09-07,Main Branch,Kitchen Storage,Lunch Box,5,120.0,0.2,480.0,450.0,30.0,Card,Online Order
+TXN-20611,2026-07-20,Market Branch,Drinkware,Travel Mug,1,180.0,0.15,153.0,124.2,28.8,Cash,Walk-in
+TXN-20612,2026-06-26,University Branch,Drinkware,Water Bottle,2,85.5,0.0,171.0,126.54,44.46,,Online Order
+TXN-20613,2026-08-16,University Branch,Drinkware,Glass Set,2,210.0,0.0,420.0,327.6,92.4,Card,Walk-in
+TXN-20614,2026-03-07,Main Branch,Cookware,Kitchen Knife Set,1,261.0,0.05,247.95,169.65,78.3,Cash,Returning
+TXN-20615,2026-07-30,University Branch,Cookware,Nonstick Tray,1,180.0,0.1,162.0,136.8,25.2,Cash,Walk-in
+TXN-20616,2026-08-11,University Branch,Cleaning Tools,Mop Set,1,234.0,0.0,234.0,163.8,70.2,Cash,Walk-in
+TXN-20617,2026-04-10,Market Branch,Cookware,Nonstick Tray,2,180.0,0.0,360.0,273.6,86.4,Cash,Returning
+TXN-20618,2026-02-18,Main Branch,Cookware,Nonstick Tray,4,180.0,0.0,720.0,547.2,172.8,Cash,Walk-in
+TXN-20619,2026-01-04,Market Branch,Drinkware,Glass Set,3,210.0,0.0,630.0,491.4,138.6,Cash,Returning
+TXN-20620,2026-01-02,Market Branch,Drinkware,Thermal Flask,4,320.0,0.05,1216.0,857.6,358.4,Cash,Walk-in
+TXN-20621,2026-05-04,University Branch,Kitchen Storage,Spice Rack,2,242.0,0.2,387.2,338.8,48.4,Cash,Online Order
+TXN-20622,2026-07-12,University Branch,Drinkware,Thermal Flask,1,320.0,0.2,256.0,214.4,41.6,Mobile Wallet,Walk-in
+TXN-20623,2026-01-09,University Branch,Cookware,Frying Pan,3,380.0,0.2,912.0,775.2,136.8,Cash,Online Order
+TXN-20624,2026-05-19,Market Branch,Cookware,Kitchen Knife Set,5,290.0,,1305.0,942.5,362.5,Card,Walk-in
+TXN-20625,2026-03-07,Main Branch,Drinkware,Thermal Flask,1,352.0,0.05,334.4,235.84,98.56,Cash,Walk-in
+TXN-20626,2026-01-12,University Branch,Cookware,Cooking Pot,3,650.0,0.0,1950.0,1404.0,546.0,Card,Business Customer
+TXN-20627,2026-03-27,Main Branch,Cookware,Frying Pan,5,380.0,0.0,1900.0,1292.0,608.0,Cash,Business Customer
+TXN-20628,2026-08-01,Market Branch,Cleaning Tools,Dish Brush,5,45.0,0.0,225.0,175.5,49.5,Cash,Online Order
+TXN-20629,2026-05-25,Main Branch,Cookware,Cooking Pot,1,650.0,0.0,650.0,468.0,182.0,Cash,Online Order
+TXN-20630,2026-08-14,University Branch,Cleaning Tools,Spray Bottle,1,38.5,0.15,32.72,27.72,5.0,Cash,Walk-in
+TXN-20631,2026-04-22,University Branch,Drinkware,Water Bottle,3,104.5,0.1,282.15,231.99,50.16,Cash,Business Customer
+TXN-20632,2026-09-22,Market Branch,Cookware,Nonstick Tray,1,189.0,0.0,189.0,143.64,45.36,Cash,Walk-in
+TXN-20633,2026-08-17,Main Branch,Cleaning Tools,Microfiber Cloths,1,65.0,0.1,58.5,48.75,9.75,Cash,Walk-in
+TXN-20634,2026-04-15,Main Branch,Cookware,Cooking Pot,4,650.0,0.0,2600.0,1872.0,728.0,Card,Returning
+TXN-20635,2026-05-14,Main Branch,Cookware,Cooking Pot,3,650.0,0.05,1852.5,1404.0,448.5,Mobile Wallet,Online Order
+TXN-20636,2026-01-22,Main Branch,Kitchen Storage,Food Container Set,4,154.0,0.1,554.4,468.16,86.24,Cash,Business Customer
+TXN-20637,2026-07-15,Main Branch,Cookware,Frying Pan,2,380.0,0.15,646.0,516.8,129.2,Card,Walk-in
+TXN-20638,2026-06-30,University Branch,Cleaning Tools,Dish Brush,3,47.25,0.1,127.58,110.58,17.0,Card,Returning
+TXN-20639,2026-05-13,Market Branch,Kitchen Storage,Spice Rack,4,198.0,0.0,792.0,554.4,237.6,Cash,Walk-in
+TXN-20640,2026-07-14,Market Branch,Drinkware,Thermal Flask,5,336.0,0.0,1680.0,1125.6,554.4,Instapay,Online Order
+TXN-20641,2026-06-06,Main Branch,Kitchen Storage,Storage Jar,1,76.5,0.1,68.85,55.84,13.01,Card,Returning
+TXN-20642,2026-09-07,Main Branch,Cookware,Nonstick Tray,3,162.0,0.0,486.0,369.36,116.64,Mobile Wallet,Business Customer
+TXN-20643,2026-07-29,Main Branch,Kitchen Storage,Spice Rack,2,198.0,0.05,376.2,277.2,99.0,Card,Online Order
+TXN-20644,2026-07-31,Main Branch,Cookware,Cooking Pot,2,585.0,0.15,994.5,842.4,152.1,Cash,Returning
+TXN-20645,2026-08-31,University Branch,Cleaning Tools,Spray Bottle,3,35.0,0.15,89.25,75.6,13.65,Cash,Online Order
+TXN-20646,2026-07-17,University Branch,Drinkware,Glass Set,2,231.0,0.1,415.8,360.36,55.44,Card,Walk-in
+TXN-20647,2026-08-21,University Branch,Drinkware,Thermal Flask,3,320.0,0.1,864.0,643.2,220.8,Instapay,Walk-in
+TXN-20648,2026-09-05,University Branch,Cookware,Kitchen Knife Set,5,261.0,0.15,1109.25,848.25,261.0,Cash,Walk-in
+TXN-20649,2026-08-20,Main Branch,Cookware,Kitchen Knife Set,1,-50.0,0.05,275.5,188.5,87.0,Cash,Walk-in
+TXN-20650,2026-01-25,University Branch,Drinkware,Travel Mug,1,180.0,0.1,162.0,124.2,37.8,,Walk-in
+TXN-20651,2026-04-10,University Branch,Cookware,Frying Pan,3,418.0,0.05,1191.3,852.72,338.58,Cash,Walk-in
+TXN-20652,2026-01-11,Main Branch,Cleaning Tools,Dish Brush,5,45.0,0.1,202.5,175.5,27.0,Card,Walk-in
+TXN-20653,2026-08-17,Main Branch,Kitchen Storage,Spice Rack,1,242.0,0.1,217.8,169.4,48.4,Cash,Walk-in
+TXN-20654,2026-02-19,Market Branch,Cookware,Nonstick Tray,1,189.0,0.2,151.2,143.64,7.56,Cash,Walk-in
+TXN-20655,2026-01-08,University Branch,Kitchen Storage,Food Container Set,1,154.0,0.05,146.3,117.04,29.26,Card,Returning
+TXN-20656,2026-03-12,Main Branch,Cookware,Kitchen Knife Set,1,304.5,0.0,304.5,197.93,106.57,Card,Walk-in
+TXN-20657,2026-01-08,University Branch,Drinkware,Travel Mug,2,180.0,0.0,360.0,248.4,111.6,Instapay,Walk-in
+TXN-20658,2026-05-20,University Branch,Cookware,Cooking Pot,2,682.5,0.2,1092.0,982.8,109.2,Cash,Online Order
+TXN-20659,2026-01-28,University Branch,Cleaning Tools,Dish Brush,1,40.5,0.0,40.5,31.59,8.91,,Returning
+TXN-20660,2026-03-04,Market Branch,Kitchen Storage,Spice Rack,5,220.0,0.2,880.0,770.0,110.0,Cash,Online Order
+TXN-20661,2026-01-23,Main Branch,Kitchen Storage,Storage Jar,1,85.0,0.05,80.75,62.05,18.7,Cash,Online Order
+TXN-20662,2026-04-15,Main Branch,Cleaning Tools,Microfiber Cloths,5,68.25,0.0,341.25,255.95,85.3,Mobile Wallet,Walk-in
+TXN-20663,2026-05-23,University Branch,Drinkware,Glass Set,4,189.0,0.0,756.0,589.68,166.32,Card,Returning
+TXN-20664,2026-05-24,University Branch,Drinkware,Travel Mug,1,189.0,0.0,189.0,130.41,58.59,Cash,Walk-in
+TXN-20665,2026-03-03,Main Branch,Cleaning Tools,Mop Set,1,234.0,0.15,198.9,163.8,35.1,Card,Returning
+TXN-20666,2026-05-14,University Branch,Cleaning Tools,Spray Bottle,1,36.75,0.0,36.75,26.46,10.29,Mobile Wallet,Returning
+TXN-20667,2026-08-21,University Branch,Kitchen Storage,Lunch Box,4,132.0,0.05,501.6,396.0,105.6,Instapay,Returning
+TXN-20668,2026-06-08,Main Branch,Cleaning Tools,Microfiber Cloths,1,71.5,0.0,71.5,53.62,17.88,Cash,Walk-in
+TXN-20669,2026-03-13,University Branch,Cleaning Tools,Dish Brush,4,40.5,0.0,162.0,126.36,35.64,Card,Online Order
+TXN-20670,2026-03-01,University Branch,Cookware,Nonstick Tray,3,198.0,0.15,504.9,451.44,53.46,Card,
+TXN-20671,2026-07-22,University Branch,Kitchen Storage,Food Container Set,1,140.0,0.1,126.0,106.4,19.6,Cash,Walk-in
+TXN-20672,2026-07-17,Market Branch,Drinkware,Thermal Flask,1,352.0,0.0,352.0,235.84,116.16,Mobile Wallet,Returning
+TXN-20673,2026-09-04,Main Branch,Cleaning Tools,Spray Bottle,1,36.75,0.15,31.24,26.46,4.78,Mobile Wallet,Walk-in
+TXN-20674,2026-07-21,University Branch,Kitchen Storage,Lunch Box,1,126.0,1.4,107.1,94.5,12.6,Cash,Online Order
+TXN-20675,2026-03-08,Main Branch,Cookware,Frying Pan,2,399.0,0.05,758.1,542.64,215.46,Mobile Wallet,Walk-in
+TXN-20676,2026-03-24,Market Branch,Cookware,Kitchen Knife Set,1,290.0,0.0,290.0,188.5,101.5,Cash,Walk-in
+TXN-20677,2026-08-05,University Branch,Cleaning Tools,Mop Set,1,260.0,0.2,208.0,182.0,26.0,Cash,Walk-in
+TXN-20678,2026-08-05,Main Branch,Kitchen Storage,Lunch Box,5,132.0,0.0,660.0,495.0,165.0,Cash,Business Customer
+TXN-20679,2026-07-04,Market Branch,Drinkware,Glass Set,5,210.0,0.0,1050.0,819.0,231.0,Cash,Returning
+TXN-20680,2026-07-29,Market Branch,Kitchen Storage,Lunch Box,2,132.0,0.15,224.4,198.0,26.4,Mobile Wallet,Returning
+TXN-20681,2026-02-02,University Branch,Kitchen Storage,Lunch Box,1,108.0,0.2,25000.0,81.0,5.4,Cash,Returning
+TXN-20682,2026-04-27,Main Branch,Cleaning Tools,Mop Set,3,234.0,0.15,596.7,491.4,105.3,Card,Business Customer
+TXN-20683,2026-03-19,University Branch,Cookware,Frying Pan,1,399.0,0.2,319.2,271.32,47.88,Cash,Walk-in
+TXN-20684,2026-07-01,University Branch,Cleaning Tools,Mop Set,1,273.0,0.2,218.4,191.1,27.3,Mobile Wallet,Returning
+TXN-20685,2026-08-27,Market Branch,Kitchen Storage,Storage Jar,5,85.0,0.1,382.5,310.25,72.25,Instapay,Walk-in
+TXN-20686,2026-08-14,Main Branch,Kitchen Storage,Food Container Set,5,140.0,0.0,700.0,532.0,168.0,Card,Returning
+TXN-20687,2026-09-03,Main Branch,Drinkware,Glass Set,2,210.0,0.0,420.0,327.6,92.4,Cash,Walk-in
+TXN-20688,2026-04-14,Main Branch,Cookware,Frying Pan,1,342.0,0.15,290.7,232.56,58.14,Card,Returning
+TXN-20689,2026-01-26,Market Branch,Drinkware,Water Bottle,1,95.0,0.15,80.75,70.3,10.45,Card,Online Order
+TXN-20690,2026-09-05,Market Branch,Cleaning Tools,Mop Set,2,273.0,0.05,518.7,382.2,136.5,Card,Walk-in
+TXN-20691,2026-07-29,University Branch,Kitchen Storage,Storage Jar,1,89.25,0.05,84.79,65.15,19.64,Cash,Walk-in
+TXN-20692,2026-05-07,Market Branch,Drinkware,Water Bottle,2,85.5,0.0,171.0,126.54,44.46,Card,Online Order
+TXN-20693,2026-02-13,Main Branch,Drinkware,Thermal Flask,3,336.0,0.0,1008.0,675.36,332.64,Mobile Wallet,Online Order
+TXN-20694,2026-03-05,Main Branch,Cookware,Cooking Pot,2,650.0,0.2,1040.0,936.0,104.0,Cash,Walk-in
+TXN-20695,2026-05-26,University Branch,Drinkware,Travel Mug,4,162.0,0.0,648.0,447.12,200.88,Card,Walk-in
+TXN-20696,2026-07-15,Main Branch,Kitchen Storage,Storage Jar,1,85.0,0.1,76.5,62.05,14.45,Instapay,Walk-in
+TXN-20697,2026-04-10,Market Branch,Cleaning Tools,Mop Set,2,,0.0,520.0,364.0,156.0,Card,Walk-in
+TXN-20698,2026-07-06,Main Branch,Cookware,Frying Pan,5,418.0,0.05,1985.5,1421.2,564.3,Mobile Wallet,Walk-in
+TXN-20699,2026-09-15,Main Branch,Cleaning Tools,Mop Set,4,260.0,0.0,1040.0,728.0,312.0,Card,Online Order
+TXN-20700,2026-06-05,Main Branch,Drinkware,Travel Mug,5,198.0,0.05,940.5,683.1,257.4,Card,Walk-in
+TXN-20701,2026-02-09,Main Branch,Cookware,Cooking Pot,1,650.0,0.05,617.5,468.0,149.5,Card,Walk-in
+TXN-20702,2026-09-10,Market Branch,Drinkware,Travel Mug,1,180.0,0.0,180.0,124.2,55.8,Cash,Walk-in
+TXN-20703,2026-04-22,Market Branch,Drinkware,Travel Mug,4,180.0,0.0,720.0,496.8,223.2,Card,Returning
+TXN-20704,2026-01-28,University Branch,Cookware,Kitchen Knife Set,5,319.0,0.05,1515.25,1036.75,478.5,Cash,Walk-in
+TXN-20705,2026-04-21,Main Branch,Cleaning Tools,Spray Bottle,1,31.5,0.0,31.5,22.68,8.82,Instapay,Returning
+TXN-20706,2026-03-02,Main Branch,Cookware,Kitchen Knife Set,1,319.0,0.1,287.1,207.35,79.75,Card,Walk-in
+TXN-20707,2026-01-27,Market Branch,Kitchen Storage,Lunch Box,2,108.0,0.1,194.4,162.0,32.4,Card,Online Order
+TXN-20708,2026-06-16,University Branch,Drinkware,Water Bottle,2,95.0,0.05,180.5,140.6,39.9,Mobile Wallet,Walk-in
+TXN-20709,2026-03-19,University Branch,Kitchen Storage,Lunch Box,5,126.0,0.0,630.0,472.5,157.5,Mobile Wallet,Walk-in
+TXN-20710,2026-05-21,Main Branch,Cleaning Tools,Spray Bottle,4,36.75,0.2,117.6,105.84,11.76,Card,Returning
+TXN-20711,2026-02-22,Market Branch,Cookware,Kitchen Knife Set,2,261.0,0.0,522.0,339.3,182.7,Mobile Wallet,Returning
+TXN-20712,2026-05-25,Market Branch,Kitchen Storage,Food Container Set,2,126.0,0.15,214.2,191.52,22.68,Cash,Returning
+TXN-20713,2026-04-13,Main Branch,Drinkware,Travel Mug,2,189.0,0.0,378.0,260.82,117.18,Card,Walk-in
+TXN-20714,2026-08-28,Main Branch,Kitchen Storage,Lunch Box,1,126.0,0.0,126.0,94.5,31.5,Cash,Returning
+TXN-20715,2026-07-13,Market Branch,Drinkware,Glass Set,1,210.0,0.15,178.5,163.8,14.7,Cash,Business Customer
+TXN-20716,2026-02-14,Market Branch,Kitchen Storage,Spice Rack,4,242.0,0.0,968.0,677.6,290.4,Cash,Walk-in
+TXN-20717,2026-03-31,University Branch,Cleaning Tools,Microfiber Cloths,5,68.25,0.2,273.0,255.95,17.05,Cash,Walk-in
+TXN-20718,2026-09-12,Main Branch,Drinkware,Glass Set,1,210.0,0.0,210.0,163.8,46.2,Instapay,Online Order
+TXN-20719,2026-04-05,University Branch,Kitchen Storage,Lunch Box,4,132.0,0.0,528.0,396.0,132.0,Card,Walk-in
+TXN-20720,2026-07-25,Main Branch,Kitchen Storage,Spice Rack,5,242.0,0.0,1210.0,847.0,363.0,Cash,Returning
+TXN-20721,2026-08-20,University Branch,Cookware,Cooking Pot,1,585.0,0.15,497.25,421.2,76.05,Card,Walk-in
+TXN-20722,2026-05-07,Main Branch,Cleaning Tools,Spray Bottle,1,36.75,0.0,36.75,26.46,10.29,Cash,Business Customer
+TXN-20723,2026-05-25,University Branch,Kitchen Storage,Spice Rack,4,242.0,0.0,968.0,677.6,290.4,Cash,Returning
+TXN-20724,2026-06-07,Main Branch,Cookware,Frying Pan,1,399.0,0.0,399.0,271.32,127.68,Card,Returning
+TXN-20725,2026-01-14,University Branch,Cleaning Tools,Spray Bottle,1,35.0,0.1,31.5,25.2,6.3,Mobile Wallet,Business Customer
+TXN-20726,2026-01-09,University Branch,Kitchen Storage,Spice Rack,3,242.0,0.0,726.0,508.2,217.8,Cash,Walk-in
+TXN-20727,2026-04-01,Main Branch,Drinkware,Glass Set,4,210.0,0.0,840.0,655.2,184.8,Cash,Business Customer
+TXN-20728,2026-03-10,University Branch,Cleaning Tools,Dish Brush,2,45.0,0.15,76.5,70.2,6.3,Mobile Wallet,Returning
+TXN-20729,2026-02-24,Main Branch,Drinkware,Water Bottle,3,95.0,0.0,285.0,210.9,74.1,Cash,Walk-in
+TXN-20730,2026-08-29,University Branch,Drinkware,Glass Set,4,210.0,0.1,756.0,655.2,100.8,Cash,Walk-in
+TXN-20731,2026-07-08,University Branch,Kitchen Storage,Spice Rack,1,231.0,0.0,231.0,161.7,69.3,Cash,Online Order
+TXN-20732,2026-04-18,Market Branch,Drinkware,Travel Mug,5,189.0,0.0,945.0,652.05,292.95,Mobile Wallet,Business Customer
+TXN-20733,2026-05-30,Main Branch,Cookware,Nonstick Tray,1,198.0,0.15,168.3,150.48,17.82,Card,Returning
+TXN-20734,2026-06-16,University Branch,Cookware,Frying Pan,5,418.0,0.05,1985.5,1421.2,564.3,Cash,
+TXN-20735,2026-08-23,Main Branch,Cleaning Tools,Microfiber Cloths,1,68.25,0.05,64.84,51.19,13.65,Mobile Wallet,Returning
+TXN-20736,2026-03-12,University Branch,Cleaning Tools,Mop Set,3,286.0,0.05,815.1,600.6,214.5,Cash,Online Order
+TXN-20737,2026-01-15,University Branch,Cleaning Tools,Microfiber Cloths,4,68.25,0.2,218.4,204.76,13.64,Cash,Returning
+TXN-20738,2026-05-23,Market Branch,Cookware,Kitchen Knife Set,4,261.0,0.0,1044.0,678.6,365.4,Cash,Returning
+TXN-20739,2026-03-22,Main Branch,Cookware,Cooking Pot,5,682.5,0.2,2730.0,2457.0,273.0,Cash,Walk-in
+TXN-20740,2026-02-27,Main Branch,Drinkware,Thermal Flask,4,352.0,0.05,1337.6,943.36,394.24,Cash,Returning
+TXN-20741,2026-04-25,Main Branch,Kitchen Storage,Lunch Box,1,108.0,0.1,97.2,81.0,16.2,Mobile Wallet,Returning
+TXN-20742,2026-08-12,Main Branch,Cookware,Kitchen Knife Set,2,304.5,0.0,609.0,395.86,213.14,Mobile Wallet,Business Customer
+TXN-20743,2026-07-04,Main Branch,Cookware,Kitchen Knife Set,2,319.0,0.1,574.2,414.7,159.5,Card,Walk-in
+TXN-20744,2026-05-08,University Branch,Kitchen Storage,Lunch Box,1,132.0,0.0,132.0,99.0,33.0,Cash,Returning
+TXN-20745,2026-07-25,University Branch,Kitchen Storage,Spice Rack,1,220.0,0.0,220.0,154.0,66.0,Mobile Wallet,Walk-in
+TXN-20746,2026-07-23,University Branch,Drinkware,Water Bottle,1,99.75,0.0,99.75,73.81,25.94,Cash,Walk-in
+TXN-20747,2026-07-14,Market Branch,Cookware,Nonstick Tray,1,189.0,0.15,160.65,143.64,17.01,Cash,Business Customer
+TXN-20748,2026-03-27,Market Branch,Kitchen Storage,Spice Rack,2,242.0,0.15,411.4,338.8,72.6,Cash,Walk-in
+TXN-20749,2026-06-22,University Branch,Cleaning Tools,Dish Brush,2,45.0,0.15,76.5,70.2,6.3,Cash,Returning
+TXN-20750,2026-05-05,Main Branch,Cleaning Tools,Mop Set,3,234.0,0.2,561.6,491.4,70.2,Cash,Returning
+TXN-20751,2026-05-22,Main Branch,Cleaning Tools,Microfiber Cloths,4,71.5,0.0,286.0,214.48,71.52,Cash,Online Order
+TXN-20752,2026-03-15,Main Branch,Kitchen Storage,Lunch Box,5,120.0,0.0,600.0,450.0,150.0,Cash,Walk-in
+TXN-20753,2026-04-27,Market Branch,Drinkware,Travel Mug,1,180.0,0.0,180.0,124.2,55.8,Cash,Walk-in
+TXN-20754,2026-08-15,Market Branch,Kitchen Storage,Spice Rack,3,242.0,0.0,726.0,508.2,217.8,Card,Returning
+TXN-20755,2026-07-30,University Branch,Kitchen Storage,Storage Jar,1,85.0,0.0,85.0,62.05,22.95,Card,Online Order
+TXN-20756,2026-09-01,Market Branch,Cookware,Frying Pan,4,380.0,0.0,1520.0,1033.6,486.4,,Returning
+TXN-20757,2026-02-06,University Branch,Kitchen Storage,Lunch Box,1,120.0,0.2,96.0,90.0,6.0,Cash,Walk-in
+TXN-20758,2026-05-14,Main Branch,Cleaning Tools,Dish Brush,2,47.25,0.0,94.5,73.72,20.78,Card,Walk-in
+TXN-20759,2026-02-20,Main Branch,Cookware,Nonstick Tray,2,189.0,0.1,340.2,287.28,52.92,Cash,Business Customer
+TXN-20760,2026-05-15,University Branch,Cleaning Tools,Microfiber Cloths,3,65.0,0.15,165.75,146.25,19.5,Cash,Walk-in
+TXN-20761,2026-09-26,University Branch,Drinkware,Water Bottle,2,104.5,0.15,177.65,154.66,22.99,Cash,Online Order
+TXN-20762,2026-03-12,Market Branch,Cleaning Tools,Microfiber Cloths,3,65.0,0.05,185.25,146.25,39.0,Cash,Walk-in
+TXN-20763,2026-06-05,Main Branch,Cleaning Tools,Microfiber Cloths,2,58.5,0.05,111.15,87.76,23.39,Mobile Wallet,Walk-in
+TXN-20764,2026-05-01,University Branch,Cookware,Nonstick Tray,2,198.0,0.0,396.0,300.96,95.04,Cash,Walk-in
+TXN-20765,2026-08-16,University Branch,Kitchen Storage,Food Container Set,1,154.0,0.05,146.3,117.04,29.26,Cash,Business Customer
+TXN-20766,2026-06-20,Main Branch,Drinkware,Thermal Flask,3,320.0,0.0,960.0,643.2,316.8,Cash,Walk-in
+TXN-20767,2026-02-28,Main Branch,Cookware,Frying Pan,1,342.0,0.0,342.0,232.56,109.44,Cash,Walk-in
+TXN-20768,2026-09-04,Main Branch,Kitchen Storage,Lunch Box,3,132.0,0.0,396.0,297.0,99.0,Card,Business Customer
+TXN-20769,2026-02-28,Market Branch,Kitchen Storage,Storage Jar,5,85.0,0.0,425.0,310.25,114.75,Mobile Wallet,Walk-in
+TXN-20770,2026-05-20,University Branch,Kitchen Storage,Spice Rack,5,231.0,0.0,1155.0,808.5,346.5,Cash,Walk-in
+TXN-20771,2026-05-05,Main Branch,Drinkware,Travel Mug,3,198.0,0.0,594.0,409.86,184.14,Mobile Wallet,Business Customer
+TXN-20772,2026-08-29,Market Branch,Cleaning Tools,Dish Brush,3,47.25,0.1,127.58,110.58,17.0,Cash,Walk-in
+TXN-20773,2026-09-16,University Branch,Cleaning Tools,Microfiber Cloths,1,65.0,0.0,65.0,48.75,16.25,Instapay,Online Order
+TXN-20774,2026-03-29,University Branch,Drinkware,Thermal Flask,1,320.0,0.0,320.0,214.4,105.6,Instapay,Online Order
+TXN-20775,2026-09-12,Main Branch,Drinkware,Glass Set,3,210.0,0.1,567.0,491.4,75.6,Card,Walk-in
+TXN-20776,2026-01-10,Main Branch,Cleaning Tools,Dish Brush,1,49.5,0.0,49.5,38.61,10.89,Cash,Online Order
+TXN-20777,2026-01-27,Main Branch,Cookware,Nonstick Tray,2,180.0,0.2,288.0,273.6,14.4,Cash,Returning
+TXN-20778,2026-01-21,University Branch,Cookware,Cooking Pot,1,650.0,0.0,650.0,468.0,182.0,Card,Business Customer
+TXN-20779,2026-08-27,Main Branch,Cleaning Tools,Dish Brush,5,49.5,0.15,210.38,193.05,17.33,Cash,Online Order
+TXN-20780,2026-09-25,Main Branch,Kitchen Storage,Lunch Box,1,120.0,0.05,114.0,90.0,24.0,Cash,Walk-in
+TXN-20781,2026-09-17,Market Branch,Kitchen Storage,Storage Jar,1,76.5,0.2,61.2,55.84,5.36,Instapay,Walk-in
+TXN-20782,2026-06-06,Main Branch,Kitchen Storage,Spice Rack,5,,0.0,1100.0,770.0,330.0,Cash,Walk-in
+TXN-20783,2026-03-11,Main Branch,Cleaning Tools,Dish Brush,2,45.0,0.0,90.0,70.2,19.8,Cash,Returning
+TXN-20784,2026-09-25,University Branch,Cleaning Tools,Dish Brush,4,49.5,0.15,168.3,154.44,13.86,Card,Walk-in
+TXN-20785,2026-07-10,Main Branch,Drinkware,Thermal Flask,5,336.0,0.0,25000.0,1125.6,554.4,Card,Online Order
+TXN-20786,2026-07-27,University Branch,Cookware,Frying Pan,3,342.0,0.15,872.1,697.68,174.42,Card,Walk-in
+TXN-20787,2026-01-17,Market Branch,Kitchen Storage,Storage Jar,5,85.0,0.0,425.0,310.25,114.75,Cash,Walk-in
+TXN-20788,2026-05-18,Main Branch,Cookware,Kitchen Knife Set,3,304.5,0.0,913.5,593.79,319.71,Cash,Business Customer
+TXN-20789,2026-08-26,Main Branch,Cleaning Tools,Microfiber Cloths,2,71.5,0.1,128.7,107.24,21.46,Cash,Online Order
+TXN-20790,2026-03-25,University Branch,Cookware,Nonstick Tray,2,189.0,0.0,378.0,287.28,90.72,Card,Returning
+TXN-20791,2026-05-21,Market Branch,Kitchen Storage,Spice Rack,1,220.0,0.0,220.0,154.0,66.0,Cash,Walk-in
+TXN-20792,2026-05-16,University Branch,Kitchen Storage,Storage Jar,3,93.5,0.1,252.45,204.78,47.67,Cash,Walk-in
+TXN-20793,2026-01-03,Main Branch,Kitchen Storage,Spice Rack,1,198.0,0.1,178.2,138.6,39.6,Card,Walk-in
+TXN-20794,2026-08-26,University Branch,Drinkware,Thermal Flask,1,288.0,0.2,230.4,192.96,37.44,Mobile Wallet,Online Order
+TXN-20795,2026-09-10,Main Branch,Drinkware,Glass Set,3,189.0,0.15,481.95,442.26,39.69,Instapay,Returning
+TXN-20796,2026-08-07,Market Branch,Cookware,Frying Pan,2,399.0,0.1,718.2,542.64,175.56,Cash,Business Customer
+TXN-20797,2026-07-11,Market Branch,Cookware,Frying Pan,3,380.0,0.1,1026.0,775.2,250.8,Card,Walk-in
+TXN-20798,2026-02-20,University Branch,Cleaning Tools,Dish Brush,1,49.5,0.1,44.55,38.61,5.94,Cash,Walk-in
+TXN-20799,2026-08-27,Main Branch,Drinkware,Thermal Flask,2,288.0,0.2,460.8,385.92,74.88,Mobile Wallet,Returning
+TXN-20800,2026-03-22,University Branch,Cleaning Tools,Dish Brush,2,47.25,0.0,94.5,73.72,20.78,Cash,Walk-in
+TXN-20801,2026-01-16,Market Branch,Cookware,Cooking Pot,1,650.0,0.05,617.5,468.0,149.5,Cash,Returning
+TXN-20802,2026-07-29,Main Branch,Drinkware,Glass Set,2,210.0,0.0,420.0,327.6,92.4,Cash,Walk-in
+TXN-20803,2026-02-21,University Branch,Cookware,Cooking Pot,1,715.0,0.1,643.5,514.8,128.7,Cash,Returning
+TXN-20804,2026-07-22,University Branch,Cookware,Kitchen Knife Set,3,261.0,0.05,743.85,508.95,234.9,Cash,Returning
+TXN-20805,2026-01-28,Main Branch,Kitchen Storage,Spice Rack,1,220.0,0.05,209.0,154.0,55.0,Cash,Walk-in
+TXN-20806,2026-02-08,Main Branch,Cookware,Nonstick Tray,2,162.0,0.0,324.0,246.24,77.76,Card,Walk-in
+TXN-20807,2026-05-09,Main Branch,Kitchen Storage,Food Container Set,3,140.0,0.0,420.0,319.2,100.8,Cash,Online Order
+TXN-20808,2026-04-11,Main Branch,Cleaning Tools,Dish Brush,2,47.25,0.05,89.78,73.72,16.06,Cash,Returning
+TXN-20809,2026-07-04,Main Branch,Kitchen Storage,Spice Rack,5,242.0,0.15,1028.5,847.0,181.5,Cash,Walk-in
+TXN-20810,2026-05-18,University Branch,Kitchen Storage,Lunch Box,1,120.0,0.0,120.0,90.0,30.0,Card,Online Order
+TXN-20811,2026-03-20,University Branch,Cleaning Tools,Spray Bottle,2,35.0,0.0,70.0,50.4,19.6,Card,Online Order
+TXN-20812,2026-09-07,Main Branch,Drinkware,Water Bottle,1,85.5,0.0,85.5,63.27,22.23,Instapay,Online Order
+TXN-20813,2026-04-10,Main Branch,Cookware,Nonstick Tray,2,198.0,0.0,396.0,300.96,95.04,Cash,Online Order
+TXN-20814,2026-04-24,Market Branch,Cookware,Cooking Pot,1,650.0,0.05,617.5,468.0,149.5,Mobile Wallet,Returning
+TXN-20815,2026-07-17,University Branch,Cleaning Tools,Mop Set,1,286.0,0.0,286.0,200.2,85.8,Cash,Returning
+TXN-20816,2026-02-09,Main Branch,Kitchen Storage,Spice Rack,3,198.0,0.1,534.6,415.8,118.8,Cash,Business Customer
+TXN-20817,2026-02-21,University Branch,Cookware,Nonstick Tray,3,180.0,0.1,486.0,410.4,75.6,Card,Walk-in
+TXN-20818,2026-07-19,Market Branch,Cleaning Tools,Spray Bottle,5,35.0,0.2,140.0,126.0,14.0,Card,Returning
+TXN-20819,2026-04-30,Main Branch,Drinkware,Travel Mug,2,162.0,0.0,324.0,223.56,100.44,Cash,Business Customer
+TXN-20820,2026-02-28,Market Branch,Drinkware,Water Bottle,3,95.0,0.0,285.0,210.9,74.1,Card,Walk-in
+TXN-20821,2026-07-04,Main Branch,Drinkware,Thermal Flask,1,288.0,0.0,288.0,192.96,95.04,Mobile Wallet,
+TXN-20822,2026-04-18,Market Branch,Cookware,Frying Pan,4,399.0,0.1,1436.4,1085.28,351.12,Instapay,Walk-in
+TXN-20823,2026-03-08,University Branch,Kitchen Storage,Food Container Set,5,154.0,0.15,654.5,585.2,69.3,Card,Business Customer
+TXN-20824,2026-07-22,University Branch,Drinkware,Thermal Flask,4,336.0,0.0,1344.0,900.48,443.52,Card,Returning
+TXN-20825,2026-03-31,University Branch,Kitchen Storage,Food Container Set,2,154.0,0.1,277.2,234.08,43.12,Cash,Business Customer
+TXN-20826,2026-08-12,University Branch,Cookware,Cooking Pot,3,585.0,0.2,1404.0,1263.6,140.4,Card,Walk-in
+TXN-20827,2026-09-22,Main Branch,Kitchen Storage,Storage Jar,1,76.5,0.1,68.85,55.84,13.01,Card,Walk-in
+TXN-20828,2026-02-23,Main Branch,Cookware,Kitchen Knife Set,1,290.0,0.2,232.0,188.5,43.5,Cash,Returning
+TXN-20829,2026-03-22,Market Branch,Cleaning Tools,Microfiber Cloths,2,71.5,0.2,114.4,107.24,7.16,Instapay,Returning
+TXN-20830,2026-08-22,Main Branch,Drinkware,Travel Mug,3,189.0,0.2,453.6,391.23,62.37,Card,Online Order
+TXN-20831,2026-05-23,University Branch,Cookware,Frying Pan,5,418.0,0.15,1776.5,1421.2,355.3,Cash,Returning
+TXN-20832,2026-05-02,Market Branch,Cleaning Tools,Mop Set,3,234.0,0.15,596.7,491.4,105.3,Cash,Business Customer
+TXN-20833,2026-07-04,Market Branch,Cookware,Nonstick Tray,1,162.0,0.2,129.6,123.12,6.48,Cash,Walk-in
+TXN-20834,2026-07-29,University Branch,Cleaning Tools,Dish Brush,1,47.25,0.0,47.25,36.86,10.39,Card,Walk-in
+TXN-20835,2026-04-19,Main Branch,Cleaning Tools,Spray Bottle,1,,0.0,35.0,25.2,9.8,Cash,Returning
+TXN-20836,2026-07-01,University Branch,Drinkware,Water Bottle,2,85.5,0.1,153.9,126.54,27.36,Cash,Online Order
+TXN-20837,2026-06-26,University Branch,Kitchen Storage,Storage Jar,1,76.5,0.05,72.68,55.84,16.84,Cash,Walk-in
+TXN-20838,2026-02-21,Main Branch,Cookware,Kitchen Knife Set,1,290.0,0.15,246.5,188.5,58.0,Cash,Walk-in
+TXN-20839,2026-08-16,University Branch,Kitchen Storage,Storage Jar,1,85.0,0.1,76.5,62.05,14.45,Cash,Returning
+TXN-20840,2026-09-06,University Branch,Cookware,Cooking Pot,4,650.0,0.0,2600.0,1872.0,728.0,Cash,Returning
+TXN-20841,2026-06-11,Main Branch,Kitchen Storage,Storage Jar,1,89.25,0.05,84.79,65.15,19.64,Cash,Walk-in
+TXN-20842,2026-05-13,Main Branch,Cookware,Nonstick Tray,2,162.0,0.0,324.0,246.24,77.76,Card,Walk-in
+TXN-20843,2026-03-09,Main Branch,Cleaning Tools,Microfiber Cloths,5,71.5,0.05,339.62,268.1,71.52,Cash,Walk-in
+TXN-20844,2026-02-09,University Branch,Cleaning Tools,Microfiber Cloths,1,58.5,0.1,52.65,43.88,8.77,Cash,Online Order
+TXN-20845,2026-07-27,Main Branch,Cookware,Cooking Pot,1,682.5,0.0,682.5,491.4,191.1,Mobile Wallet,Returning
+TXN-20846,2026-08-18,Main Branch,Kitchen Storage,Storage Jar,4,76.5,0.0,306.0,223.36,82.64,Cash,Returning
+TXN-20847,2026-04-25,Main Branch,Cookware,Cooking Pot,4,650.0,0.1,2340.0,1872.0,468.0,Instapay,Returning
+TXN-20848,2026-07-05,Market Branch,Kitchen Storage,Spice Rack,3,231.0,0.0,693.0,485.1,207.9,Cash,Walk-in
+TXN-20849,2026-07-05,University Branch,Cleaning Tools,Mop Set,1,286.0,0.1,257.4,200.2,57.2,Cash,Walk-in
+TXN-20850,2026-03-21,Main Branch,Kitchen Storage,Lunch Box,3,120.0,0.2,288.0,270.0,18.0,Instapay,Walk-in
+TXN-20851,2026-08-20,Main Branch,Cleaning Tools,Mop Set,1,260.0,0.0,260.0,182.0,78.0,Instapay,Walk-in
+TXN-20852,2026-06-19,Main Branch,Kitchen Storage,Spice Rack,2,220.0,0.2,352.0,308.0,44.0,Card,Walk-in
+TXN-20853,2026-04-03,Main Branch,Kitchen Storage,Lunch Box,3,108.0,0.0,324.0,243.0,81.0,Cash,Walk-in
+TXN-20854,2026-06-05,Market Branch,Kitchen Storage,Spice Rack,3,220.0,0.15,561.0,462.0,99.0,Cash,Returning
+TXN-20855,2026-03-23,Main Branch,Cleaning Tools,Microfiber Cloths,2,68.25,0.1,122.85,102.38,20.47,Mobile Wallet,Walk-in
+TXN-20856,2026-03-08,Main Branch,Cleaning Tools,Dish Brush,1,49.5,0.15,42.08,38.61,3.47,Mobile Wallet,Walk-in
+TXN-20857,2026-08-03,University Branch,Cleaning Tools,Mop Set,3,286.0,0.0,858.0,600.6,257.4,Mobile Wallet,Walk-in
+TXN-20858,2026-06-12,University Branch,Cleaning Tools,Spray Bottle,2,35.0,0.0,70.0,50.4,19.6,Card,Returning
+TXN-20859,2026-09-10,Main Branch,Kitchen Storage,Lunch Box,3,132.0,0.0,396.0,297.0,99.0,Card,Online Order
+TXN-20860,2026-07-08,University Branch,Kitchen Storage,Spice Rack,2,242.0,0.2,387.2,338.8,48.4,Instapay,Walk-in
+TXN-20861,2026-05-15,Main Branch,Drinkware,Travel Mug,3,162.0,0.0,486.0,335.34,150.66,Cash,Walk-in
+TXN-20862,2026-08-06,Main Branch,Drinkware,Thermal Flask,1,336.0,0.15,285.6,225.12,60.48,Card,Returning
+TXN-20863,2026-09-13,Market Branch,Cleaning Tools,Dish Brush,1,49.5,0.1,44.55,38.61,5.94,Cash,Walk-in
+TXN-20864,2026-01-15,Main Branch,Drinkware,Water Bottle,4,95.0,0.05,361.0,281.2,79.8,Cash,Walk-in
+TXN-20865,2026-08-03,Main Branch,Drinkware,Glass Set,1,210.0,0.1,189.0,163.8,25.2,Mobile Wallet,Returning
+TXN-20866,2026-01-26,University Branch,Cleaning Tools,Mop Set,3,234.0,0.1,631.8,491.4,140.4,Card,Walk-in
+TXN-20867,2026-08-20,Main Branch,Kitchen Storage,Spice Rack,5,220.0,0.0,1100.0,770.0,330.0,Card,Walk-in
+TXN-20868,2026-04-08,University Branch,Cleaning Tools,Mop Set,2,260.0,0.0,520.0,364.0,156.0,Cash,Walk-in
+TXN-20869,2026-09-12,Main Branch,Kitchen Storage,Lunch Box,2,120.0,0.0,240.0,180.0,60.0,Cash,Walk-in
+TXN-20870,2026-08-03,Main Branch,Kitchen Storage,Storage Jar,1,85.0,0.0,85.0,62.05,22.95,Card,Walk-in
+TXN-20871,2026-09-20,Main Branch,Cleaning Tools,Mop Set,4,234.0,0.0,936.0,655.2,280.8,Cash,Walk-in
+TXN-20872,2026-09-18,Main Branch,Cleaning Tools,Mop Set,1,260.0,0.0,260.0,182.0,78.0,Instapay,Online Order
+TXN-20873,2026-02-18,University Branch,Drinkware,Glass Set,1,210.0,0.0,210.0,163.8,46.2,Cash,Walk-in
+TXN-20874,2026-05-03,Market Branch,Cookware,Nonstick Tray,1,162.0,0.0,162.0,123.12,38.88,Card,Returning
+TXN-20875,2026-06-22,Main Branch,Kitchen Storage,Spice Rack,1,220.0,0.05,209.0,154.0,55.0,Cash,Returning
+TXN-20876,2026-01-26,University Branch,Cookware,Kitchen Knife Set,2,290.0,0.2,464.0,377.0,87.0,Cash,Walk-in
+TXN-20877,2026-04-20,University Branch,Cleaning Tools,Microfiber Cloths,2,71.5,0.05,135.85,107.24,28.61,Cash,Returning
+TXN-20878,2026-04-02,University Branch,Kitchen Storage,Food Container Set,2,126.0,0.0,252.0,191.52,60.48,Mobile Wallet,Online Order
+TXN-20879,2026-06-08,Main Branch,Drinkware,Thermal Flask,2,320.0,0.05,608.0,428.8,179.2,Cash,Walk-in
+TXN-20880,2026-06-30,Main Branch,Cleaning Tools,Dish Brush,1,40.5,0.0,40.5,31.59,8.91,Card,Returning
+TXN-20881,2026-02-26,Main Branch,Cleaning Tools,Mop Set,2,273.0,0.0,546.0,382.2,163.8,Cash,Walk-in
+TXN-20882,2026-07-23,Market Branch,Cleaning Tools,Microfiber Cloths,3,65.0,0.2,156.0,146.25,9.75,Card,Walk-in
+TXN-20883,2026-07-09,Main Branch,Cookware,Frying Pan,2,380.0,0.0,760.0,516.8,243.2,Instapay,Returning
+TXN-20884,2026-06-10,Market Branch,Drinkware,Glass Set,2,189.0,0.0,378.0,294.84,83.16,Cash,Business Customer
+TXN-20885,2026-04-12,Main Branch,Cookware,Frying Pan,5,380.0,0.1,1710.0,1292.0,418.0,Cash,Online Order
+TXN-20886,2026-04-02,Main Branch,Drinkware,Glass Set,2,210.0,0.15,357.0,327.6,29.4,Cash,Walk-in
+TXN-20887,2026-06-14,Market Branch,Cleaning Tools,Mop Set,5,234.0,0.2,936.0,819.0,117.0,Mobile Wallet,Walk-in
+TXN-20888,2026-06-14,University Branch,Kitchen Storage,Storage Jar,1,89.25,0.2,71.4,65.15,6.25,Cash,Online Order
+TXN-20889,2026-05-13,Main Branch,Cookware,Cooking Pot,5,650.0,0.0,3250.0,2340.0,910.0,Mobile Wallet,Walk-in
+TXN-20890,2026-05-08,University Branch,Cookware,Kitchen Knife Set,3,319.0,0.15,813.45,622.05,191.4,Cash,Walk-in
+TXN-20891,2026-06-18,Main Branch,Cookware,Nonstick Tray,1,162.0,0.15,137.7,123.12,14.58,Cash,Online Order
+TXN-20892,2026-03-13,Main Branch,Cookware,Cooking Pot,3,585.0,0.2,1404.0,1263.6,140.4,Cash,Walk-in
+TXN-20893,2026-01-06,Main Branch,Kitchen Storage,Storage Jar,2,89.25,0.15,151.72,130.3,21.42,Mobile Wallet,Returning
+TXN-20894,2026-05-19,Market Branch,Kitchen Storage,Storage Jar,1,85.0,0.0,85.0,62.05,22.95,Instapay,Walk-in
+TXN-20895,2026-02-14,Market Branch,Cleaning Tools,Spray Bottle,2,36.75,0.0,73.5,52.92,20.58,Mobile Wallet,Online Order
+TXN-20896,2026-01-12,Main Branch,Cleaning Tools,Microfiber Cloths,1,65.0,0.0,65.0,48.75,16.25,Instapay,Returning
+TXN-20897,2026-08-24,University Branch,Cleaning Tools,Microfiber Cloths,1,71.5,0.0,71.5,53.62,17.88,Instapay,Walk-in
+TXN-20898,2026-07-11,Market Branch,Kitchen Storage,Food Container Set,1,140.0,0.05,133.0,106.4,26.6,Cash,Walk-in
+TXN-20899,2026-07-11,Main Branch,Kitchen Storage,Storage Jar,3,85.0,,255.0,186.15,68.85,Card,Business Customer
+TXN-20900,2026-04-18,Market Branch,Cleaning Tools,Mop Set,2,273.0,0.1,491.4,382.2,109.2,Mobile Wallet,Walk-in
+TXN-20901,2026-02-10,Market Branch,Drinkware,Water Bottle,4,95.0,0.15,323.0,281.2,41.8,Mobile Wallet,Walk-in
+TXN-20902,2026-05-12,University Branch,Kitchen Storage,Lunch Box,1,108.0,0.2,86.4,81.0,5.4,Cash,Online Order
+TXN-20903,2026-02-07,University Branch,Drinkware,Water Bottle,2,95.0,0.0,190.0,140.6,49.4,Card,Walk-in
+TXN-20904,2026-07-13,University Branch,Cleaning Tools,Spray Bottle,2,35.0,0.2,56.0,50.4,5.6,Cash,Walk-in
+TXN-20905,2026-07-20,University Branch,Drinkware,Glass Set,2,231.0,0.0,462.0,360.36,101.64,Cash,Business Customer
+TXN-20906,2026-06-14,Main Branch,Cleaning Tools,Dish Brush,3,49.5,0.1,133.65,115.83,17.82,Card,Walk-in
+TXN-20907,2026-03-18,Main Branch,Cleaning Tools,Mop Set,1,260.0,0.15,221.0,182.0,39.0,Mobile Wallet,Returning
+TXN-20908,2026-04-14,Main Branch,Kitchen Storage,Food Container Set,5,140.0,0.05,665.0,532.0,133.0,Cash,Online Order
+TXN-20909,2026-06-06,Market Branch,Cookware,Frying Pan,1,380.0,0.1,342.0,258.4,83.6,Cash,Returning
+TXN-20910,2026-06-19,Main Branch,Cookware,Kitchen Knife Set,3,290.0,0.0,870.0,565.5,304.5,Card,Returning
+TXN-20911,2026-03-31,University Branch,Kitchen Storage,Spice Rack,2,220.0,0.2,352.0,308.0,44.0,Mobile Wallet,Walk-in
+TXN-20912,2026-08-13,Main Branch,Kitchen Storage,Lunch Box,5,120.0,0.0,600.0,450.0,150.0,Cash,Walk-in
+TXN-20913,2026-03-12,Market Branch,Cookware,Frying Pan,2,342.0,0.0,684.0,465.12,218.88,Cash,Walk-in
+TXN-20914,2026-05-24,Market Branch,Kitchen Storage,Storage Jar,4,85.0,0.05,323.0,248.2,74.8,Mobile Wallet,Walk-in
+TXN-20915,2026-08-19,Main Branch,Cookware,Kitchen Knife Set,3,304.5,0.0,913.5,593.79,319.71,Card,Walk-in
+TXN-20916,2026-07-17,Main Branch,Kitchen Storage,Spice Rack,1,220.0,0.1,198.0,154.0,44.0,Mobile Wallet,Returning
+TXN-20917,2026-04-23,University Branch,Kitchen Storage,Food Container Set,4,147.0,0.1,529.2,446.88,82.32,Instapay,Online Order
+TXN-20918,2026-04-22,University Branch,Drinkware,Water Bottle,1,85.5,0.0,85.5,63.27,22.23,Instapay,Walk-in
+TXN-20919,2026-08-15,Main Branch,Cookware,Kitchen Knife Set,2,290.0,0.0,580.0,377.0,203.0,Cash,Online Order
+TXN-20920,2026-03-27,University Branch,Cleaning Tools,Microfiber Cloths,1,65.0,0.1,58.5,48.75,9.75,Cash,Online Order
+TXN-20921,2026-07-02,Market Branch,Kitchen Storage,Spice Rack,1,220.0,0.2,176.0,154.0,22.0,Cash,Online Order
+TXN-20922,2026-06-03,Market Branch,Kitchen Storage,Lunch Box,1,126.0,0.0,126.0,94.5,31.5,Cash,Returning
+TXN-20923,2026-03-08,Main Branch,Cleaning Tools,Spray Bottle,1,35.0,0.05,33.25,25.2,8.05,Mobile Wallet,Walk-in
+TXN-20924,2026-08-26,University Branch,Cleaning Tools,Mop Set,1,273.0,0.1,245.7,191.1,54.6,Cash,Returning
+TXN-20925,2026-04-28,Main Branch,Drinkware,Travel Mug,4,189.0,0.05,718.2,521.64,196.56,Cash,Walk-in
+TXN-20926,2026-08-10,University Branch,Cleaning Tools,Mop Set,2,286.0,0.2,457.6,400.4,57.2,Cash,Walk-in
+TXN-20927,2026-08-05,Market Branch,Cleaning Tools,Microfiber Cloths,4,71.5,0.05,271.7,214.48,57.22,Cash,Online Order
+TXN-20928,2026-05-01,Main Branch,Kitchen Storage,Spice Rack,2,242.0,0.2,387.2,338.8,48.4,Card,Walk-in
+TXN-20929,2026-02-24,University Branch,Cleaning Tools,Dish Brush,2,45.0,0.0,90.0,70.2,19.8,Instapay,Online Order
+TXN-20930,2026-03-30,Main Branch,Cleaning Tools,Microfiber Cloths,3,68.25,0.1,184.28,153.57,30.71,Cash,Walk-in
+TXN-20931,2026-02-24,University Branch,Cookware,Frying Pan,4,418.0,0.0,1672.0,1136.96,535.04,Cash,Online Order
+TXN-20932,2026-01-16,Main Branch,Kitchen Storage,Storage Jar,1,85.0,0.0,85.0,62.05,22.95,Cash,Online Order
+TXN-20933,2026-04-01,Main Branch,Drinkware,Thermal Flask,1,320.0,0.0,320.0,214.4,105.6,Mobile Wallet,Walk-in
+TXN-20934,2026-07-23,Main Branch,Kitchen Storage,Food Container Set,1,154.0,0.15,130.9,117.04,13.86,Cash,Returning
+TXN-20935,2026-05-14,Main Branch,Drinkware,Travel Mug,3,180.0,0.0,540.0,372.6,167.4,Cash,Walk-in
+TXN-20936,2026-02-11,University Branch,Drinkware,Water Bottle,4,95.0,0.0,380.0,281.2,98.8,Mobile Wallet,Walk-in
+TXN-20937,2026-05-20,Main Branch,Cookware,Nonstick Tray,2,189.0,0.0,378.0,287.28,90.72,Card,Returning
+TXN-20938,2026-04-01,University Branch,Drinkware,Glass Set,1,220.5,0.15,187.42,171.99,15.43,Mobile Wallet,Returning
+TXN-20939,2026-06-14,Market Branch,Kitchen Storage,Spice Rack,1,231.0,0.0,231.0,161.7,69.3,Cash,Walk-in
+TXN-20940,2026-07-07,Main Branch,Cookware,Cooking Pot,2,650.0,0.0,1300.0,936.0,364.0,Cash,Walk-in
+TXN-20941,2026-03-13,Market Branch,Drinkware,Travel Mug,1,189.0,0.05,179.55,130.41,49.14,Instapay,Walk-in
+TXN-20942,2026-04-02,Market Branch,Cookware,Frying Pan,4,380.0,0.0,1520.0,1033.6,486.4,Cash,Returning
+TXN-20943,2026-06-26,Main Branch,Cleaning Tools,Microfiber Cloths,3,68.25,0.2,163.8,153.57,10.23,Cash,Returning
+TXN-20944,2026-07-03,Market Branch,Cookware,Cooking Pot,4,585.0,0.1,2106.0,1684.8,421.2,Cash,Business Customer
+TXN-20945,2026-02-21,Main Branch,Cleaning Tools,Microfiber Cloths,1,68.25,0.15,58.01,51.19,6.82,Instapay,Online Order
+TXN-20946,2026-05-09,Main Branch,Cookware,Frying Pan,1,418.0,0.15,355.3,284.24,71.06,Mobile Wallet,Returning
+TXN-20947,2026-05-05,Market Branch,Cleaning Tools,Dish Brush,1,47.25,0.0,47.25,36.86,10.39,Cash,Walk-in
+TXN-20948,2026-02-06,Main Branch,Kitchen Storage,Lunch Box,1,108.0,0.2,86.4,81.0,5.4,Card,Online Order
+TXN-20949,2026-02-28,Main Branch,Cleaning Tools,Dish Brush,2,40.5,0.0,81.0,63.18,17.82,Card,Walk-in
+TXN-20950,2026-04-11,University Branch,Drinkware,Glass Set,1,231.0,0.0,231.0,180.18,50.82,Card,Business Customer
+TXN-20951,2026-09-16,University Branch,Cookware,Nonstick Tray,2,162.0,0.0,324.0,246.24,77.76,Mobile Wallet,Business Customer
+TXN-20952,2026-09-13,Main Branch,Kitchen Storage,Storage Jar,2,85.0,0.0,170.0,124.1,45.9,Mobile Wallet,Walk-in
+TXN-20953,2026-08-11,Market Branch,Cookware,Frying Pan,2,380.0,0.1,684.0,516.8,167.2,Cash,Online Order
+TXN-20954,2026-07-13,Market Branch,Cleaning Tools,Microfiber Cloths,4,71.5,0.2,228.8,214.48,14.32,Cash,Online Order
+TXN-20955,2026-01-10,Market Branch,Cookware,Frying Pan,1,380.0,0.1,342.0,258.4,83.6,Cash,Walk-in
+TXN-20956,2026-05-24,Main Branch,Kitchen Storage,Storage Jar,1,85.0,0.0,85.0,62.05,22.95,Cash,Walk-in
+TXN-20957,2026-06-16,Main Branch,Kitchen Storage,Food Container Set,1,147.0,0.05,139.65,111.72,27.93,Card,Walk-in
+TXN-20958,2026-06-12,University Branch,Cookware,Kitchen Knife Set,3,290.0,0.2,696.0,565.5,130.5,Card,
+TXN-20959,2026-04-07,Main Branch,Cleaning Tools,Dish Brush,5,45.0,0.0,225.0,175.5,49.5,Card,Online Order
+TXN-20960,2026-03-18,University Branch,Drinkware,Glass Set,3,210.0,0.1,567.0,491.4,75.6,Cash,Online Order
+TXN-20961,2026-01-31,University Branch,Kitchen Storage,Lunch Box,1,132.0,0.05,125.4,99.0,26.4,Cash,Walk-in
+TXN-20962,2026-07-18,Market Branch,Cleaning Tools,Dish Brush,1,45.0,0.0,45.0,35.1,9.9,Card,Walk-in
+TXN-20963,2026-09-24,Main Branch,Drinkware,Thermal Flask,2,320.0,0.05,608.0,428.8,179.2,Cash,Business Customer
+TXN-20964,2026-06-10,Main Branch,Cleaning Tools,Spray Bottle,1,35.0,0.2,28.0,25.2,2.8,Mobile Wallet,Walk-in
+TXN-20965,2026-09-26,Main Branch,Kitchen Storage,Spice Rack,5,220.0,0.0,1100.0,770.0,330.0,Cash,Walk-in
+TXN-20966,2026-04-13,Main Branch,Kitchen Storage,Storage Jar,1,89.25,0.0,89.25,65.15,24.1,Mobile Wallet,Walk-in
+TXN-20967,2026-03-20,Market Branch,Drinkware,Water Bottle,4,85.5,0.0,342.0,253.08,88.92,Cash,Walk-in
+TXN-20968,2026-03-20,University Branch,Kitchen Storage,Lunch Box,1,132.0,0.1,118.8,99.0,19.8,Card,Returning
+TXN-20969,2026-08-07,Market Branch,Cookware,Nonstick Tray,2,180.0,0.0,360.0,273.6,86.4,Mobile Wallet,Online Order
+TXN-20970,2026-01-01,University Branch,Cleaning Tools,Spray Bottle,2,35.0,0.0,70.0,50.4,19.6,Cash,Walk-in
+TXN-20971,2026-05-24,University Branch,Cookware,Cooking Pot,5,715.0,0.05,3396.25,2574.0,822.25,Card,
+TXN-20972,2026-01-22,Main Branch,Kitchen Storage,Food Container Set,4,126.0,0.0,504.0,383.04,120.96,Instapay,Returning
+TXN-20973,2026-09-04,Main Branch,Drinkware,Glass Set,4,220.5,0.1,793.8,687.96,105.84,Cash,Walk-in
+TXN-20974,2026-02-16,Market Branch,Drinkware,Thermal Flask,5,336.0,0.2,1344.0,1125.6,218.4,Instapay,Online Order
+TXN-20975,2026-03-30,Main Branch,Cookware,Nonstick Tray,5,198.0,0.0,990.0,752.4,237.6,Cash,Walk-in
+TXN-20976,2026-06-20,Main Branch,Drinkware,Thermal Flask,2,288.0,0.15,489.6,385.92,103.68,Cash,Walk-in
+TXN-20977,2026-08-13,University Branch,Cookware,Cooking Pot,1,682.5,0.0,682.5,491.4,191.1,Card,Walk-in
+TXN-20978,2026-02-07,Main Branch,Kitchen Storage,Spice Rack,1,242.0,0.15,205.7,169.4,36.3,Cash,Walk-in
+TXN-20979,2026-04-25,Main Branch,Cookware,Frying Pan,1,418.0,0.1,376.2,284.24,91.96,Cash,Online Order
+TXN-20980,2026-02-12,Market Branch,Drinkware,Travel Mug,3,180.0,0.15,459.0,372.6,86.4,Cash,Walk-in
+TXN-20981,2026-03-27,Main Branch,Kitchen Storage,Storage Jar,1,85.0,0.2,68.0,62.05,5.95,Cash,
+TXN-20982,2026-09-06,Market Branch,Cleaning Tools,Spray Bottle,1,38.5,0.0,38.5,27.72,10.78,Cash,Online Order
+TXN-20983,2026-03-25,Main Branch,Cleaning Tools,Spray Bottle,2,35.0,0.0,70.0,50.4,19.6,Cash,Walk-in
+TXN-20984,2026-01-17,Market Branch,Cleaning Tools,Spray Bottle,4,31.5,0.0,126.0,90.72,35.28,Card,Walk-in
+TXN-20985,2026-04-13,University Branch,Cookware,Cooking Pot,1,585.0,0.1,526.5,421.2,105.3,Instapay,Returning
+TXN-20986,2026-05-31,University Branch,Cleaning Tools,Dish Brush,1,49.5,0.0,49.5,38.61,10.89,Card,Returning
+TXN-20987,2026-07-14,Market Branch,Drinkware,Travel Mug,1,180.0,0.1,162.0,124.2,37.8,Card,Walk-in
+TXN-20988,2026-04-25,Main Branch,Cookware,Cooking Pot,1,585.0,0.15,497.25,421.2,76.05,Cash,Online Order
+TXN-20989,2026-09-18,University Branch,Drinkware,Glass Set,1,210.0,0.0,210.0,163.8,46.2,Mobile Wallet,Walk-in
+TXN-20990,2026-04-26,University Branch,Cleaning Tools,Mop Set,2,234.0,0.15,397.8,327.6,70.2,Cash,Online Order
+TXN-20991,2026-08-13,University Branch,Cookware,Nonstick Tray,3,189.0,0.15,481.95,430.92,51.03,Cash,Returning
+TXN-20992,2026-03-31,Main Branch,Kitchen Storage,Lunch Box,5,108.0,0.15,459.0,405.0,54.0,Cash,Walk-in
+TXN-20993,2026-07-17,Market Branch,Cookware,Frying Pan,4,380.0,0.2,1216.0,1033.6,182.4,Cash,Walk-in
+TXN-20994,2026-03-20,Main Branch,Cleaning Tools,Dish Brush,2,49.5,0.1,89.1,77.22,11.88,Instapay,Walk-in
+TXN-20995,2026-09-08,Main Branch,Cookware,Frying Pan,2,418.0,0.05,794.2,568.48,225.72,Card,Business Customer
+TXN-20996,2026-05-17,University Branch,Kitchen Storage,Spice Rack,2,220.0,0.0,440.0,308.0,132.0,Cash,Returning
+TXN-20997,2026-05-17,Main Branch,Cleaning Tools,Mop Set,1,273.0,0.0,273.0,191.1,81.9,Cash,Returning
+TXN-20998,2026-06-16,Main Branch,Cleaning Tools,Microfiber Cloths,1,71.5,0.2,57.2,53.62,3.58,Card,Walk-in
+TXN-20999,2026-02-04,University Branch,Cookware,Kitchen Knife Set,2,,0.0,580.0,377.0,203.0,Mobile Wallet,Walk-in
+TXN-21000,2026-05-31,Main Branch,Cookware,Nonstick Tray,2,180.0,0.15,306.0,273.6,32.4,Card,Walk-in
+TXN-21001,2026-04-19,Market Branch,Cookware,Kitchen Knife Set,1,290.0,0.1,261.0,188.5,72.5,Cash,Walk-in
+TXN-21002,2026-01-16,University Branch,Kitchen Storage,Lunch Box,4,120.0,0.0,480.0,360.0,120.0,Cash,Walk-in
+TXN-21003,2026-09-25,Main Branch,Cookware,Kitchen Knife Set,2,290.0,0.05,551.0,377.0,174.0,Cash,Walk-in
+TXN-21004,2026-04-05,University Branch,Drinkware,Water Bottle,1,85.5,0.0,85.5,63.27,22.23,Cash,Returning
+TXN-21005,2026-04-17,Main Branch,Kitchen Storage,Spice Rack,3,231.0,0.0,693.0,485.1,207.9,Card,Walk-in
+TXN-21006,2026-08-20,University Branch,Cleaning Tools,Spray Bottle,3,35.0,-0.25,84.0,75.6,8.4,Cash,Online Order
+TXN-21007,2026-02-09,Main Branch,Kitchen Storage,Lunch Box,1,108.0,0.2,86.4,81.0,5.4,Cash,Walk-in
+TXN-21008,2026-02-06,Main Branch,Drinkware,Glass Set,4,220.5,0.0,882.0,687.96,194.04,Mobile Wallet,Walk-in
+TXN-21009,2026-04-28,Main Branch,Kitchen Storage,Spice Rack,5,242.0,0.05,1149.5,847.0,302.5,Cash,Walk-in
+TXN-21010,2026-06-19,University Branch,Kitchen Storage,Food Container Set,2,126.0,0.0,252.0,191.52,60.48,Cash,Business Customer
+TXN-21011,2026-06-30,University Branch,Drinkware,Thermal Flask,4,320.0,0.1,1152.0,857.6,294.4,Card,Business Customer
+TXN-21012,2026-08-26,Main Branch,Drinkware,Glass Set,2,,,441.0,343.98,97.02,Instapay,Walk-in
+TXN-21013,2026-06-02,Main Branch,Kitchen Storage,Lunch Box,5,120.0,0.05,570.0,450.0,120.0,Card,Walk-in
+TXN-21014,2026-05-31,University Branch,Drinkware,Glass Set,1,220.5,0.15,187.42,171.99,15.43,Mobile Wallet,Walk-in
+TXN-21015,2026-06-27,Main Branch,Kitchen Storage,Lunch Box,1,120.0,0.15,102.0,90.0,12.0,Cash,Walk-in
+TXN-21016,2026-03-27,Main Branch,Cleaning Tools,Microfiber Cloths,1,65.0,0.0,65.0,48.75,16.25,Mobile Wallet,Returning
+TXN-21017,2026-04-27,Main Branch,Drinkware,Travel Mug,1,189.0,0.0,189.0,130.41,58.59,Card,Returning
+TXN-21018,2026-01-14,Main Branch,Kitchen Storage,Spice Rack,2,220.0,0.0,440.0,308.0,132.0,Instapay,Walk-in
+TXN-21019,2026-03-25,University Branch,Drinkware,Thermal Flask,1,320.0,0.0,320.0,214.4,105.6,Cash,Online Order
+TXN-21020,2026-05-16,University Branch,Drinkware,Thermal Flask,5,320.0,0.0,1600.0,1072.0,528.0,Cash,Returning
+TXN-21021,2026-08-28,Main Branch,Cookware,Kitchen Knife Set,1,261.0,0.1,234.9,169.65,65.25,Mobile Wallet,Returning
+TXN-21022,2026-03-31,Main Branch,Drinkware,Glass Set,5,210.0,0.2,840.0,819.0,21.0,Card,Online Order
+TXN-21023,2026-01-15,Market Branch,Cookware,Cooking Pot,2,585.0,0.1,1053.0,842.4,210.6,Card,Returning
+TXN-21024,2026-01-17,University Branch,Drinkware,Thermal Flask,2,352.0,0.0,704.0,471.68,232.32,Instapay,Walk-in
+TXN-21025,2026-05-30,Market Branch,Cleaning Tools,Microfiber Cloths,1,68.25,0.2,54.6,51.19,3.41,Cash,Returning
+TXN-21026,2026-03-23,University Branch,Kitchen Storage,Spice Rack,1,231.0,0.1,207.9,161.7,46.2,Card,Returning
+TXN-21027,2026-05-02,Market Branch,Cleaning Tools,Microfiber Cloths,4,58.5,0.0,234.0,175.52,58.48,Card,Returning
+TXN-21028,2026-03-03,Market Branch,Cleaning Tools,Mop Set,1,260.0,0.15,221.0,182.0,39.0,Cash,Walk-in
+TXN-21029,2026-06-18,University Branch,Kitchen Storage,Lunch Box,1,120.0,0.0,120.0,90.0,30.0,Instapay,Business Customer
+TXN-21030,2026-06-02,University Branch,Drinkware,Glass Set,5,189.0,0.15,803.25,737.1,66.15,Instapay,Online Order
+TXN-21031,2026-02-15,University Branch,Cleaning Tools,Spray Bottle,2,35.0,0.0,70.0,50.4,19.6,Cash,Business Customer
+TXN-21032,2026-06-19,University Branch,Kitchen Storage,Spice Rack,3,-50.0,0.1,653.4,508.2,145.2,Cash,Walk-in
+TXN-21033,2026-07-31,University Branch,Cookware,Cooking Pot,1,585.0,0.1,526.5,421.2,105.3,Card,Walk-in
+TXN-21034,2026-03-28,University Branch,Cookware,Frying Pan,1,380.0,0.0,380.0,258.4,121.6,Cash,Walk-in
+TXN-21035,2026-03-19,Main Branch,Drinkware,Glass Set,4,220.5,0.2,705.6,687.96,17.64,Cash,Walk-in
+TXN-21036,2026-07-19,Market Branch,Cookware,Frying Pan,3,399.0,0.2,957.6,813.96,143.64,Card,Walk-in
+TXN-21037,2026-03-02,University Branch,Cookware,Nonstick Tray,1,198.0,0.0,198.0,150.48,47.52,Cash,Walk-in
+TXN-21038,2026-04-03,Market Branch,Cleaning Tools,Mop Set,1,260.0,0.1,234.0,182.0,52.0,Cash,Business Customer
+TXN-21039,2026-02-02,Main Branch,Kitchen Storage,Food Container Set,1,147.0,0.15,124.95,111.72,13.23,Card,Returning
+TXN-21040,2026-02-28,Market Branch,Drinkware,Thermal Flask,2,320.0,0.15,544.0,428.8,115.2,Mobile Wallet,Walk-in
+TXN-21041,2026-01-10,Market Branch,Drinkware,Thermal Flask,2,320.0,0.05,608.0,428.8,179.2,Card,Walk-in
+TXN-21042,2026-06-18,University Branch,Cleaning Tools,Dish Brush,4,47.25,0.0,189.0,147.44,41.56,,Online Order
+TXN-21043,2026-09-04,University Branch,Cleaning Tools,Dish Brush,1,49.5,0.1,44.55,38.61,5.94,Instapay,Walk-in
+TXN-21044,2026-05-01,University Branch,Drinkware,Glass Set,1,210.0,0.0,210.0,163.8,46.2,Card,Returning
+TXN-21045,2026-04-28,Main Branch,Drinkware,Water Bottle,2,95.0,0.0,190.0,140.6,49.4,Cash,Business Customer
+TXN-21046,2026-09-05,Main Branch,Cookware,Frying Pan,2,380.0,0.15,646.0,516.8,129.2,Cash,Returning
+TXN-21047,2026-02-19,University Branch,Kitchen Storage,Lunch Box,1,132.0,0.0,132.0,99.0,33.0,Cash,Walk-in
+TXN-21048,2026-05-10,Main Branch,Cookware,Kitchen Knife Set,1,,0.15,258.82,197.93,60.89,Card,Returning
+TXN-21049,2026-08-01,Main Branch,Cookware,Cooking Pot,3,585.0,0.2,1404.0,1263.6,140.4,Cash,Returning
+TXN-21050,2026-03-31,University Branch,Cleaning Tools,Microfiber Cloths,3,65.0,0.0,195.0,146.25,48.75,Mobile Wallet,Walk-in
+TXN-21051,2026-06-26,Main Branch,Cookware,Frying Pan,2,380.0,0.2,608.0,516.8,91.2,Cash,Business Customer
+TXN-21052,2026-08-31,Main Branch,Kitchen Storage,Lunch Box,4,126.0,0.0,504.0,378.0,126.0,Cash,Online Order
+TXN-21053,2026-05-16,Main Branch,Drinkware,Water Bottle,4,104.5,0.0,418.0,309.32,108.68,Instapay,Online Order
+TXN-21054,2026-06-02,University Branch,Kitchen Storage,Lunch Box,1,120.0,0.0,120.0,90.0,30.0,Cash,Walk-in
+TXN-21055,2026-05-19,University Branch,Drinkware,Glass Set,2,231.0,0.0,462.0,360.36,101.64,Cash,Online Order
+TXN-21056,2026-07-14,Market Branch,Drinkware,Thermal Flask,1,288.0,0.0,288.0,192.96,95.04,Cash,Returning
+TXN-21057,2026-03-12,Main Branch,Kitchen Storage,Spice Rack,1,231.0,0.2,184.8,161.7,23.1,Cash,Online Order
+TXN-21058,2026-08-28,Main Branch,Kitchen Storage,Storage Jar,2,76.5,0.0,153.0,111.68,41.32,Cash,Returning
+TXN-21059,2026-04-07,University Branch,Cookware,Cooking Pot,2,585.0,0.15,994.5,842.4,152.1,Card,Walk-in
+TXN-21060,2026-05-11,Main Branch,Kitchen Storage,Storage Jar,4,76.5,0.0,306.0,223.36,82.64,Cash,Walk-in
+TXN-21061,2026-06-30,University Branch,Kitchen Storage,Storage Jar,2,85.0,0.05,161.5,124.1,37.4,Cash,Returning
+TXN-21062,2026-07-21,Market Branch,Cookware,Frying Pan,2,380.0,0.0,760.0,516.8,243.2,Card,Returning
+TXN-21063,2026-08-18,Market Branch,Cleaning Tools,Spray Bottle,2,31.5,0.0,63.0,45.36,17.64,Cash,Returning
+TXN-21064,2026-06-02,Market Branch,Kitchen Storage,Food Container Set,2,140.0,0.0,280.0,212.8,67.2,Instapay,Returning
+TXN-21065,2026-07-13,Main Branch,Kitchen Storage,Spice Rack,1,220.0,0.05,209.0,154.0,55.0,Card,Walk-in
+TXN-21066,2026-08-15,Main Branch,Cookware,Kitchen Knife Set,1,304.5,0.0,304.5,197.93,106.57,Card,Online Order
+TXN-21067,2026-08-03,Market Branch,Cleaning Tools,Mop Set,3,260.0,0.2,624.0,546.0,78.0,Cash,Walk-in
+TXN-21068,2026-09-18,Main Branch,Cookware,Nonstick Tray,4,189.0,0.0,756.0,574.56,181.44,Cash,Returning
+TXN-21069,2026-01-22,University Branch,Drinkware,Glass Set,1,189.0,0.0,189.0,147.42,41.58,Cash,Online Order
+TXN-21070,2026-08-01,Main Branch,Cookware,Nonstick Tray,1,180.0,0.1,162.0,136.8,25.2,Cash,Walk-in
+TXN-21071,2026-02-25,University Branch,Drinkware,Thermal Flask,5,320.0,0.0,1600.0,1072.0,528.0,Cash,Walk-in
+TXN-21072,2026-01-19,Main Branch,Drinkware,Glass Set,1,210.0,0.0,210.0,163.8,46.2,Cash,Walk-in
+TXN-21073,2026-09-21,Market Branch,Drinkware,Travel Mug,1,180.0,0.0,180.0,124.2,55.8,Cash,Walk-in
+TXN-21074,2026-09-26,Market Branch,Drinkware,Water Bottle,1,85.5,0.2,68.4,63.27,5.13,Mobile Wallet,Returning
+TXN-21075,2026-07-12,Main Branch,Cleaning Tools,Mop Set,5,260.0,0.1,1170.0,910.0,260.0,Cash,Walk-in
+TXN-21076,2026-07-07,Market Branch,Cleaning Tools,Spray Bottle,1,31.5,0.0,31.5,22.68,8.82,Card,Online Order
+TXN-21077,2026-03-20,University Branch,Cookware,Nonstick Tray,3,198.0,0.05,564.3,451.44,112.86,Card,Returning
+TXN-21078,2026-02-14,Market Branch,Drinkware,Thermal Flask,1,320.0,0.0,320.0,214.4,105.6,Cash,Walk-in
+TXN-21079,2026-09-18,Main Branch,Drinkware,Glass Set,2,231.0,0.0,462.0,360.36,101.64,Cash,Walk-in
+TXN-21080,2026-01-18,Main Branch,Drinkware,Water Bottle,2,95.0,0.05,180.5,140.6,39.9,Cash,Online Order
+TXN-21081,2026-05-26,Market Branch,Cleaning Tools,Microfiber Cloths,5,65.0,0.0,325.0,243.75,81.25,Mobile Wallet,Walk-in
+TXN-21082,2026-04-17,University Branch,Cookware,Kitchen Knife Set,4,261.0,0.2,835.2,678.6,156.6,Card,Online Order
+TXN-21083,2026-08-30,University Branch,Cleaning Tools,Spray Bottle,4,38.5,0.0,154.0,110.88,43.12,Card,Online Order
+TXN-21084,2026-03-30,Market Branch,Kitchen Storage,Spice Rack,1,220.0,0.2,176.0,154.0,22.0,Instapay,Walk-in
+TXN-21085,2026-08-31,University Branch,Cleaning Tools,Spray Bottle,4,31.5,0.2,100.8,90.72,10.08,Cash,Walk-in
+TXN-21086,2026-05-27,University Branch,Cookware,Frying Pan,1,380.0,0.1,342.0,258.4,83.6,Card,Returning
+TXN-21087,2026-02-11,University Branch,Cleaning Tools,Spray Bottle,5,31.5,0.0,157.5,113.4,44.1,Card,Returning
+TXN-21088,2026-08-05,Main Branch,Kitchen Storage,Spice Rack,4,220.0,0.15,748.0,616.0,132.0,Cash,Walk-in
+TXN-21089,2026-02-09,Main Branch,Cleaning Tools,Dish Brush,1,45.0,0.0,45.0,35.1,9.9,Card,Walk-in
+TXN-21090,2026-03-18,Main Branch,Drinkware,Glass Set,2,210.0,0.0,420.0,327.6,92.4,Mobile Wallet,Walk-in
+TXN-21091,2026-04-12,Main Branch,Kitchen Storage,Storage Jar,2,76.5,0.2,122.4,111.68,10.72,Card,Returning
+TXN-21092,2026-05-22,University Branch,Cleaning Tools,Spray Bottle,5,38.5,0.05,182.88,138.6,44.28,Card,Walk-in
+TXN-21093,2026-02-20,University Branch,Drinkware,Glass Set,2,189.0,0.0,378.0,294.84,83.16,Cash,Walk-in
+TXN-21094,2026-05-12,University Branch,Cleaning Tools,Mop Set,1,286.0,0.0,286.0,200.2,85.8,Cash,Online Order
+TXN-21095,2026-04-08,Market Branch,Cleaning Tools,Spray Bottle,1,38.5,0.0,38.5,27.72,10.78,Card,Walk-in
+TXN-21096,2026-01-23,Main Branch,Kitchen Storage,Lunch Box,1,126.0,0.05,119.7,94.5,25.2,Cash,Returning
+TXN-21097,2026-01-08,University Branch,Kitchen Storage,Food Container Set,3,140.0,0.15,357.0,319.2,37.8,Cash,Returning
+TXN-21098,2026-08-15,Main Branch,Cookware,Nonstick Tray,1,189.0,0.1,170.1,143.64,26.46,Mobile Wallet,Walk-in
+TXN-21099,2026-03-29,Main Branch,Kitchen Storage,Lunch Box,1,120.0,0.2,96.0,90.0,6.0,Cash,Walk-in
+TXN-21100,2026-01-30,Main Branch,Cleaning Tools,Microfiber Cloths,3,71.5,0.1,193.05,160.86,32.19,Cash,Returning
+TXN-21101,2026-04-09,University Branch,Kitchen Storage,Lunch Box,1,120.0,0.0,120.0,90.0,30.0,Cash,Online Order
+TXN-21102,2026-04-05,Market Branch,Kitchen Storage,Lunch Box,1,132.0,0.0,132.0,99.0,33.0,Cash,Walk-in
+TXN-21103,2026-01-05,Main Branch,Cookware,Cooking Pot,1,650.0,0.1,585.0,468.0,117.0,Cash,Returning
+TXN-21104,2026-07-31,Main Branch,Kitchen Storage,Food Container Set,1,126.0,0.0,126.0,95.76,30.24,Mobile Wallet,Business Customer
+TXN-21105,2026-04-15,University Branch,Cleaning Tools,Microfiber Cloths,2,58.5,0.0,117.0,87.76,29.24,Cash,Online Order
+TXN-21106,2026-03-04,Main Branch,Cleaning Tools,Spray Bottle,3,31.5,0.0,94.5,68.04,26.46,Cash,Walk-in
+TXN-21107,2026-01-26,Main Branch,Cookware,Nonstick Tray,1,180.0,0.0,180.0,136.8,43.2,Cash,Returning
+TXN-21108,2026-01-24,Market Branch,Cookware,Cooking Pot,4,682.5,0.0,2730.0,1965.6,764.4,Cash,Business Customer
+TXN-21109,2026-06-20,Market Branch,Drinkware,Water Bottle,1,85.5,0.2,68.4,63.27,5.13,Instapay,Walk-in
+TXN-21110,2026-07-20,University Branch,Drinkware,Water Bottle,1,85.5,0.05,81.22,63.27,17.95,Cash,Online Order
+TXN-21111,2026-02-27,University Branch,Cleaning Tools,Microfiber Cloths,1,58.5,0.1,52.65,43.88,8.77,Cash,Walk-in
+TXN-21112,2026-03-03,Main Branch,Cookware,Cooking Pot,1,585.0,0.0,585.0,421.2,163.8,Cash,
+TXN-21113,2026-03-18,Market Branch,Drinkware,Glass Set,2,210.0,0.05,399.0,327.6,71.4,Instapay,Walk-in
+TXN-21114,2026-08-13,University Branch,Cookware,Cooking Pot,1,650.0,0.05,617.5,468.0,149.5,Instapay,Returning
+TXN-21115,2026-02-16,Market Branch,Drinkware,Thermal Flask,3,320.0,0.1,864.0,643.2,220.8,Card,Online Order
+TXN-21116,2026-08-05,Main Branch,Cookware,Frying Pan,1,342.0,0.0,342.0,232.56,109.44,Instapay,Walk-in
+TXN-21117,2026-01-26,Market Branch,Kitchen Storage,Spice Rack,3,220.0,0.1,594.0,462.0,132.0,Cash,Walk-in
+TXN-21118,2026-03-26,Main Branch,Cleaning Tools,Spray Bottle,1,35.0,0.0,35.0,25.2,9.8,Cash,Walk-in
+TXN-21119,2026-04-05,Main Branch,Kitchen Storage,Food Container Set,1,140.0,0.0,140.0,106.4,33.6,Card,Walk-in
+TXN-21120,2026-02-12,Main Branch,Kitchen Storage,Spice Rack,3,242.0,0.0,726.0,508.2,217.8,Mobile Wallet,Online Order
+TXN-21121,2026-07-31,Market Branch,Cleaning Tools,Spray Bottle,2,31.5,0.05,59.85,45.36,14.49,Cash,
+TXN-21122,2026-09-04,University Branch,Drinkware,Thermal Flask,2,352.0,0.15,598.4,471.68,126.72,Card,Returning
+TXN-21123,2026-02-04,Main Branch,Kitchen Storage,Spice Rack,1,231.0,0.1,207.9,161.7,46.2,Cash,Walk-in
+TXN-21124,2026-09-06,Main Branch,Cookware,Kitchen Knife Set,1,261.0,0.2,208.8,169.65,39.15,Card,Walk-in
+TXN-21125,2026-04-05,University Branch,Cookware,Nonstick Tray,4,180.0,0.0,720.0,547.2,172.8,Cash,Walk-in
+TXN-21126,2026-02-09,University Branch,Kitchen Storage,Spice Rack,4,242.0,0.2,774.4,677.6,96.8,Card,Walk-in
+TXN-21127,2026-06-26,Market Branch,Drinkware,Water Bottle,1,99.75,0.1,89.78,73.81,15.97,Mobile Wallet,Walk-in
+TXN-21128,2026-05-16,University Branch,Cookware,Frying Pan,2,380.0,0.15,646.0,516.8,129.2,Card,Online Order
+TXN-21129,2026-02-20,Main Branch,Kitchen Storage,Storage Jar,2,85.0,0.05,161.5,124.1,37.4,Card,Business Customer
+TXN-21130,2026-09-10,Main Branch,Drinkware,Water Bottle,5,104.5,0.0,522.5,386.65,135.85,Cash,Walk-in
+TXN-21131,2026-08-20,Market Branch,Cookware,Cooking Pot,2,650.0,0.0,1300.0,936.0,364.0,,Online Order
+TXN-21132,2026-09-11,Market Branch,Kitchen Storage,Food Container Set,1,140.0,0.05,133.0,106.4,26.6,Cash,Returning
+TXN-21133,2026-04-27,Main Branch,Cleaning Tools,Mop Set,1,260.0,0.05,247.0,182.0,65.0,Card,Returning
+TXN-21134,2026-03-10,University Branch,Cleaning Tools,Mop Set,1,260.0,,234.0,182.0,52.0,Cash,Returning
+TXN-21135,2026-02-05,Market Branch,Drinkware,Thermal Flask,1,352.0,0.15,299.2,235.84,63.36,Mobile Wallet,Online Order
+TXN-21136,2026-01-03,Main Branch,Kitchen Storage,Lunch Box,4,120.0,0.1,432.0,360.0,72.0,Cash,Walk-in
+TXN-21137,2026-08-21,Main Branch,Drinkware,Glass Set,1,220.5,0.15,187.42,171.99,15.43,Cash,Online Order
+TXN-21138,2026-05-24,University Branch,Cleaning Tools,Spray Bottle,3,31.5,0.05,89.78,68.04,21.74,Cash,Returning
+TXN-21139,2026-08-27,Main Branch,Drinkware,Thermal Flask,4,320.0,0.05,1216.0,857.6,358.4,Cash,Business Customer
+TXN-21140,2026-01-31,Main Branch,Cookware,Frying Pan,3,418.0,0.0,1254.0,852.72,401.28,Card,Walk-in
+TXN-21141,2026-03-05,University Branch,Cleaning Tools,Spray Bottle,2,35.0,0.0,70.0,50.4,19.6,Instapay,Business Customer
+TXN-21142,2026-04-09,University Branch,Drinkware,Travel Mug,2,162.0,0.0,324.0,223.56,100.44,Card,Returning
+TXN-21143,2026-01-04,University Branch,Cleaning Tools,Mop Set,1,260.0,0.15,221.0,182.0,39.0,Instapay,Business Customer
+TXN-21144,2026-09-11,University Branch,Kitchen Storage,Storage Jar,2,76.5,0.0,153.0,111.68,41.32,Cash,Walk-in
+TXN-21145,2026-01-26,Main Branch,Cookware,Frying Pan,1,399.0,0.1,359.1,271.32,87.78,Cash,Walk-in
+TXN-21146,2026-03-30,University Branch,Cookware,Nonstick Tray,2,189.0,0.2,302.4,287.28,15.12,Cash,Returning
+TXN-21147,2026-01-21,Market Branch,Cleaning Tools,Microfiber Cloths,3,65.0,0.0,195.0,146.25,48.75,Card,Online Order
+TXN-21148,2026-04-04,Main Branch,Kitchen Storage,Lunch Box,3,126.0,0.05,359.1,283.5,75.6,Cash,Walk-in
+TXN-21149,2026-07-03,University Branch,Cookware,Kitchen Knife Set,1,290.0,0.05,275.5,188.5,87.0,Card,Online Order
+TXN-21150,2026-05-27,University Branch,Kitchen Storage,Storage Jar,1,93.5,0.2,74.8,68.26,6.54,Mobile Wallet,Walk-in
+TXN-21151,2026-04-14,University Branch,Drinkware,Thermal Flask,5,320.0,0.1,1440.0,1072.0,368.0,Cash,Walk-in
+TXN-21152,2026-03-26,Market Branch,Cookware,Frying Pan,1,380.0,0.0,380.0,258.4,121.6,Cash,Walk-in
+TXN-21153,2026-05-04,University Branch,Drinkware,Water Bottle,1,99.75,0.1,89.78,73.81,15.97,Card,Returning
+TXN-21154,2026-06-17,Main Branch,Kitchen Storage,Food Container Set,1,154.0,0.05,146.3,117.04,29.26,Mobile Wallet,Walk-in
+TXN-21155,2026-08-11,Main Branch,Cleaning Tools,Dish Brush,1,49.5,0.0,49.5,38.61,10.89,Card,Walk-in
+TXN-21156,2026-06-09,Main Branch,Cookware,Cooking Pot,1,715.0,0.05,679.25,514.8,164.45,Cash,Returning
+TXN-21157,2026-04-01,Market Branch,Cookware,Frying Pan,1,418.0,0.0,418.0,284.24,133.76,Cash,Walk-in
+TXN-21158,2026-05-22,Main Branch,Drinkware,Water Bottle,3,95.0,0.15,242.25,210.9,31.35,Cash,Online Order
+TXN-21159,2026-03-15,Market Branch,Cookware,Kitchen Knife Set,2,261.0,0.15,443.7,339.3,104.4,Mobile Wallet,Business Customer
+TXN-21160,2026-02-28,University Branch,Kitchen Storage,Spice Rack,1,231.0,0.05,219.45,161.7,57.75,Card,Walk-in
+TXN-21161,2026-03-26,Market Branch,Cookware,Nonstick Tray,2,180.0,0.0,360.0,273.6,86.4,Card,Walk-in
+TXN-21162,2026-06-02,Main Branch,Kitchen Storage,Food Container Set,2,126.0,0.0,252.0,191.52,60.48,Card,Walk-in
+TXN-21163,2026-04-01,University Branch,Cookware,Frying Pan,1,399.0,0.0,399.0,271.32,127.68,Cash,Business Customer
+TXN-21164,2026-04-13,Main Branch,Cleaning Tools,Spray Bottle,4,35.0,0.0,140.0,100.8,39.2,Cash,Online Order
+TXN-21165,2026-09-24,Main Branch,Cookware,Cooking Pot,4,585.0,0.2,1872.0,1684.8,187.2,Card,Walk-in
+TXN-21166,2026-08-13,Main Branch,Cookware,Cooking Pot,3,715.0,0.1,1930.5,1544.4,386.1,Cash,Returning
+TXN-21167,2026-07-22,Main Branch,Cleaning Tools,Microfiber Cloths,4,58.5,0.0,234.0,175.52,58.48,Cash,Online Order
+TXN-21168,2026-05-17,Main Branch,Kitchen Storage,Storage Jar,1,85.0,0.2,68.0,62.05,5.95,Cash,Walk-in
+TXN-21169,2026-08-24,Main Branch,Cookware,Frying Pan,1,399.0,0.15,339.15,271.32,67.83,Cash,Walk-in
+TXN-21170,2026-03-27,University Branch,Kitchen Storage,Spice Rack,5,242.0,0.1,1089.0,847.0,242.0,Cash,Walk-in
+TXN-21171,2026-02-27,Main Branch,Cleaning Tools,Spray Bottle,5,38.5,0.0,192.5,138.6,53.9,Instapay,Walk-in
+TXN-21172,2026-08-07,Market Branch,Kitchen Storage,Storage Jar,5,85.0,0.1,382.5,310.25,72.25,Cash,Returning
+TXN-21173,2026-04-28,University Branch,Cleaning Tools,Microfiber Cloths,5,68.25,0.0,341.25,255.95,85.3,Cash,Walk-in
+TXN-21174,2026-03-12,University Branch,Kitchen Storage,Food Container Set,1,126.0,0.1,113.4,95.76,17.64,Cash,Walk-in
+TXN-21175,2026-03-30,University Branch,Cleaning Tools,Spray Bottle,2,35.0,0.1,63.0,50.4,12.6,Cash,Online Order
+TXN-21176,2026-05-02,University Branch,Cookware,Cooking Pot,1,715.0,0.0,715.0,514.8,200.2,Cash,Walk-in
+TXN-21177,2026-01-08,University Branch,Cookware,Frying Pan,2,418.0,0.05,794.2,568.48,225.72,Cash,Online Order
+TXN-21178,2026-04-06,University Branch,Cleaning Tools,Spray Bottle,2,31.5,0.05,59.85,45.36,14.49,Cash,Online Order
+TXN-21179,2026-03-25,University Branch,Cleaning Tools,Microfiber Cloths,4,65.0,0.0,260.0,195.0,65.0,Cash,Returning
+TXN-21180,2026-09-09,Main Branch,Drinkware,Travel Mug,5,180.0,0.2,720.0,621.0,99.0,Cash,Business Customer
+TXN-21181,2026-08-23,University Branch,Cookware,Cooking Pot,2,650.0,0.0,1300.0,936.0,364.0,Cash,Returning
+TXN-21182,2026-03-05,Main Branch,Kitchen Storage,Storage Jar,3,93.5,0.1,252.45,204.78,47.67,Mobile Wallet,Online Order
+TXN-21183,2026-01-03,Main Branch,Cookware,Kitchen Knife Set,3,304.5,0.0,913.5,593.79,319.71,Card,Walk-in
+TXN-21184,2026-05-18,University Branch,Drinkware,Thermal Flask,1,336.0,0.0,336.0,225.12,110.88,Card,Walk-in
+TXN-21185,2026-05-05,Market Branch,Drinkware,Glass Set,5,210.0,0.0,1050.0,819.0,231.0,Instapay,Walk-in
+TXN-21186,2026-07-31,Main Branch,Drinkware,Thermal Flask,2,288.0,0.0,576.0,385.92,190.08,Card,Online Order
+TXN-21187,2026-05-28,University Branch,Kitchen Storage,Lunch Box,1,126.0,0.1,113.4,94.5,18.9,Cash,Walk-in
+TXN-21188,2026-06-11,Main Branch,Kitchen Storage,Lunch Box,2,120.0,0.05,228.0,180.0,48.0,Mobile Wallet,Online Order
+TXN-21189,2026-08-04,University Branch,Drinkware,Glass Set,5,220.5,0.1,992.25,859.95,132.3,Instapay,Walk-in
+TXN-21190,2026-05-31,University Branch,Drinkware,Water Bottle,3,99.75,0.05,284.29,221.43,62.86,Cash,Walk-in
+TXN-21191,2026-04-19,Market Branch,Kitchen Storage,Spice Rack,2,242.0,0.0,484.0,338.8,145.2,Cash,Walk-in
+TXN-21192,2026-02-07,Main Branch,Cleaning Tools,Mop Set,1,260.0,0.0,260.0,182.0,78.0,Cash,Returning
+TXN-21193,2026-04-19,University Branch,Cookware,Cooking Pot,3,650.0,0.0,1950.0,1404.0,546.0,Card,Online Order
+TXN-21194,2026-08-25,Main Branch,Cleaning Tools,Spray Bottle,3,36.75,0.05,104.74,79.38,25.36,Cash,Online Order
+TXN-21195,2026-04-03,University Branch,Cookware,Cooking Pot,1,682.5,0.0,682.5,491.4,191.1,Mobile Wallet,Returning
+TXN-21196,2026-08-08,Main Branch,Cookware,Nonstick Tray,4,198.0,0.0,792.0,601.92,190.08,Cash,Returning
+TXN-21197,2026-09-04,Main Branch,Kitchen Storage,Storage Jar,1,93.5,0.0,93.5,68.26,25.24,Cash,Online Order
+TXN-21198,2026-03-06,Main Branch,Kitchen Storage,Spice Rack,4,220.0,0.0,880.0,616.0,264.0,Cash,Walk-in
+TXN-21199,2026-08-16,Main Branch,Cookware,Kitchen Knife Set,1,304.5,0.05,289.27,197.93,91.34,Cash,Online Order
+TXN-21200,2026-05-02,University Branch,Drinkware,Travel Mug,2,162.0,0.1,291.6,223.56,68.04,Cash,Walk-in
+TXN-21201,2026-04-10,Market Branch,Cookware,Cooking Pot,3,715.0,0.15,1823.25,1544.4,278.85,Cash,Walk-in
+TXN-21202,2026-06-14,Market Branch,Cleaning Tools,Microfiber Cloths,5,58.5,0.0,292.5,219.4,73.1,Cash,Walk-in
+TXN-21203,2026-06-24,University Branch,Cookware,Nonstick Tray,3,162.0,0.1,437.4,369.36,68.04,Mobile Wallet,Walk-in
+TXN-21204,2026-05-16,University Branch,Cookware,Cooking Pot,1,585.0,0.0,585.0,421.2,163.8,Card,Walk-in
+TXN-21205,2026-01-28,University Branch,Kitchen Storage,Lunch Box,1,132.0,0.15,112.2,99.0,13.2,Card,Business Customer
+TXN-21206,2026-05-14,Market Branch,Cleaning Tools,Dish Brush,3,40.5,0.2,97.2,94.77,2.43,Cash,Business Customer
+TXN-21207,2026-03-18,Market Branch,Cookware,Kitchen Knife Set,3,319.0,0.0,957.0,622.05,334.95,Cash,Walk-in
+TXN-21208,2026-05-08,University Branch,Drinkware,Travel Mug,5,180.0,0.0,900.0,621.0,279.0,Instapay,Online Order
+TXN-21209,2026-04-19,Market Branch,Kitchen Storage,Spice Rack,1,220.0,0.1,198.0,154.0,44.0,Cash,Returning
+TXN-21210,2026-04-04,Main Branch,Kitchen Storage,Storage Jar,1,85.0,0.0,85.0,62.05,22.95,Mobile Wallet,Returning
+TXN-21211,2026-01-17,University Branch,Kitchen Storage,Food Container Set,5,140.0,0.1,630.0,532.0,98.0,Mobile Wallet,Returning
+TXN-21212,2026-01-10,Main Branch,Kitchen Storage,Spice Rack,2,,0.1,396.0,308.0,88.0,Cash,Walk-in
+TXN-21213,2026-03-29,Main Branch,Cleaning Tools,Spray Bottle,4,35.0,,119.0,100.8,18.2,Cash,Walk-in
+TXN-21214,2026-08-30,Main Branch,Cookware,Nonstick Tray,2,189.0,0.15,321.3,287.28,34.02,Instapay,Walk-in
+TXN-21215,2026-03-18,Main Branch,Cleaning Tools,Microfiber Cloths,1,65.0,0.05,61.75,48.75,13.0,Card,Walk-in
+TXN-21216,2026-03-28,Market Branch,Drinkware,Glass Set,2,210.0,0.0,420.0,327.6,92.4,Instapay,Online Order
+TXN-21217,2026-01-18,Main Branch,Cookware,Cooking Pot,5,585.0,0.0,2925.0,2106.0,819.0,Mobile Wallet,Walk-in
+TXN-21218,2026-04-08,University Branch,Kitchen Storage,Spice Rack,3,220.0,0.05,627.0,462.0,165.0,,Walk-in
+TXN-21219,2026-06-18,Market Branch,Kitchen Storage,Food Container Set,4,126.0,0.05,478.8,383.04,95.76,Cash,Walk-in
+TXN-21220,2026-04-14,Market Branch,Kitchen Storage,Lunch Box,4,126.0,0.0,504.0,378.0,126.0,Cash,Walk-in
+TXN-21221,2026-09-07,University Branch,Cookware,Kitchen Knife Set,4,290.0,0.1,1044.0,754.0,290.0,Mobile Wallet,Walk-in
+TXN-21222,2026-06-11,Market Branch,Cookware,Kitchen Knife Set,3,261.0,0.0,783.0,508.95,274.05,Cash,Walk-in
+TXN-21223,2026-02-01,University Branch,Cookware,Nonstick Tray,2,180.0,0.1,324.0,273.6,50.4,Cash,Business Customer
+TXN-21224,2026-01-07,Main Branch,Kitchen Storage,Lunch Box,3,120.0,0.2,288.0,270.0,18.0,Cash,Walk-in
+TXN-21225,2026-02-23,University Branch,Cookware,Kitchen Knife Set,3,304.5,0.0,913.5,593.79,319.71,Cash,Returning
+TXN-21226,2026-01-21,Main Branch,Cookware,Kitchen Knife Set,1,261.0,0.1,234.9,169.65,65.25,Cash,Walk-in
+TXN-21227,2026-05-06,Main Branch,Cleaning Tools,Dish Brush,2,45.0,0.15,76.5,70.2,6.3,Cash,Walk-in
+TXN-21228,2026-01-13,Main Branch,Kitchen Storage,Spice Rack,3,220.0,0.15,561.0,462.0,99.0,Mobile Wallet,Walk-in
+TXN-21229,2026-07-20,University Branch,Kitchen Storage,Food Container Set,1,126.0,0.0,126.0,95.76,30.24,Card,Walk-in
+TXN-21230,2026-07-27,Market Branch,Kitchen Storage,Spice Rack,3,198.0,0.1,534.6,415.8,118.8,Instapay,Walk-in
+TXN-21231,2026-03-27,University Branch,Cookware,Kitchen Knife Set,2,290.0,0.0,580.0,377.0,203.0,Cash,Walk-in
+TXN-21232,2026-08-07,University Branch,Cookware,Cooking Pot,2,585.0,0.0,1170.0,842.4,327.6,Instapay,Walk-in
+TXN-21233,2026-02-08,Main Branch,Kitchen Storage,Storage Jar,5,89.25,0.0,446.25,325.75,120.5,Card,Walk-in
+TXN-21234,2026-09-09,University Branch,Kitchen Storage,Lunch Box,3,120.0,0.0,360.0,270.0,90.0,Cash,Online Order
+TXN-21235,2026-09-10,University Branch,Kitchen Storage,Spice Rack,4,198.0,0.1,712.8,554.4,158.4,Cash,Returning
+TXN-21236,2026-01-07,Main Branch,Drinkware,Travel Mug,2,198.0,0.15,336.6,273.24,63.36,Cash,Returning
+TXN-21237,2026-08-03,Main Branch,Drinkware,Thermal Flask,1,320.0,0.2,256.0,214.4,41.6,Cash,Walk-in
+TXN-21238,2026-04-22,Main Branch,Cleaning Tools,Mop Set,1,273.0,0.05,259.35,191.1,68.25,Instapay,Walk-in
+TXN-21239,2026-05-30,Market Branch,Drinkware,Glass Set,1,210.0,0.0,210.0,163.8,46.2,Cash,Returning
+TXN-21240,2026-06-21,Main Branch,Cookware,Nonstick Tray,2,198.0,0.05,376.2,300.96,75.24,Cash,Walk-in
+TXN-21241,2026-08-22,Main Branch,Kitchen Storage,Lunch Box,1,126.0,0.15,107.1,94.5,12.6,Cash,Walk-in
+TXN-21242,2026-07-28,Main Branch,Cleaning Tools,Spray Bottle,4,38.5,0.05,146.3,110.88,35.42,Cash,Returning
+TXN-21243,2026-07-23,University Branch,Kitchen Storage,Food Container Set,1,140.0,0.1,126.0,106.4,19.6,Card,Walk-in
+TXN-21244,2026-01-21,Market Branch,Cleaning Tools,Microfiber Cloths,3,65.0,0.0,195.0,146.25,48.75,Card,Walk-in
+TXN-21245,2026-06-11,University Branch,Drinkware,Travel Mug,2,180.0,0.2,288.0,248.4,39.6,Cash,Online Order
+TXN-21246,2026-04-08,Main Branch,Kitchen Storage,Lunch Box,2,126.0,0.0,25000.0,189.0,63.0,Card,Returning
+TXN-21247,2026-05-16,University Branch,Cleaning Tools,Dish Brush,5,45.0,0.0,225.0,175.5,49.5,Card,Online Order
+TXN-21248,2026-09-03,Main Branch,Cookware,Nonstick Tray,5,180.0,0.0,900.0,684.0,216.0,Cash,Online Order
+TXN-21249,2026-01-04,Market Branch,Kitchen Storage,Spice Rack,2,231.0,0.0,462.0,323.4,138.6,Mobile Wallet,Walk-in
+TXN-21250,2026-01-11,Main Branch,Cleaning Tools,Dish Brush,1,49.5,0.05,47.02,38.61,8.41,Cash,Walk-in
+TXN-21251,2026-02-07,Main Branch,Cookware,Cooking Pot,3,715.0,0.1,1930.5,1544.4,386.1,Instapay,Returning
+TXN-21252,2026-02-20,University Branch,Cleaning Tools,Mop Set,4,234.0,0.0,936.0,655.2,280.8,Cash,Walk-in
+TXN-21253,2026-04-15,Main Branch,Kitchen Storage,Storage Jar,2,93.5,0.05,177.65,136.52,41.13,Card,Online Order
+TXN-21254,2026-02-02,Market Branch,Cleaning Tools,Spray Bottle,5,35.0,0.1,157.5,126.0,31.5,Instapay,Returning
+TXN-21255,2026-01-15,University Branch,Cookware,Frying Pan,1,380.0,0.1,342.0,258.4,83.6,Cash,Returning
+TXN-21256,2026-01-07,Main Branch,Drinkware,Glass Set,3,210.0,0.2,504.0,491.4,12.6,Mobile Wallet,Walk-in
+TXN-21257,2026-04-03,University Branch,Cleaning Tools,Dish Brush,4,47.25,0.05,42000.0,147.44,32.11,Card,Returning
+TXN-21258,2026-02-27,Market Branch,Drinkware,Travel Mug,2,162.0,0.0,324.0,223.56,100.44,Card,Online Order
+TXN-21259,2026-08-10,Main Branch,Drinkware,Travel Mug,5,180.0,0.0,900.0,621.0,279.0,Cash,Returning
+TXN-21260,2026-06-15,Main Branch,Drinkware,Water Bottle,1,99.75,0.15,84.79,73.81,10.98,Cash,Walk-in
+TXN-21261,2026-06-13,Main Branch,Cookware,Cooking Pot,5,585.0,0.15,2486.25,2106.0,380.25,Instapay,Returning
+TXN-21262,2026-07-07,Market Branch,Cleaning Tools,Mop Set,2,273.0,0.0,546.0,382.2,163.8,Mobile Wallet,Returning
+TXN-21263,2026-04-10,Main Branch,Cleaning Tools,Mop Set,1,286.0,0.0,286.0,200.2,85.8,Card,Returning
+TXN-21264,2026-07-29,Main Branch,Cleaning Tools,Spray Bottle,2,36.75,0.15,62.48,52.92,9.56,Card,Walk-in
+TXN-21265,2026-04-19,Main Branch,Kitchen Storage,Storage Jar,1,93.5,0.0,93.5,68.26,25.24,Cash,Walk-in
+TXN-21266,2026-08-09,University Branch,Kitchen Storage,Lunch Box,2,120.0,0.1,216.0,180.0,36.0,Card,Online Order
+TXN-21267,2026-02-02,Market Branch,Kitchen Storage,Storage Jar,5,76.5,0.05,363.38,279.2,84.18,Card,Walk-in
+TXN-21268,2026-07-15,Main Branch,Cookware,Kitchen Knife Set,4,319.0,0.2,1020.8,829.4,191.4,Cash,Online Order
+TXN-21269,2026-01-13,University Branch,Drinkware,Glass Set,4,210.0,0.1,756.0,655.2,100.8,Cash,Walk-in
+TXN-21270,2026-08-21,Market Branch,Cookware,Kitchen Knife Set,1,319.0,0.15,271.15,207.35,63.8,Cash,Returning
+TXN-21271,2026-09-08,Main Branch,Cleaning Tools,Mop Set,3,286.0,0.2,686.4,600.6,85.8,Mobile Wallet,Business Customer
+TXN-21272,2026-02-19,University Branch,Cleaning Tools,Microfiber Cloths,2,71.5,0.15,121.55,107.24,14.31,Cash,Walk-in
+TXN-21273,2026-05-02,University Branch,Cookware,Nonstick Tray,3,180.0,0.15,459.0,410.4,48.6,Cash,Online Order
+TXN-21274,2026-03-19,Market Branch,Cookware,Nonstick Tray,5,162.0,0.15,688.5,615.6,72.9,Cash,Walk-in
+TXN-21275,2026-08-12,Main Branch,Drinkware,Water Bottle,2,95.0,0.15,161.5,140.6,20.9,Card,Walk-in
+TXN-21276,2026-06-06,Market Branch,Kitchen Storage,Food Container Set,4,126.0,0.0,504.0,383.04,120.96,Cash,Returning
+TXN-21277,2026-09-17,University Branch,Cookware,Nonstick Tray,1,198.0,0.0,198.0,150.48,47.52,Cash,Online Order
+TXN-21278,2026-05-07,Main Branch,Drinkware,Water Bottle,3,85.5,0.0,256.5,189.81,66.69,Mobile Wallet,Business Customer
+TXN-21279,2026-07-23,University Branch,Cookware,Kitchen Knife Set,3,304.5,0.0,913.5,593.79,319.71,Card,Returning
+TXN-21280,2026-09-06,Main Branch,Drinkware,Thermal Flask,1,336.0,0.2,268.8,225.12,43.68,Cash,Walk-in
+TXN-21281,2026-07-07,University Branch,Cookware,Nonstick Tray,4,180.0,0.05,684.0,547.2,136.8,Cash,Walk-in
+TXN-21282,2026-07-01,Main Branch,Kitchen Storage,Spice Rack,4,220.0,0.1,792.0,616.0,176.0,Cash,Returning
+TXN-21283,2026-01-04,University Branch,Drinkware,Thermal Flask,2,288.0,0.15,489.6,385.92,103.68,Cash,Walk-in
+TXN-21284,2026-02-07,Main Branch,Kitchen Storage,Spice Rack,5,242.0,0.0,1210.0,847.0,363.0,Instapay,Online Order
+TXN-21285,2026-02-25,Market Branch,Cleaning Tools,Spray Bottle,1,31.5,0.0,31.5,22.68,8.82,Card,Online Order
+TXN-21286,2026-06-14,Market Branch,Kitchen Storage,Spice Rack,1,220.0,0.05,209.0,154.0,55.0,Mobile Wallet,Walk-in
+TXN-21287,2026-04-09,Main Branch,Cookware,Cooking Pot,2,682.5,0.0,1365.0,982.8,382.2,Cash,Walk-in
+TXN-21288,2026-07-20,University Branch,Drinkware,Water Bottle,2,95.0,0.1,171.0,140.6,30.4,Card,Business Customer
+TXN-21289,2026-05-11,University Branch,Kitchen Storage,Lunch Box,4,120.0,0.15,408.0,360.0,48.0,Cash,Returning
+TXN-21290,2026-05-18,Main Branch,Cookware,Frying Pan,3,418.0,0.0,1254.0,852.72,401.28,Cash,Walk-in
+TXN-21291,2026-06-27,Main Branch,Drinkware,Water Bottle,1,104.5,0.15,88.82,77.33,11.49,Card,Business Customer
+TXN-21292,2026-01-29,Main Branch,Drinkware,Glass Set,1,210.0,0.1,189.0,163.8,25.2,Cash,Walk-in
+TXN-21293,2026-05-23,Main Branch,Kitchen Storage,Lunch Box,1,120.0,0.0,120.0,90.0,30.0,Card,Walk-in
+TXN-21294,2026-02-17,Main Branch,Cookware,Cooking Pot,5,585.0,0.0,2925.0,2106.0,819.0,Mobile Wallet,Walk-in
+TXN-21295,2026-08-03,Main Branch,Kitchen Storage,Storage Jar,3,76.5,0.0,229.5,167.52,61.98,Instapay,Walk-in
+TXN-21296,2026-07-19,Market Branch,Cookware,Nonstick Tray,4,180.0,0.0,720.0,547.2,172.8,Cash,Walk-in
+TXN-21297,2026-01-25,University Branch,Kitchen Storage,Storage Jar,1,93.5,0.05,88.82,68.26,20.56,Cash,
+TXN-21298,2026-04-20,University Branch,Cookware,Frying Pan,1,342.0,0.0,342.0,232.56,109.44,Cash,Walk-in
+TXN-21299,2026-09-09,Main Branch,Kitchen Storage,Lunch Box,1,126.0,0.05,119.7,94.5,25.2,Card,Online Order
+TXN-21300,2026-02-06,Main Branch,Cookware,Frying Pan,3,342.0,0.1,923.4,697.68,225.72,Cash,Online Order
+TXN-21301,2026-06-21,Main Branch,Cookware,Nonstick Tray,1,180.0,0.1,162.0,136.8,25.2,Cash,Online Order
+TXN-21302,2026-02-22,Market Branch,Kitchen Storage,Spice Rack,3,220.0,0.05,627.0,462.0,165.0,Card,Online Order
+TXN-21303,2026-02-22,University Branch,Kitchen Storage,Food Container Set,1,140.0,0.2,112.0,106.4,5.6,Cash,Walk-in
+TXN-21304,2026-06-08,Market Branch,Cookware,Cooking Pot,3,682.5,0.05,1945.12,1474.2,470.92,Cash,
+TXN-21305,2026-06-07,Main Branch,Cookware,Nonstick Tray,1,180.0,0.2,144.0,136.8,7.2,Cash,Walk-in
+TXN-21306,2026-05-04,Main Branch,Cleaning Tools,Dish Brush,1,49.5,0.1,44.55,38.61,5.94,Cash,Walk-in
+TXN-21307,2026-02-19,Main Branch,Kitchen Storage,Food Container Set,3,126.0,0.0,378.0,287.28,90.72,Card,Returning
+TXN-21308,2026-08-17,Main Branch,Cookware,Frying Pan,1,418.0,0.05,397.1,284.24,112.86,Mobile Wallet,Returning
+TXN-21309,2026-04-25,Main Branch,Cookware,Kitchen Knife Set,3,304.5,0.0,913.5,593.79,319.71,Cash,Walk-in
+TXN-21310,2026-02-04,Main Branch,Drinkware,Water Bottle,5,95.0,-0.25,451.25,351.5,99.75,Instapay,Walk-in
+TXN-21311,2026-08-23,Market Branch,Kitchen Storage,Food Container Set,1,140.0,0.0,140.0,106.4,33.6,Cash,Online Order
+TXN-21312,2026-01-13,Market Branch,Cookware,Cooking Pot,2,715.0,0.05,1358.5,1029.6,328.9,Cash,Business Customer
+TXN-21313,2026-01-01,University Branch,Kitchen Storage,Storage Jar,1,89.25,0.0,89.25,65.15,24.1,Cash,Walk-in
+TXN-21314,2026-06-13,University Branch,Kitchen Storage,Spice Rack,2,198.0,0.0,396.0,277.2,118.8,Cash,Walk-in
+TXN-21315,2026-07-26,Market Branch,Cookware,Frying Pan,1,399.0,0.0,399.0,271.32,127.68,Instapay,Returning
+TXN-21316,2026-09-25,University Branch,Drinkware,Travel Mug,1,180.0,0.1,162.0,124.2,37.8,Cash,Online Order
+TXN-21317,2026-08-05,University Branch,Cleaning Tools,Spray Bottle,1,36.75,0.2,29.4,26.46,2.94,Mobile Wallet,Online Order
+TXN-21318,2026-04-24,Main Branch,Drinkware,Travel Mug,5,162.0,0.2,648.0,558.9,89.1,Cash,Walk-in
+TXN-21319,2026-09-01,Main Branch,Cleaning Tools,Mop Set,3,273.0,0.05,778.05,573.3,204.75,Instapay,Walk-in
+TXN-21320,2026-04-24,Main Branch,Cookware,Frying Pan,1,342.0,0.0,342.0,232.56,109.44,Mobile Wallet,Walk-in
+TXN-21321,2026-06-06,Main Branch,Cookware,Kitchen Knife Set,1,-50.0,0.15,271.15,207.35,63.8,Card,Online Order
+TXN-21322,2026-07-18,University Branch,Kitchen Storage,Lunch Box,4,120.0,0.15,408.0,360.0,48.0,Cash,Walk-in
+TXN-21323,2026-02-15,Main Branch,Kitchen Storage,Storage Jar,3,93.5,0.2,224.4,204.78,19.62,Cash,Returning
+TXN-21324,2026-09-08,Market Branch,Kitchen Storage,Lunch Box,3,126.0,0.2,302.4,283.5,18.9,Cash,Returning
+TXN-21325,2026-07-17,University Branch,Cookware,Kitchen Knife Set,4,290.0,0.1,1044.0,754.0,290.0,Cash,Online Order
+TXN-21326,2026-02-25,Main Branch,Kitchen Storage,Spice Rack,2,198.0,0.0,396.0,277.2,118.8,Cash,Returning
+TXN-21327,2026-09-24,Market Branch,Cleaning Tools,Mop Set,5,260.0,0.0,1300.0,910.0,390.0,Cash,Online Order
+TXN-21328,2026-01-12,Main Branch,Cookware,Frying Pan,2,380.0,0.1,684.0,516.8,167.2,Card,Online Order
+TXN-21329,2026-07-02,Main Branch,Kitchen Storage,Storage Jar,5,89.25,0.0,446.25,325.75,120.5,Cash,Returning
+TXN-21330,2026-01-09,Market Branch,Cookware,Kitchen Knife Set,2,304.5,0.0,609.0,395.86,213.14,Card,Returning
+TXN-21331,2026-09-01,Main Branch,Cookware,Cooking Pot,4,682.5,0.0,2730.0,1965.6,764.4,Card,Returning
+TXN-21332,2026-02-06,University Branch,Cookware,Frying Pan,1,380.0,0.0,380.0,258.4,121.6,Instapay,Returning
+TXN-21333,2026-06-29,University Branch,Cookware,Kitchen Knife Set,1,304.5,0.05,289.27,197.93,91.34,Cash,Returning
+TXN-21334,2026-08-26,Main Branch,Cleaning Tools,Spray Bottle,2,35.0,0.0,70.0,50.4,19.6,Card,Walk-in
+TXN-21335,2026-08-08,Market Branch,Kitchen Storage,Food Container Set,3,154.0,0.15,392.7,351.12,41.58,Card,Walk-in
+TXN-21336,2026-05-09,Main Branch,Drinkware,Travel Mug,5,198.0,0.0,990.0,683.1,306.9,Cash,Returning
+TXN-21337,2026-01-16,Market Branch,Kitchen Storage,Storage Jar,2,85.0,0.05,161.5,124.1,37.4,Card,Online Order
+TXN-21338,2026-01-17,Market Branch,Cookware,Kitchen Knife Set,5,290.0,,1160.0,942.5,217.5,Cash,Walk-in
+TXN-21339,2026-03-26,University Branch,Cleaning Tools,Spray Bottle,3,35.0,0.05,99.75,75.6,24.15,Card,Walk-in
+TXN-21340,2026-05-01,Market Branch,Drinkware,Travel Mug,1,180.0,0.0,180.0,124.2,55.8,Cash,Walk-in
+TXN-21341,2026-07-20,Market Branch,Kitchen Storage,Storage Jar,5,89.25,0.05,423.94,325.75,98.19,Cash,Online Order
+TXN-21342,2026-04-23,Market Branch,Cookware,Cooking Pot,1,650.0,0.0,650.0,468.0,182.0,Card,Walk-in
+TXN-21343,2026-09-20,University Branch,Cleaning Tools,Spray Bottle,1,31.5,0.2,25.2,22.68,2.52,Cash,Online Order
+TXN-21344,2026-01-02,University Branch,Kitchen Storage,Food Container Set,3,154.0,0.0,462.0,351.12,110.88,Mobile Wallet,Walk-in
+TXN-21345,2026-02-07,Main Branch,Cookware,Frying Pan,1,342.0,0.0,342.0,232.56,109.44,Mobile Wallet,Online Order
+TXN-21346,2026-09-08,Main Branch,Cookware,Nonstick Tray,1,198.0,0.15,168.3,150.48,17.82,Cash,Business Customer
+TXN-21347,2026-02-16,University Branch,Drinkware,Travel Mug,2,180.0,0.15,306.0,248.4,57.6,Mobile Wallet,Online Order
+TXN-21348,2026-06-09,Main Branch,Cleaning Tools,Microfiber Cloths,1,68.25,0.15,58.01,51.19,6.82,Card,Walk-in
+TXN-21349,2026-01-03,Market Branch,Drinkware,Travel Mug,3,198.0,0.15,504.9,409.86,95.04,Card,Online Order
+TXN-21350,2026-05-07,Main Branch,Cleaning Tools,Spray Bottle,5,35.0,0.2,140.0,126.0,14.0,,Walk-in
+TXN-21351,2026-02-17,Main Branch,Cookware,Frying Pan,4,342.0,0.2,1094.4,930.24,164.16,Card,Walk-in
+TXN-21352,2026-02-24,University Branch,Drinkware,Thermal Flask,2,288.0,0.0,576.0,385.92,190.08,Card,Walk-in
+TXN-21353,2026-01-27,University Branch,Cookware,Nonstick Tray,5,180.0,0.05,855.0,684.0,171.0,Card,Walk-in
+TXN-21354,2026-09-24,Main Branch,Cookware,Nonstick Tray,5,189.0,0.0,945.0,718.2,226.8,Mobile Wallet,Walk-in
+TXN-21355,2026-01-18,University Branch,Cookware,Nonstick Tray,5,189.0,0.1,850.5,718.2,132.3,Mobile Wallet,Walk-in
+TXN-21356,2026-04-05,Main Branch,Kitchen Storage,Storage Jar,1,93.5,0.05,88.82,68.26,20.56,Cash,Walk-in
+TXN-21357,2026-09-04,Main Branch,Cookware,Kitchen Knife Set,3,261.0,0.0,783.0,508.95,274.05,Cash,Online Order
+TXN-21358,2026-09-17,University Branch,Drinkware,Water Bottle,2,85.5,0.2,136.8,126.54,10.26,Cash,Walk-in
+TXN-21359,2026-07-09,Main Branch,Cleaning Tools,Dish Brush,1,40.5,0.0,40.5,31.59,8.91,Card,Walk-in
+TXN-21360,2026-04-10,Main Branch,Cookware,Nonstick Tray,5,198.0,0.15,841.5,752.4,89.1,Mobile Wallet,Online Order
+TXN-21361,2026-03-02,University Branch,Kitchen Storage,Food Container Set,1,140.0,0.0,140.0,106.4,33.6,Mobile Wallet,Walk-in
+TXN-21362,2026-01-11,University Branch,Cookware,Nonstick Tray,2,180.0,0.0,360.0,273.6,86.4,Cash,Walk-in
+TXN-21363,2026-05-29,Main Branch,Cleaning Tools,Dish Brush,5,45.0,0.15,191.25,175.5,15.75,Cash,Walk-in
+TXN-21364,2026-05-23,University Branch,Kitchen Storage,Lunch Box,5,108.0,0.2,432.0,405.0,27.0,Card,Walk-in
+TXN-21365,2026-08-08,Market Branch,Cookware,Frying Pan,1,418.0,0.05,397.1,284.24,112.86,Mobile Wallet,Returning
+TXN-21366,2026-04-02,Main Branch,Kitchen Storage,Lunch Box,2,108.0,0.0,216.0,162.0,54.0,Cash,Walk-in
+TXN-21367,2026-01-14,Market Branch,Drinkware,Travel Mug,2,198.0,0.0,396.0,273.24,122.76,Card,Walk-in
+TXN-21368,2026-08-04,University Branch,Cookware,Nonstick Tray,1,162.0,0.2,129.6,123.12,6.48,Card,Walk-in
+TXN-21369,2026-06-04,University Branch,Drinkware,Thermal Flask,1,320.0,0.0,320.0,214.4,105.6,Instapay,Walk-in
+TXN-21370,2026-05-18,Market Branch,Drinkware,Glass Set,2,210.0,0.0,420.0,327.6,92.4,Instapay,Online Order
+TXN-21371,2026-02-23,University Branch,Drinkware,Travel Mug,2,198.0,0.0,396.0,273.24,122.76,Instapay,Online Order
+TXN-21372,2026-07-31,Main Branch,Cookware,Cooking Pot,1,682.5,0.2,546.0,491.4,54.6,Card,Returning
+TXN-21373,2026-01-05,Main Branch,Cookware,Kitchen Knife Set,2,319.0,0.0,638.0,414.7,223.3,Card,Walk-in
+TXN-21374,2026-07-28,Main Branch,Cookware,Kitchen Knife Set,2,290.0,0.0,580.0,377.0,203.0,Cash,Business Customer
+TXN-21375,2026-04-02,University Branch,Kitchen Storage,Spice Rack,1,231.0,0.1,207.9,161.7,46.2,Cash,Walk-in
+TXN-21376,2026-07-07,University Branch,Drinkware,Water Bottle,3,95.0,0.1,256.5,210.9,45.6,Card,Walk-in
+TXN-21377,2026-07-04,Market Branch,Cookware,Kitchen Knife Set,1,261.0,0.05,247.95,169.65,78.3,Cash,Walk-in
+TXN-21378,2026-01-17,Main Branch,Cookware,Cooking Pot,1,650.0,0.0,650.0,468.0,182.0,Cash,Online Order
+TXN-21379,2026-04-15,University Branch,Drinkware,Water Bottle,5,95.0,0.15,403.75,351.5,52.25,Cash,Online Order
+TXN-21380,2026-04-02,University Branch,Kitchen Storage,Food Container Set,4,126.0,0.0,504.0,383.04,120.96,Mobile Wallet,Returning
+TXN-21381,2026-08-13,University Branch,Cookware,Kitchen Knife Set,1,290.0,0.0,290.0,188.5,101.5,Cash,Walk-in
+TXN-21382,2026-09-12,Market Branch,Kitchen Storage,Lunch Box,1,108.0,0.1,97.2,81.0,16.2,Cash,Online Order
+TXN-21383,2026-09-01,University Branch,Cleaning Tools,Dish Brush,1,45.0,0.05,42.75,35.1,7.65,Instapay,Online Order
+TXN-21384,2026-08-15,University Branch,Kitchen Storage,Lunch Box,4,120.0,0.0,480.0,360.0,120.0,Cash,Walk-in
+TXN-21385,2026-06-25,Main Branch,Cleaning Tools,Microfiber Cloths,2,65.0,0.0,130.0,97.5,32.5,Cash,Walk-in
+TXN-21386,2026-04-30,Main Branch,Drinkware,Water Bottle,1,95.0,0.0,95.0,70.3,24.7,Cash,Walk-in
+TXN-21387,2026-07-23,Market Branch,Cookware,Frying Pan,1,342.0,0.0,342.0,232.56,109.44,Card,Walk-in
+TXN-21388,2026-06-28,Main Branch,Cleaning Tools,Microfiber Cloths,1,65.0,0.0,65.0,48.75,16.25,Mobile Wallet,Walk-in
+TXN-21389,2026-04-20,University Branch,Drinkware,Travel Mug,1,180.0,0.15,153.0,124.2,28.8,Cash,Walk-in
+TXN-21390,2026-06-15,University Branch,Cookware,Cooking Pot,3,715.0,0.0,2145.0,1544.4,600.6,Card,Business Customer
+TXN-21391,2026-05-17,Main Branch,Cookware,Kitchen Knife Set,5,304.5,0.15,1294.12,989.65,304.47,,Walk-in
+TXN-21392,2026-04-07,University Branch,Cookware,Cooking Pot,5,650.0,0.05,3087.5,2340.0,747.5,Cash,Walk-in
+TXN-21393,2026-02-05,University Branch,Kitchen Storage,Storage Jar,2,93.5,0.15,158.95,136.52,22.43,Instapay,Online Order
+TXN-21394,2026-09-23,University Branch,Kitchen Storage,Food Container Set,2,147.0,0.0,294.0,223.44,70.56,Instapay,Online Order
+TXN-21395,2026-02-11,Main Branch,Kitchen Storage,Food Container Set,1,140.0,0.0,140.0,106.4,33.6,Cash,Returning
+TXN-21396,2026-02-22,University Branch,Cookware,Frying Pan,1,418.0,0.0,418.0,284.24,133.76,Mobile Wallet,Returning
+TXN-21397,2026-08-08,University Branch,Cookware,Kitchen Knife Set,2,319.0,0.0,638.0,414.7,223.3,Card,Walk-in
+TXN-21398,2026-07-10,Main Branch,Drinkware,Travel Mug,5,162.0,0.0,810.0,558.9,251.1,Instapay,Walk-in
+TXN-21399,2026-05-15,Market Branch,Kitchen Storage,Lunch Box,1,120.0,0.2,96.0,90.0,6.0,Card,Returning
+TXN-21400,2026-06-20,Main Branch,Kitchen Storage,Spice Rack,1,242.0,0.05,229.9,169.4,60.5,Cash,Online Order
+TXN-21401,2026-01-07,Main Branch,Cookware,Cooking Pot,4,650.0,0.0,2600.0,1872.0,728.0,Cash,Walk-in
+TXN-21402,2026-08-20,Main Branch,Drinkware,Water Bottle,5,85.5,0.0,427.5,316.35,111.15,Cash,Returning
+TXN-21403,2026-05-15,Main Branch,Kitchen Storage,Storage Jar,2,89.25,0.15,151.72,130.3,21.42,Cash,Walk-in
+TXN-21404,2026-09-10,Market Branch,Kitchen Storage,Food Container Set,1,147.0,0.05,139.65,111.72,27.93,Cash,Returning
+TXN-21405,2026-02-14,University Branch,Cookware,Frying Pan,3,342.0,0.05,974.7,697.68,277.02,Card,Walk-in
+TXN-21406,2026-09-21,Market Branch,Drinkware,Travel Mug,4,198.0,0.1,712.8,546.48,166.32,Cash,Returning
+TXN-21407,2026-02-02,Main Branch,Kitchen Storage,Food Container Set,4,126.0,0.0,504.0,383.04,120.96,Cash,Online Order
+TXN-21408,2026-09-21,University Branch,Drinkware,Thermal Flask,2,320.0,0.0,640.0,428.8,211.2,Cash,Returning
+TXN-21409,2026-07-05,Market Branch,Cookware,Cooking Pot,2,715.0,0.2,1144.0,1029.6,114.4,Mobile Wallet,Walk-in
+TXN-21410,2026-03-13,University Branch,Cookware,Nonstick Tray,2,198.0,0.0,396.0,300.96,95.04,Card,Walk-in
+TXN-21411,2026-05-13,University Branch,Cleaning Tools,Dish Brush,1,47.25,0.15,40.16,36.86,3.3,Cash,Returning
+TXN-21412,2026-06-14,Market Branch,Cleaning Tools,Mop Set,1,260.0,0.2,208.0,182.0,26.0,Cash,Walk-in
+TXN-21413,2026-01-29,Main Branch,Cleaning Tools,Microfiber Cloths,1,68.25,0.0,68.25,51.19,17.06,Cash,Returning
+TXN-21414,2026-03-01,Main Branch,Cookware,Frying Pan,2,418.0,0.05,794.2,568.48,225.72,,Online Order
+TXN-21415,2026-08-10,University Branch,Cleaning Tools,Microfiber Cloths,3,68.25,-0.25,184.28,153.57,30.71,Mobile Wallet,Online Order
+TXN-21416,2026-06-11,Main Branch,Cookware,Frying Pan,1,380.0,0.1,342.0,258.4,83.6,Mobile Wallet,Returning
+TXN-21417,2026-04-28,Main Branch,Cookware,Frying Pan,5,380.0,0.0,1900.0,1292.0,608.0,Mobile Wallet,Online Order
+TXN-21418,2026-05-03,Main Branch,Cookware,Cooking Pot,2,682.5,0.0,1365.0,982.8,382.2,Cash,Walk-in
+TXN-21419,2026-09-23,Main Branch,Cookware,Kitchen Knife Set,5,290.0,0.15,1232.5,942.5,290.0,Cash,Returning
+TXN-21420,2026-08-28,Main Branch,Cleaning Tools,Mop Set,5,260.0,0.15,1105.0,910.0,195.0,Cash,Walk-in
+TXN-21421,2026-02-28,Main Branch,Kitchen Storage,Food Container Set,3,154.0,0.15,392.7,351.12,41.58,Card,Returning
+TXN-21422,2026-09-01,Market Branch,Cleaning Tools,Mop Set,4,260.0,0.2,832.0,728.0,104.0,Cash,Walk-in
+TXN-21423,2026-06-26,University Branch,Kitchen Storage,Spice Rack,2,220.0,0.05,418.0,308.0,110.0,Card,Walk-in
+TXN-21424,2026-09-15,University Branch,Cleaning Tools,Dish Brush,2,49.5,0.15,84.15,77.22,6.93,Instapay,Online Order
+TXN-21425,2026-07-19,Main Branch,Drinkware,Travel Mug,2,162.0,0.0,324.0,223.56,100.44,Card,Business Customer
+TXN-21426,2026-04-04,Main Branch,Kitchen Storage,Spice Rack,3,242.0,0.0,726.0,508.2,217.8,Instapay,Returning
+TXN-21427,2026-03-29,University Branch,Kitchen Storage,Spice Rack,1,220.0,0.05,209.0,154.0,55.0,Cash,Returning
+TXN-21428,2026-08-02,Main Branch,Kitchen Storage,Storage Jar,2,85.0,0.15,144.5,124.1,20.4,Instapay,Walk-in
+TXN-21429,2026-04-04,University Branch,Kitchen Storage,Storage Jar,2,76.5,0.2,122.4,111.68,10.72,Cash,Walk-in
+TXN-21430,2026-07-31,University Branch,Drinkware,Glass Set,1,210.0,0.0,210.0,163.8,46.2,Cash,Business Customer
+TXN-21431,2026-01-30,Market Branch,Cleaning Tools,Dish Brush,1,40.5,0.15,34.42,31.59,2.83,Mobile Wallet,Returning
+TXN-21432,2026-08-02,Main Branch,Cookware,Kitchen Knife Set,4,290.0,0.0,1160.0,754.0,406.0,Mobile Wallet,Returning
+TXN-21433,2026-04-20,Market Branch,Drinkware,Travel Mug,5,180.0,0.0,900.0,621.0,279.0,Cash,Walk-in
+TXN-21434,2026-03-05,Main Branch,Cookware,Kitchen Knife Set,4,261.0,0.1,939.6,678.6,261.0,Mobile Wallet,Walk-in
+TXN-21435,2026-09-14,Market Branch,Drinkware,Water Bottle,1,95.0,0.0,95.0,70.3,24.7,Cash,Walk-in
+TXN-21436,2026-07-18,University Branch,Kitchen Storage,Food Container Set,2,126.0,0.0,252.0,191.52,60.48,Card,Returning
+TXN-21437,2026-04-12,Main Branch,Cleaning Tools,Mop Set,3,286.0,0.0,858.0,600.6,257.4,Cash,Returning
+TXN-21438,2026-02-20,Main Branch,Kitchen Storage,Storage Jar,3,,0.0,267.75,195.45,72.3,Cash,Returning
+TXN-21439,2026-06-04,Main Branch,Cleaning Tools,Dish Brush,1,40.5,0.0,40.5,31.59,8.91,Card,
+TXN-21440,2026-07-15,Main Branch,Kitchen Storage,Lunch Box,1,126.0,0.1,113.4,94.5,18.9,Cash,Online Order
+TXN-21441,2026-07-12,University Branch,Cleaning Tools,Mop Set,2,260.0,0.2,416.0,364.0,52.0,Cash,Returning
+TXN-21442,2026-06-23,University Branch,Cookware,Frying Pan,1,380.0,0.0,380.0,258.4,121.6,Instapay,Returning
+TXN-21443,2026-07-27,University Branch,Drinkware,Thermal Flask,5,352.0,0.2,1408.0,1179.2,228.8,Cash,Walk-in
+TXN-21444,2026-08-13,University Branch,Kitchen Storage,Food Container Set,2,147.0,0.0,294.0,223.44,70.56,Instapay,Walk-in
+TXN-21445,2026-03-02,Market Branch,Cookware,Cooking Pot,1,585.0,0.0,585.0,421.2,163.8,Instapay,Walk-in
+TXN-21446,2026-03-21,University Branch,Drinkware,Thermal Flask,2,288.0,0.2,460.8,385.92,74.88,Card,Walk-in
+TXN-21447,2026-02-25,Market Branch,Drinkware,Glass Set,2,220.5,0.05,418.95,343.98,74.97,Cash,Walk-in
+TXN-21448,2026-07-27,Main Branch,Cookware,Nonstick Tray,4,162.0,0.0,648.0,492.48,155.52,Cash,Walk-in
+TXN-21449,2026-08-14,Market Branch,Cookware,Nonstick Tray,5,180.0,0.2,720.0,684.0,36.0,Cash,Online Order
+TXN-21450,2026-08-17,University Branch,Kitchen Storage,Spice Rack,1,231.0,0.15,196.35,161.7,34.65,Cash,Returning
+TXN-21451,2026-08-17,Market Branch,Drinkware,Glass Set,3,231.0,0.1,623.7,540.54,83.16,Cash,Walk-in
+TXN-21452,2026-09-22,University Branch,Kitchen Storage,Storage Jar,1,85.0,0.15,72.25,62.05,10.2,Card,Walk-in
+TXN-21453,2026-06-23,Main Branch,Cookware,Nonstick Tray,2,180.0,0.2,288.0,273.6,14.4,Card,Walk-in
+TXN-21454,2026-09-14,University Branch,Cleaning Tools,Spray Bottle,5,35.0,0.2,140.0,126.0,14.0,Cash,Online Order
+TXN-21455,2026-03-25,Market Branch,Kitchen Storage,Storage Jar,5,85.0,0.0,425.0,310.25,114.75,Mobile Wallet,Returning
+TXN-21456,2026-02-03,University Branch,Kitchen Storage,Lunch Box,1,126.0,0.15,107.1,94.5,12.6,Cash,Walk-in
+TXN-21457,2026-03-04,Main Branch,Drinkware,Thermal Flask,4,288.0,0.0,1152.0,771.84,380.16,Instapay,Business Customer
+TXN-21458,2026-01-14,Market Branch,Drinkware,Water Bottle,1,85.5,0.05,81.22,63.27,17.95,Cash,Walk-in
+TXN-21459,2026-02-17,Main Branch,Cleaning Tools,Spray Bottle,3,38.5,0.0,115.5,83.16,32.34,Card,Walk-in
+TXN-21460,2026-03-02,Main Branch,Drinkware,Glass Set,1,189.0,-0.25,151.2,147.42,3.78,Instapay,Returning
+TXN-21461,2026-06-26,Market Branch,Cookware,Nonstick Tray,1,198.0,0.0,198.0,150.48,47.52,Cash,Online Order
+TXN-21462,2026-08-24,Main Branch,Kitchen Storage,Food Container Set,1,140.0,0.1,126.0,106.4,19.6,Cash,Online Order
+TXN-21463,2026-04-27,Main Branch,Kitchen Storage,Storage Jar,3,89.25,0.05,254.36,195.45,58.91,Cash,Online Order
+TXN-21464,2026-01-29,University Branch,Kitchen Storage,Lunch Box,4,108.0,0.15,367.2,324.0,43.2,,Returning
+TXN-21465,2026-01-14,University Branch,Kitchen Storage,Spice Rack,1,242.0,0.05,229.9,169.4,60.5,Mobile Wallet,Walk-in
+TXN-21466,2026-06-13,University Branch,Cookware,Nonstick Tray,5,180.0,0.0,900.0,684.0,216.0,Cash,Walk-in
+TXN-21467,2026-04-20,Market Branch,Cookware,Nonstick Tray,2,198.0,0.0,396.0,300.96,95.04,Cash,Returning
+TXN-21468,2026-01-08,Main Branch,Cleaning Tools,Mop Set,4,273.0,0.1,982.8,764.4,218.4,Mobile Wallet,Online Order
+TXN-21469,2026-08-03,University Branch,Kitchen Storage,Spice Rack,1,242.0,0.2,193.6,169.4,24.2,Card,Business Customer
+TXN-21470,2026-05-25,University Branch,Cookware,Kitchen Knife Set,4,290.0,0.1,1044.0,754.0,290.0,Instapay,Walk-in
+TXN-21471,2026-05-14,Market Branch,Cleaning Tools,Spray Bottle,1,35.0,0.1,31.5,25.2,6.3,Cash,Walk-in
+TXN-21472,2026-01-02,Main Branch,Cleaning Tools,Mop Set,1,260.0,0.0,260.0,182.0,78.0,Cash,Walk-in
+TXN-21473,2026-03-09,Market Branch,Cleaning Tools,Microfiber Cloths,1,65.0,0.1,58.5,48.75,9.75,Mobile Wallet,Returning
+TXN-21474,2026-04-23,Main Branch,Kitchen Storage,Spice Rack,3,231.0,0.0,693.0,485.1,207.9,Card,Online Order
+TXN-21475,2026-06-22,University Branch,Cleaning Tools,Dish Brush,1,49.5,0.1,44.55,38.61,5.94,Cash,Online Order
+TXN-21476,2026-02-05,Main Branch,Kitchen Storage,Storage Jar,2,85.0,0.1,153.0,124.1,28.9,Cash,Online Order
+TXN-21477,2026-06-29,Main Branch,Kitchen Storage,Storage Jar,4,76.5,0.0,306.0,223.36,82.64,Mobile Wallet,Returning
+TXN-21478,2026-05-16,Market Branch,Cookware,Nonstick Tray,3,198.0,0.0,594.0,451.44,142.56,Card,Returning
+TXN-21479,2026-06-25,University Branch,Cleaning Tools,Mop Set,1,260.0,0.2,208.0,182.0,26.0,,Walk-in
+TXN-21480,2026-01-26,Market Branch,Cookware,Kitchen Knife Set,3,304.5,,776.48,593.79,182.69,Mobile Wallet,Walk-in
+TXN-21481,2026-04-11,Main Branch,Cleaning Tools,Spray Bottle,1,38.5,0.05,36.57,27.72,8.85,Cash,Online Order
+TXN-21482,2026-07-02,Main Branch,Kitchen Storage,Lunch Box,1,108.0,0.0,108.0,81.0,27.0,Instapay,Walk-in
+TXN-21483,2026-05-13,Main Branch,Drinkware,Travel Mug,1,180.0,0.05,171.0,124.2,46.8,Cash,Returning
+TXN-21484,2026-01-10,Market Branch,Kitchen Storage,Food Container Set,5,147.0,0.1,661.5,558.6,102.9,Card,Online Order
+TXN-21485,2026-06-17,University Branch,Drinkware,Water Bottle,2,85.5,0.0,171.0,126.54,44.46,Card,Walk-in
+TXN-21486,2026-06-30,Market Branch,Cookware,Frying Pan,4,342.0,0.05,1299.6,930.24,369.36,Instapay,Returning
+TXN-21487,2026-06-07,University Branch,Cookware,Kitchen Knife Set,1,261.0,0.0,261.0,169.65,91.35,Card,Online Order
+TXN-21488,2026-03-05,Main Branch,Kitchen Storage,Spice Rack,4,-50.0,0.0,792.0,554.4,237.6,Mobile Wallet,Walk-in
+TXN-21489,2026-09-25,Main Branch,Cleaning Tools,Microfiber Cloths,1,65.0,0.1,58.5,48.75,9.75,Mobile Wallet,Walk-in
+TXN-21490,2026-03-17,University Branch,Cookware,Frying Pan,4,342.0,0.2,1094.4,930.24,164.16,Card,Online Order
+TXN-21491,2026-06-01,University Branch,Kitchen Storage,Storage Jar,1,89.25,0.0,89.25,65.15,24.1,Mobile Wallet,Returning
+TXN-21492,2026-04-30,Main Branch,Cookware,Kitchen Knife Set,2,290.0,0.0,580.0,377.0,203.0,Cash,Walk-in
+TXN-21493,2026-04-01,Market Branch,Drinkware,Travel Mug,5,162.0,0.1,729.0,558.9,170.1,Mobile Wallet,Walk-in
+TXN-21494,2026-01-16,University Branch,Kitchen Storage,Spice Rack,4,231.0,0.0,924.0,646.8,277.2,Cash,Walk-in
+TXN-21495,2026-09-08,Market Branch,Cookware,Cooking Pot,5,585.0,0.0,2925.0,2106.0,819.0,Mobile Wallet,Walk-in
+TXN-21496,2026-07-06,Market Branch,Drinkware,Thermal Flask,1,336.0,0.05,319.2,225.12,94.08,Cash,Returning
+TXN-21497,2026-05-27,Main Branch,Kitchen Storage,Spice Rack,1,198.0,0.2,158.4,138.6,19.8,Cash,Returning
+TXN-21498,2026-05-29,Main Branch,Drinkware,Travel Mug,1,180.0,0.0,180.0,124.2,55.8,Cash,Returning
+TXN-21499,2026-04-13,Main Branch,Cookware,Cooking Pot,5,715.0,0.0,3575.0,2574.0,1001.0,Mobile Wallet,Business Customer
+TXN-21500,2026-07-27,Main Branch,Cookware,Nonstick Tray,2,,0.0,360.0,273.6,86.4,Cash,Returning
+TXN-21368,2026-08-04,University Branch,Cookware,Nonstick Tray,1,162.0,0.2,129.6,123.12,6.48,Card,Walk-in
+TXN-20655,2026-01-08,University Branch,Kitchen Storage,Food Container Set,1,154.0,0.05,146.3,117.04,29.26,Card,Returning
+TXN-20323,2026-01-29,Main Branch,Kitchen Storage,Lunch Box,2,108.0,0.1,194.4,162.0,32.4,Cash,Returning
+TXN-21350,2026-05-07,Main Branch,Cleaning Tools,Spray Bottle,5,35.0,0.2,140.0,126.0,14.0,,Walk-in
+TXN-21343,2026-09-20,University Branch,Cleaning Tools,Spray Bottle,1,31.5,0.2,25.2,22.68,2.52,Cash,Online Order
+TXN-21197,2026-09-04,Main Branch,Kitchen Storage,Storage Jar,1,93.5,0.0,93.5,68.26,25.24,Cash,Online Order
+TXN-21196,2026-08-08,Main Branch,Cookware,Nonstick Tray,4,198.0,0.0,792.0,601.92,190.08,Cash,Returning
+TXN-20200,2026-08-26,University Branch,Cleaning Tools,Spray Bottle,3,31.5,0.0,94.5,68.04,26.46,Card,Walk-in
+TXN-20671,2026-07-22,University Branch,Kitchen Storage,Food Container Set,1,140.0,0.1,126.0,106.4,19.6,Cash,Walk-in
+TXN-20767,2026-02-28,Main Branch,Cookware,Frying Pan,1,342.0,0.0,342.0,232.56,109.44,Cash,Walk-in
+TXN-21168,2026-05-17,Main Branch,Kitchen Storage,Storage Jar,1,85.0,0.2,68.0,62.05,5.95,Cash,Walk-in
+TXN-20702,2026-09-10,Market Branch,Drinkware,Travel Mug,1,180.0,0.0,180.0,124.2,55.8,Cash,Walk-in
+TXN-21302,2026-02-22,Market Branch,Kitchen Storage,Spice Rack,3,220.0,0.05,627.0,462.0,165.0,Card,Online Order
+TXN-20533,2026-03-05,Market Branch,Cleaning Tools,Dish Brush,1,40.5,0.0,40.5,31.59,8.91,Cash,Walk-in
+TXN-20938,2026-04-01,University Branch,Drinkware,Glass Set,1,220.5,0.15,187.42,171.99,15.43,Mobile Wallet,Returning
